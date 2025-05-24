@@ -1,0 +1,3001 @@
+Horse_ID,Heart_Rate,Respiration_Rate,Temperature,Movement_Activity,Reaction_Score,Therapy_Readiness,Health_Status,Readiness_Score,Alert,Care_Recommendation
+TH00001,42,19,37.2,6,3,High,Healthy,0.59,No Alert,No Change
+TH00002,41,14,37.0,3,3,High,Healthy,0.34,No Alert,No Change
+TH00003,52,20,36.6,1,1,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00004,49,16,37.2,5,1,High,Healthy,0.39,No Alert,No Change
+TH00005,41,15,37.7,3,3,High,Healthy,0.47,No Alert,No Change
+TH00006,56,20,37.1,8,2,High,Healthy,0.65,No Alert,No Change
+TH00007,34,14,37.4,1,1,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH00008,51,19,37.7,2,4,High,Healthy,0.5,No Alert,No Change
+TH00009,50,18,37.8,3,1,High,Healthy,0.85,No Alert,No Change
+TH00010,41,13,37.0,3,3,High,Healthy,0.34,No Alert,No Change
+TH00011,48,15,38.0,8,3,High,Healthy,0.27,No Alert,No Change
+TH00012,32,11,38.1,5,1,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH00013,54,20,36.9,8,1,Medium,Healthy,0.54,No Alert,No Change
+TH00014,43,14,37.1,6,4,High,Healthy,0.63,No Alert,No Change
+TH00015,39,15,38.1,2,4,High,Critical,0.5,Emergency,Veterinary Checkup
+TH00016,55,21,37.4,4,2,High,Healthy,0.83,No Alert,No Change
+TH00017,37,11,36.5,9,2,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH00018,30,8,36.8,4,4,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH00019,30,10,37.4,5,2,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH00020,51,18,36.9,5,2,Medium,Healthy,0.72,No Alert,No Change
+TH00021,32,10,37.3,8,1,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH00022,62,23,37.5,6,4,High,Healthy,0.61,No Alert,No Change
+TH00023,30,11,38.2,7,1,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH00024,61,20,37.4,6,1,High,Healthy,0.44,No Alert,No Change
+TH00025,47,13,38.0,5,2,High,Healthy,0.22,No Alert,No Change
+TH00026,44,12,38.2,5,1,High,Healthy,0.33,No Alert,No Change
+TH00027,39,14,38.2,3,3,High,Critical,0.52,Emergency,Veterinary Checkup
+TH00028,48,12,37.6,7,2,High,Healthy,0.45,No Alert,No Change
+TH00029,44,17,36.5,5,3,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH00030,56,18,37.7,7,2,High,Healthy,0.55,No Alert,No Change
+TH00031,46,22,38.0,2,1,High,Healthy,0.47,No Alert,No Change
+TH00032,46,20,37.5,9,2,High,Healthy,0.3,No Alert,No Change
+TH00033,41,13,38.4,8,3,High,Healthy,0.44,No Alert,No Change
+TH00034,44,14,37.9,5,2,High,Healthy,0.91,No Alert,No Change
+TH00035,48,18,37.8,2,3,High,Healthy,0.44,No Alert,No Change
+TH00036,30,13,38.0,6,4,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH00037,31,8,37.7,8,1,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH00038,52,14,36.5,7,3,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH00039,46,14,37.3,8,4,High,Healthy,0.39,No Alert,No Change
+TH00040,43,15,38.1,4,1,High,Healthy,0.5,No Alert,No Change
+TH00041,45,16,37.1,3,4,High,Healthy,0.67,No Alert,No Change
+TH00042,48,18,37.4,7,3,High,Healthy,0.48,No Alert,No Change
+TH00043,39,11,37.0,2,1,High,Critical,0.37,Emergency,Veterinary Checkup
+TH00044,37,8,38.4,5,4,High,Critical,0.29,Emergency,Veterinary Checkup
+TH00045,46,17,38.3,7,3,High,Healthy,0.9,No Alert,No Change
+TH00046,35,10,37.1,1,4,High,Critical,0.55,Emergency,Veterinary Checkup
+TH00047,49,12,37.6,4,1,High,Healthy,0.7,No Alert,No Change
+TH00048,30,10,37.2,2,1,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH00049,55,20,37.8,6,1,High,Healthy,0.9,No Alert,No Change
+TH00050,49,16,37.8,1,3,High,Healthy,0.64,No Alert,No Change
+TH00051,47,15,37.9,7,4,High,Healthy,0.58,No Alert,No Change
+TH00052,54,18,37.7,3,4,High,Healthy,0.94,No Alert,No Change
+TH00053,61,20,39.0,1,3,High,Healthy,0.78,No Alert,No Change
+TH00054,55,16,37.0,8,1,High,Healthy,0.29,No Alert,No Change
+TH00055,30,9,36.6,7,2,Medium,Critical,0.34,Emergency,Veterinary Checkup
+TH00056,32,12,37.3,2,1,Medium,Critical,0.83,Emergency,Veterinary Checkup
+TH00057,38,13,36.7,7,2,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH00058,45,15,36.8,3,1,Medium,Healthy,0.64,No Alert,No Change
+TH00059,50,15,37.0,9,3,High,Healthy,0.64,No Alert,No Change
+TH00060,37,12,37.0,8,2,High,Critical,0.71,Emergency,Veterinary Checkup
+TH00061,46,11,37.0,5,3,High,Healthy,0.55,No Alert,No Change
+TH00062,37,13,37.8,7,2,High,Critical,0.74,Emergency,Veterinary Checkup
+TH00063,38,16,37.2,3,4,High,Critical,0.29,Emergency,Veterinary Checkup
+TH00064,30,8,37.4,1,2,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH00065,35,10,37.9,1,2,High,Critical,0.8,Emergency,Veterinary Checkup
+TH00066,31,11,37.1,2,2,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH00067,35,14,37.4,8,4,High,Critical,0.45,Emergency,Veterinary Checkup
+TH00068,55,17,37.7,1,3,High,Healthy,0.33,No Alert,No Change
+TH00069,35,10,36.5,5,4,Medium,Critical,0.53,Emergency,Veterinary Checkup
+TH00070,71,20,36.5,9,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00071,49,17,37.7,9,1,High,Healthy,0.71,No Alert,No Change
+TH00072,46,19,37.7,2,4,High,Healthy,0.51,No Alert,No Change
+TH00073,36,13,38.5,7,1,High,Critical,0.69,Emergency,Veterinary Checkup
+TH00074,52,17,37.6,1,4,High,Healthy,0.85,No Alert,No Change
+TH00075,39,14,37.9,3,4,High,Critical,0.22,Emergency,Veterinary Checkup
+TH00076,46,15,37.4,6,2,High,Healthy,0.56,No Alert,No Change
+TH00077,70,22,37.6,9,3,Low,Healthy,0.81,No Alert,No Change
+TH00078,44,16,38.3,2,3,High,Healthy,0.64,No Alert,No Change
+TH00079,56,19,36.5,7,2,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH00080,37,12,37.7,4,4,High,Critical,0.61,Emergency,Veterinary Checkup
+TH00081,44,13,38.6,2,3,High,Healthy,0.99,No Alert,No Change
+TH00082,62,23,37.6,3,3,High,Healthy,0.24,No Alert,No Change
+TH00083,38,14,38.3,6,3,High,Critical,0.59,Emergency,Veterinary Checkup
+TH00084,63,20,37.2,9,2,High,Healthy,0.27,No Alert,No Change
+TH00085,52,19,37.5,8,1,High,Healthy,0.33,No Alert,No Change
+TH00086,39,12,37.5,9,1,High,Critical,0.51,Emergency,Veterinary Checkup
+TH00087,51,15,36.5,4,1,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH00088,54,16,36.9,4,1,Medium,Healthy,0.97,No Alert,No Change
+TH00089,51,13,37.0,9,1,High,Healthy,0.96,No Alert,No Change
+TH00090,30,11,37.9,8,3,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH00091,37,9,37.9,2,3,High,Critical,0.71,Emergency,Veterinary Checkup
+TH00092,42,12,37.7,8,4,High,Healthy,0.63,No Alert,No Change
+TH00093,44,11,37.9,1,3,High,Healthy,0.85,No Alert,No Change
+TH00094,51,17,37.4,9,2,High,Healthy,0.7,No Alert,No Change
+TH00095,46,15,38.1,9,4,High,Healthy,0.2,No Alert,No Change
+TH00096,31,10,37.5,8,3,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH00097,48,14,37.5,5,4,High,Healthy,0.8,No Alert,No Change
+TH00098,51,15,37.4,5,4,High,Healthy,0.61,No Alert,No Change
+TH00099,50,18,37.8,3,1,High,Healthy,0.92,No Alert,No Change
+TH00100,55,17,37.3,5,4,High,Healthy,0.93,No Alert,No Change
+TH00101,53,18,38.0,4,3,High,Healthy,0.62,No Alert,No Change
+TH00102,49,15,36.9,1,1,Medium,Healthy,0.69,No Alert,No Change
+TH00103,44,15,37.0,9,3,High,Healthy,1.0,No Alert,No Change
+TH00104,30,13,37.8,4,1,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH00105,49,18,37.5,3,3,High,Healthy,0.46,No Alert,No Change
+TH00106,47,15,37.3,6,1,High,Healthy,0.35,No Alert,No Change
+TH00107,47,16,37.9,1,1,High,Healthy,0.92,No Alert,No Change
+TH00108,32,10,37.2,5,2,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH00109,34,11,37.4,7,3,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH00110,55,18,38.2,2,4,High,Healthy,0.99,No Alert,No Change
+TH00111,44,14,38.3,9,1,High,Healthy,0.78,No Alert,No Change
+TH00112,51,17,38.3,6,3,High,Healthy,0.88,No Alert,No Change
+TH00113,45,13,37.4,2,1,High,Healthy,0.24,No Alert,No Change
+TH00114,45,13,38.1,8,2,High,Healthy,0.6,No Alert,No Change
+TH00115,54,15,37.0,8,2,High,Healthy,0.76,No Alert,No Change
+TH00116,39,10,37.0,1,2,High,Critical,0.63,Emergency,Veterinary Checkup
+TH00117,45,13,36.5,1,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00118,40,14,38.3,1,4,High,Healthy,0.85,No Alert,No Change
+TH00119,40,12,37.1,4,4,High,Healthy,0.5,No Alert,No Change
+TH00120,41,15,37.4,4,1,High,Healthy,0.88,No Alert,No Change
+TH00121,47,16,37.0,8,3,High,Healthy,0.33,No Alert,No Change
+TH00122,40,9,37.8,1,2,High,Healthy,0.42,No Alert,No Change
+TH00123,57,20,37.3,3,2,High,Healthy,0.23,No Alert,No Change
+TH00124,36,14,36.8,1,4,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH00125,43,12,37.7,9,4,High,Healthy,0.5,No Alert,No Change
+TH00126,40,14,36.8,9,2,Medium,Healthy,0.84,No Alert,No Change
+TH00127,59,18,37.1,7,3,High,Healthy,0.72,No Alert,No Change
+TH00128,46,16,36.5,8,1,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH00129,55,16,36.8,1,1,Medium,Healthy,0.72,No Alert,No Change
+TH00130,30,8,37.6,5,1,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH00131,47,15,36.5,2,1,Medium,Critical,0.34,Emergency,Veterinary Checkup
+TH00132,53,17,36.8,1,3,Medium,Healthy,0.7,No Alert,No Change
+TH00133,45,14,37.5,3,3,High,Healthy,0.71,No Alert,No Change
+TH00134,55,16,37.2,7,3,High,Healthy,0.82,No Alert,No Change
+TH00135,39,12,38.5,1,4,High,Critical,0.52,Emergency,Veterinary Checkup
+TH00136,59,20,38.4,2,2,High,Healthy,0.78,No Alert,No Change
+TH00137,67,22,37.1,2,3,Low,Healthy,0.75,No Alert,No Change
+TH00138,41,14,37.8,4,1,High,Healthy,0.97,No Alert,No Change
+TH00139,40,12,37.9,3,3,High,Healthy,0.37,No Alert,No Change
+TH00140,59,22,37.2,3,2,High,Healthy,0.64,No Alert,No Change
+TH00141,60,18,36.8,5,4,Medium,Healthy,0.68,No Alert,No Change
+TH00142,39,14,37.5,3,1,High,Critical,1.0,Emergency,Veterinary Checkup
+TH00143,40,16,37.4,7,4,High,Healthy,0.36,No Alert,No Change
+TH00144,42,15,37.3,5,3,High,Healthy,0.62,No Alert,No Change
+TH00145,31,10,37.7,4,1,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH00146,35,11,37.1,3,1,High,Critical,0.62,Emergency,Veterinary Checkup
+TH00147,34,13,36.9,4,3,Medium,Critical,0.39,Emergency,Veterinary Checkup
+TH00148,37,9,37.6,2,3,High,Critical,0.24,Emergency,Veterinary Checkup
+TH00149,44,13,37.7,1,2,High,Healthy,0.66,No Alert,No Change
+TH00150,47,15,36.9,3,3,Medium,Healthy,0.47,No Alert,No Change
+TH00151,60,22,38.0,2,3,High,Healthy,0.35,No Alert,No Change
+TH00152,35,12,36.6,1,3,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH00153,54,16,37.2,1,1,High,Healthy,0.24,No Alert,No Change
+TH00154,42,13,37.4,2,2,High,Healthy,0.96,No Alert,No Change
+TH00155,44,13,37.2,9,1,High,Healthy,0.66,No Alert,No Change
+TH00156,51,16,37.2,5,3,High,Healthy,0.85,No Alert,No Change
+TH00157,33,13,38.4,9,2,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH00158,48,13,37.1,8,3,High,Healthy,0.92,No Alert,No Change
+TH00159,46,19,38.7,6,1,High,Healthy,0.59,No Alert,No Change
+TH00160,49,18,37.7,1,1,High,Healthy,0.66,No Alert,No Change
+TH00161,47,18,37.5,5,3,High,Healthy,0.59,No Alert,No Change
+TH00162,69,22,37.7,1,2,Low,Healthy,0.79,No Alert,No Change
+TH00163,38,12,38.8,7,1,High,Critical,0.65,Emergency,Veterinary Checkup
+TH00164,39,10,37.0,8,3,High,Critical,0.42,Emergency,Veterinary Checkup
+TH00165,38,12,36.9,8,4,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH00166,39,14,37.1,7,3,High,Critical,0.68,Emergency,Veterinary Checkup
+TH00167,38,15,37.5,2,3,High,Critical,0.59,Emergency,Veterinary Checkup
+TH00168,56,16,36.6,5,2,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH00169,59,19,37.5,4,3,High,Healthy,0.52,No Alert,No Change
+TH00170,39,13,38.3,5,4,High,Critical,0.61,Emergency,Veterinary Checkup
+TH00171,36,9,37.6,9,3,High,Critical,0.86,Emergency,Veterinary Checkup
+TH00172,49,18,37.4,4,4,High,Healthy,0.26,No Alert,No Change
+TH00173,39,12,37.2,8,1,High,Critical,0.48,Emergency,Veterinary Checkup
+TH00174,51,17,37.9,8,3,High,Healthy,0.86,No Alert,No Change
+TH00175,47,15,37.1,2,2,High,Healthy,0.72,No Alert,No Change
+TH00176,30,8,38.4,6,3,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH00177,60,20,38.5,5,4,High,Healthy,0.88,No Alert,No Change
+TH00178,62,20,37.6,2,4,High,Healthy,0.59,No Alert,No Change
+TH00179,38,12,37.5,4,2,High,Critical,0.6,Emergency,Veterinary Checkup
+TH00180,41,12,38.0,7,4,High,Healthy,0.98,No Alert,No Change
+TH00181,47,16,38.0,1,3,High,Healthy,0.96,No Alert,No Change
+TH00182,48,19,37.1,9,4,High,Healthy,0.49,No Alert,No Change
+TH00183,51,17,37.2,1,3,High,Healthy,0.31,No Alert,No Change
+TH00184,65,24,36.8,5,3,Medium,Healthy,0.46,No Alert,No Change
+TH00185,43,12,37.7,7,4,High,Healthy,0.22,No Alert,No Change
+TH00186,37,13,37.8,8,2,High,Critical,0.22,Emergency,Veterinary Checkup
+TH00187,31,8,36.8,2,1,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH00188,37,9,37.3,4,2,High,Critical,0.95,Emergency,Veterinary Checkup
+TH00189,44,13,36.8,2,1,Medium,Healthy,0.9,No Alert,No Change
+TH00190,62,23,37.1,4,2,High,Healthy,0.61,No Alert,No Change
+TH00191,39,15,37.8,6,3,High,Critical,0.65,Emergency,Veterinary Checkup
+TH00192,47,16,37.1,6,3,High,Healthy,0.2,No Alert,No Change
+TH00193,44,12,37.3,2,4,High,Healthy,0.37,No Alert,No Change
+TH00194,56,18,36.7,4,1,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH00195,70,24,37.6,4,1,Low,Healthy,0.8,No Alert,No Change
+TH00196,39,13,37.5,1,4,High,Critical,0.32,Emergency,Veterinary Checkup
+TH00197,40,10,37.1,2,2,High,Healthy,0.9,No Alert,No Change
+TH00198,55,17,37.4,3,4,High,Healthy,0.71,No Alert,No Change
+TH00199,51,17,37.6,5,2,High,Healthy,0.38,No Alert,No Change
+TH00200,63,22,37.1,8,4,High,Healthy,0.33,No Alert,No Change
+TH00201,50,12,36.8,6,1,Medium,Healthy,0.7,No Alert,No Change
+TH00202,41,13,38.4,3,1,High,Healthy,0.92,No Alert,No Change
+TH00203,50,17,37.2,6,2,High,Healthy,0.77,No Alert,No Change
+TH00204,56,20,37.5,7,1,High,Healthy,0.48,No Alert,No Change
+TH00205,53,19,38.0,6,1,High,Healthy,0.67,No Alert,No Change
+TH00206,50,18,39.3,6,1,Low,Critical,0.45,Emergency,Veterinary Checkup
+TH00207,55,17,36.9,1,1,Medium,Healthy,1.0,No Alert,No Change
+TH00208,56,15,37.7,3,3,High,Healthy,0.8,No Alert,No Change
+TH00209,58,19,37.1,7,4,High,Healthy,0.69,No Alert,No Change
+TH00210,51,19,37.2,4,4,High,Healthy,0.54,No Alert,No Change
+TH00211,43,17,37.1,4,3,High,Healthy,0.69,No Alert,No Change
+TH00212,46,17,36.9,7,1,Medium,Healthy,0.47,No Alert,No Change
+TH00213,57,20,37.5,9,4,High,Healthy,0.22,No Alert,No Change
+TH00214,36,13,36.8,2,4,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH00215,48,15,38.0,9,4,High,Healthy,0.94,No Alert,No Change
+TH00216,41,13,37.5,3,2,High,Healthy,0.7,No Alert,No Change
+TH00217,45,18,37.7,6,3,High,Healthy,0.27,No Alert,No Change
+TH00218,57,17,37.3,4,2,High,Healthy,0.91,No Alert,No Change
+TH00219,46,19,37.3,1,2,High,Healthy,0.42,No Alert,No Change
+TH00220,45,14,37.6,9,3,High,Healthy,0.4,No Alert,No Change
+TH00221,31,13,36.9,6,4,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH00222,52,15,37.3,8,2,High,Healthy,0.66,No Alert,No Change
+TH00223,51,18,37.1,2,4,High,Healthy,0.64,No Alert,No Change
+TH00224,66,21,37.1,7,2,Low,Healthy,0.59,No Alert,No Change
+TH00225,41,11,36.5,6,4,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH00226,47,16,38.2,2,1,High,Healthy,0.45,No Alert,No Change
+TH00227,47,18,37.2,2,1,High,Healthy,0.83,No Alert,No Change
+TH00228,60,18,38.1,4,1,High,Healthy,0.34,No Alert,No Change
+TH00229,44,12,38.0,4,3,High,Healthy,0.83,No Alert,No Change
+TH00230,47,15,36.9,3,1,Medium,Healthy,0.73,No Alert,No Change
+TH00231,51,17,37.0,8,2,High,Healthy,0.75,No Alert,No Change
+TH00232,46,16,38.8,7,4,High,Healthy,0.59,No Alert,No Change
+TH00233,40,15,38.4,2,4,High,Healthy,0.73,No Alert,No Change
+TH00234,46,15,37.5,3,4,High,Healthy,0.26,No Alert,No Change
+TH00235,55,22,37.6,9,4,High,Healthy,0.88,No Alert,No Change
+TH00236,34,12,37.2,5,2,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH00237,46,15,37.7,2,4,High,Healthy,0.32,No Alert,No Change
+TH00238,37,9,37.1,3,2,High,Critical,0.66,Emergency,Veterinary Checkup
+TH00239,56,18,36.5,8,2,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH00240,30,9,36.8,4,4,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH00241,39,15,37.5,2,4,High,Critical,0.94,Emergency,Veterinary Checkup
+TH00242,48,17,36.9,2,4,Medium,Healthy,0.98,No Alert,No Change
+TH00243,60,18,37.5,6,2,High,Healthy,0.68,No Alert,No Change
+TH00244,44,15,37.0,8,3,High,Healthy,0.58,No Alert,No Change
+TH00245,39,14,37.1,7,2,High,Critical,0.79,Emergency,Veterinary Checkup
+TH00246,63,24,37.9,4,3,High,Healthy,0.46,No Alert,No Change
+TH00247,30,12,37.6,2,4,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH00248,30,12,37.5,9,2,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH00249,49,16,37.9,4,4,High,Healthy,0.96,No Alert,No Change
+TH00250,39,14,37.7,9,3,High,Critical,0.94,Emergency,Veterinary Checkup
+TH00251,34,14,38.2,5,3,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH00252,52,15,37.3,7,2,High,Healthy,0.39,No Alert,No Change
+TH00253,47,15,37.3,5,2,High,Healthy,0.44,No Alert,No Change
+TH00254,39,11,36.8,2,2,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH00255,32,11,37.3,6,2,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH00256,53,20,38.0,7,1,High,Healthy,0.5,No Alert,No Change
+TH00257,51,16,38.1,6,1,High,Healthy,0.7,No Alert,No Change
+TH00258,44,10,38.0,3,4,High,Healthy,0.81,No Alert,No Change
+TH00259,63,20,36.6,8,3,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH00260,34,13,38.0,3,3,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH00261,30,11,36.6,5,4,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH00262,38,14,37.9,9,4,High,Critical,0.24,Emergency,Veterinary Checkup
+TH00263,44,14,37.3,5,4,High,Healthy,0.83,No Alert,No Change
+TH00264,47,13,37.9,7,1,High,Healthy,0.63,No Alert,No Change
+TH00265,42,15,36.8,7,4,Medium,Healthy,0.66,No Alert,No Change
+TH00266,48,14,38.1,5,3,High,Healthy,0.24,No Alert,No Change
+TH00267,32,15,36.8,2,4,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH00268,59,21,37.2,5,2,High,Healthy,0.71,No Alert,No Change
+TH00269,44,14,37.0,7,3,High,Healthy,0.89,No Alert,No Change
+TH00270,56,17,36.6,7,3,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH00271,48,16,37.5,4,3,High,Healthy,0.6,No Alert,No Change
+TH00272,49,16,38.4,1,1,High,Healthy,0.64,No Alert,No Change
+TH00273,50,19,38.8,6,1,High,Healthy,0.87,No Alert,No Change
+TH00274,49,17,37.5,3,3,High,Healthy,0.63,No Alert,No Change
+TH00275,51,16,38.1,5,2,High,Healthy,0.61,No Alert,No Change
+TH00276,58,23,37.6,4,3,High,Healthy,0.92,No Alert,No Change
+TH00277,46,15,37.7,2,1,High,Healthy,0.83,No Alert,No Change
+TH00278,52,19,37.3,7,2,High,Healthy,0.93,No Alert,No Change
+TH00279,44,13,37.6,5,3,High,Healthy,0.37,No Alert,No Change
+TH00280,59,20,37.8,7,1,High,Healthy,0.62,No Alert,No Change
+TH00281,38,13,37.2,9,2,High,Critical,0.87,Emergency,Veterinary Checkup
+TH00282,63,17,37.5,4,4,High,Healthy,0.29,No Alert,No Change
+TH00283,44,19,37.5,5,4,High,Healthy,0.84,No Alert,No Change
+TH00284,30,13,37.9,9,3,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH00285,46,15,37.0,4,4,High,Healthy,0.85,No Alert,No Change
+TH00286,38,10,37.5,5,1,High,Critical,0.69,Emergency,Veterinary Checkup
+TH00287,53,18,38.5,5,2,High,Healthy,0.35,No Alert,No Change
+TH00288,38,13,38.1,8,3,High,Critical,0.58,Emergency,Veterinary Checkup
+TH00289,40,14,38.2,4,2,High,Healthy,0.75,No Alert,No Change
+TH00290,30,10,37.5,4,2,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH00291,40,14,37.7,7,2,High,Healthy,0.54,No Alert,No Change
+TH00292,30,13,38.0,5,1,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH00293,30,11,38.3,6,3,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH00294,52,15,36.5,6,4,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH00295,52,20,36.8,6,2,Medium,Healthy,0.25,No Alert,No Change
+TH00296,49,20,38.2,5,2,High,Healthy,0.94,No Alert,No Change
+TH00297,35,18,37.4,5,2,High,Critical,0.34,Emergency,Veterinary Checkup
+TH00298,44,12,37.2,9,1,High,Healthy,0.62,No Alert,No Change
+TH00299,44,15,36.9,8,4,Medium,Healthy,0.84,No Alert,No Change
+TH00300,33,8,37.2,4,2,Medium,Critical,0.37,Emergency,Veterinary Checkup
+TH00301,60,21,36.8,7,1,Medium,Healthy,0.62,No Alert,No Change
+TH00302,53,17,38.5,8,1,High,Healthy,0.39,No Alert,No Change
+TH00303,42,18,37.5,9,2,High,Healthy,0.81,No Alert,No Change
+TH00304,45,13,37.5,5,2,High,Healthy,0.65,No Alert,No Change
+TH00305,47,12,37.8,3,1,High,Healthy,0.88,No Alert,No Change
+TH00306,30,9,38.0,4,1,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH00307,42,10,38.0,6,2,High,Healthy,0.72,No Alert,No Change
+TH00308,38,14,38.0,5,1,High,Critical,0.78,Emergency,Veterinary Checkup
+TH00309,34,8,37.2,9,1,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH00310,42,14,37.4,3,2,High,Healthy,0.51,No Alert,No Change
+TH00311,62,17,37.9,2,2,High,Healthy,0.72,No Alert,No Change
+TH00312,51,16,37.2,6,3,High,Healthy,0.93,No Alert,No Change
+TH00313,39,16,37.5,7,4,High,Critical,0.53,Emergency,Veterinary Checkup
+TH00314,50,17,37.7,5,2,High,Healthy,0.45,No Alert,No Change
+TH00315,58,18,37.9,1,2,High,Healthy,0.51,No Alert,No Change
+TH00316,54,18,36.6,3,2,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH00317,45,15,37.9,3,4,High,Healthy,0.26,No Alert,No Change
+TH00318,38,14,37.4,4,3,High,Critical,0.6,Emergency,Veterinary Checkup
+TH00319,51,14,37.9,6,1,High,Healthy,0.6,No Alert,No Change
+TH00320,48,17,37.9,5,4,High,Healthy,0.67,No Alert,No Change
+TH00321,53,12,38.3,1,2,High,Healthy,0.49,No Alert,No Change
+TH00322,51,16,38.2,6,2,High,Healthy,0.69,No Alert,No Change
+TH00323,55,17,38.2,9,3,High,Healthy,0.9,No Alert,No Change
+TH00324,39,14,38.2,1,3,High,Critical,0.96,Emergency,Veterinary Checkup
+TH00325,58,19,37.6,8,3,High,Healthy,0.67,No Alert,No Change
+TH00326,46,13,37.5,8,1,High,Healthy,0.23,No Alert,No Change
+TH00327,65,20,37.9,3,4,High,Healthy,0.98,No Alert,No Change
+TH00328,38,13,37.9,9,4,High,Critical,0.76,Emergency,Veterinary Checkup
+TH00329,62,21,37.3,8,3,High,Healthy,0.47,No Alert,No Change
+TH00330,46,14,37.7,3,1,High,Healthy,0.32,No Alert,No Change
+TH00331,38,12,37.5,5,4,High,Critical,0.31,Emergency,Veterinary Checkup
+TH00332,40,15,37.1,3,2,High,Healthy,0.33,No Alert,No Change
+TH00333,41,13,38.1,5,2,High,Healthy,0.24,No Alert,No Change
+TH00334,49,16,37.5,9,2,High,Healthy,0.92,No Alert,No Change
+TH00335,50,21,38.5,4,4,High,Healthy,0.63,No Alert,No Change
+TH00336,39,10,36.7,6,3,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH00337,44,11,37.2,3,2,High,Healthy,0.86,No Alert,No Change
+TH00338,66,24,37.5,3,3,Low,Healthy,0.83,No Alert,No Change
+TH00339,62,19,38.1,5,1,High,Healthy,0.91,No Alert,No Change
+TH00340,49,16,37.7,8,2,High,Healthy,0.97,No Alert,No Change
+TH00341,45,13,37.7,8,1,High,Healthy,0.55,No Alert,No Change
+TH00342,46,15,36.9,3,3,Medium,Healthy,0.96,No Alert,No Change
+TH00343,51,20,36.9,8,4,Medium,Healthy,0.78,No Alert,No Change
+TH00344,34,13,37.7,8,3,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH00345,42,16,36.8,3,2,Medium,Healthy,0.75,No Alert,No Change
+TH00346,30,8,37.2,2,2,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH00347,48,14,37.8,2,3,High,Healthy,0.92,No Alert,No Change
+TH00348,51,11,37.0,9,2,High,Healthy,0.5,No Alert,No Change
+TH00349,40,12,38.3,7,2,High,Healthy,0.67,No Alert,No Change
+TH00350,60,22,38.1,6,1,High,Healthy,0.21,No Alert,No Change
+TH00351,32,12,36.7,7,4,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH00352,30,10,37.0,8,3,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH00353,47,16,36.5,1,1,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH00354,55,17,37.1,8,2,High,Healthy,0.85,No Alert,No Change
+TH00355,61,21,37.9,3,1,High,Healthy,0.37,No Alert,No Change
+TH00356,40,15,37.3,3,4,High,Healthy,0.62,No Alert,No Change
+TH00357,55,15,37.7,6,3,High,Healthy,0.36,No Alert,No Change
+TH00358,44,15,36.7,4,4,Medium,Critical,0.3,Emergency,Veterinary Checkup
+TH00359,43,16,37.9,4,4,High,Healthy,0.61,No Alert,No Change
+TH00360,53,17,37.2,4,1,High,Healthy,0.26,No Alert,No Change
+TH00361,51,18,37.5,9,1,High,Healthy,0.67,No Alert,No Change
+TH00362,30,16,37.5,8,4,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH00363,59,19,36.9,3,2,Medium,Healthy,0.29,No Alert,No Change
+TH00364,58,20,36.9,1,3,Medium,Healthy,0.64,No Alert,No Change
+TH00365,38,11,38.0,1,2,High,Critical,0.67,Emergency,Veterinary Checkup
+TH00366,48,16,37.7,1,2,High,Healthy,0.22,No Alert,No Change
+TH00367,49,17,38.0,4,3,High,Healthy,0.66,No Alert,No Change
+TH00368,47,16,37.7,6,1,High,Healthy,0.87,No Alert,No Change
+TH00369,39,11,37.6,4,2,High,Critical,0.78,Emergency,Veterinary Checkup
+TH00370,38,13,36.6,3,1,Medium,Critical,0.3,Emergency,Veterinary Checkup
+TH00371,44,18,37.4,8,3,High,Healthy,0.67,No Alert,No Change
+TH00372,56,20,37.5,8,2,High,Healthy,0.74,No Alert,No Change
+TH00373,50,19,38.5,6,1,High,Healthy,0.23,No Alert,No Change
+TH00374,41,13,37.8,9,1,High,Healthy,0.88,No Alert,No Change
+TH00375,52,19,38.3,1,2,High,Healthy,0.93,No Alert,No Change
+TH00376,30,11,37.8,8,3,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH00377,56,17,37.1,6,4,High,Healthy,0.86,No Alert,No Change
+TH00378,30,11,37.6,1,1,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH00379,41,12,37.6,4,3,High,Healthy,0.71,No Alert,No Change
+TH00380,33,10,37.0,5,2,Medium,Critical,0.74,Emergency,Veterinary Checkup
+TH00381,32,11,37.3,7,1,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH00382,56,19,37.4,8,1,High,Healthy,0.73,No Alert,No Change
+TH00383,40,11,38.3,9,1,High,Healthy,0.46,No Alert,No Change
+TH00384,48,18,36.5,6,3,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH00385,44,16,38.1,9,1,High,Healthy,0.92,No Alert,No Change
+TH00386,49,15,37.0,4,1,High,Healthy,0.21,No Alert,No Change
+TH00387,45,12,36.8,8,2,Medium,Healthy,0.76,No Alert,No Change
+TH00388,32,10,38.1,3,1,Medium,Critical,0.96,Emergency,Veterinary Checkup
+TH00389,54,17,37.9,4,3,High,Healthy,0.76,No Alert,No Change
+TH00390,40,14,38.1,4,2,High,Healthy,1.0,No Alert,No Change
+TH00391,30,9,37.9,6,4,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH00392,40,9,38.5,9,2,High,Healthy,0.23,No Alert,No Change
+TH00393,60,19,37.8,6,1,High,Healthy,0.86,No Alert,No Change
+TH00394,53,17,37.4,1,4,High,Healthy,0.43,No Alert,No Change
+TH00395,41,15,37.7,5,2,High,Healthy,0.56,No Alert,No Change
+TH00396,41,12,38.1,9,1,High,Healthy,0.45,No Alert,No Change
+TH00397,41,17,37.1,5,2,High,Healthy,0.41,No Alert,No Change
+TH00398,65,18,37.2,6,3,High,Healthy,0.55,No Alert,No Change
+TH00399,48,19,37.3,3,1,High,Healthy,0.5,No Alert,No Change
+TH00400,49,16,36.5,8,3,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH00401,55,20,37.6,4,1,High,Healthy,0.85,No Alert,No Change
+TH00402,47,16,36.6,4,3,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH00403,42,16,37.5,5,4,High,Healthy,0.37,No Alert,No Change
+TH00404,43,14,37.9,9,3,High,Healthy,0.73,No Alert,No Change
+TH00405,44,12,37.3,8,2,High,Healthy,0.74,No Alert,No Change
+TH00406,44,18,38.3,7,1,High,Healthy,0.92,No Alert,No Change
+TH00407,52,17,36.8,5,2,Medium,Healthy,0.21,No Alert,No Change
+TH00408,45,15,38.1,9,3,High,Healthy,0.88,No Alert,No Change
+TH00409,52,20,37.8,9,1,High,Healthy,0.62,No Alert,No Change
+TH00410,44,13,36.6,2,3,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH00411,45,16,38.9,4,4,High,Healthy,0.27,No Alert,No Change
+TH00412,30,9,37.5,8,4,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH00413,54,18,37.1,1,4,High,Healthy,0.38,No Alert,No Change
+TH00414,48,16,36.8,5,3,Medium,Healthy,0.4,No Alert,No Change
+TH00415,54,15,37.4,8,3,High,Healthy,0.6,No Alert,No Change
+TH00416,30,8,37.4,2,4,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH00417,65,24,37.6,2,3,High,Healthy,0.8,No Alert,No Change
+TH00418,43,16,37.4,8,2,High,Healthy,0.67,No Alert,No Change
+TH00419,56,19,37.8,9,3,High,Healthy,0.63,No Alert,No Change
+TH00420,34,12,37.3,7,2,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH00421,51,16,36.5,8,4,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH00422,34,14,37.4,5,3,Medium,Critical,0.65,Emergency,Veterinary Checkup
+TH00423,38,12,36.5,1,4,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH00424,64,22,37.7,4,1,High,Healthy,0.38,No Alert,No Change
+TH00425,43,17,37.0,2,3,High,Healthy,0.69,No Alert,No Change
+TH00426,47,14,37.6,3,3,High,Healthy,0.62,No Alert,No Change
+TH00427,53,21,38.2,3,4,High,Healthy,0.21,No Alert,No Change
+TH00428,49,13,37.0,9,4,High,Healthy,0.86,No Alert,No Change
+TH00429,46,19,38.0,4,4,High,Healthy,0.76,No Alert,No Change
+TH00430,48,15,37.3,2,1,High,Healthy,0.73,No Alert,No Change
+TH00431,69,23,38.4,3,1,Low,Healthy,0.26,No Alert,No Change
+TH00432,44,11,37.3,3,4,High,Healthy,0.49,No Alert,No Change
+TH00433,47,15,37.1,7,3,High,Healthy,0.95,No Alert,No Change
+TH00434,55,16,37.8,8,3,High,Healthy,0.89,No Alert,No Change
+TH00435,56,17,37.3,6,4,High,Healthy,0.43,No Alert,No Change
+TH00436,56,18,37.1,4,2,High,Healthy,0.33,No Alert,No Change
+TH00437,51,19,37.3,6,1,High,Healthy,0.56,No Alert,No Change
+TH00438,33,11,37.5,1,1,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH00439,61,21,38.2,8,2,High,Healthy,0.75,No Alert,No Change
+TH00440,33,9,36.5,1,4,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH00441,48,14,37.5,5,3,High,Healthy,0.49,No Alert,No Change
+TH00442,37,16,37.8,2,3,High,Critical,0.25,Emergency,Veterinary Checkup
+TH00443,44,13,37.6,6,1,High,Healthy,0.92,No Alert,No Change
+TH00444,48,19,38.2,9,2,High,Healthy,0.23,No Alert,No Change
+TH00445,48,16,37.5,5,3,High,Healthy,0.96,No Alert,No Change
+TH00446,49,16,37.4,4,1,High,Healthy,0.73,No Alert,No Change
+TH00447,61,22,37.8,2,3,High,Healthy,0.95,No Alert,No Change
+TH00448,49,19,37.5,3,3,High,Healthy,0.36,No Alert,No Change
+TH00449,42,14,37.3,6,3,High,Healthy,0.23,No Alert,No Change
+TH00450,54,17,37.8,8,1,High,Healthy,0.59,No Alert,No Change
+TH00451,56,19,37.2,8,2,High,Healthy,0.56,No Alert,No Change
+TH00452,32,11,37.2,5,4,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH00453,50,18,37.2,5,2,High,Healthy,0.97,No Alert,No Change
+TH00454,52,17,38.2,3,3,High,Healthy,0.86,No Alert,No Change
+TH00455,42,15,36.5,7,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00456,58,23,37.7,6,3,High,Healthy,0.33,No Alert,No Change
+TH00457,43,15,37.5,1,1,High,Healthy,0.79,No Alert,No Change
+TH00458,46,16,36.7,4,1,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00459,43,11,37.7,6,1,High,Healthy,0.54,No Alert,No Change
+TH00460,45,10,37.7,6,3,High,Healthy,0.94,No Alert,No Change
+TH00461,34,12,37.8,3,2,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH00462,30,10,36.5,6,4,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH00463,60,19,38.2,6,4,High,Healthy,0.25,No Alert,No Change
+TH00464,36,12,37.1,9,1,High,Critical,0.84,Emergency,Veterinary Checkup
+TH00465,35,12,37.8,9,4,High,Critical,0.7,Emergency,Veterinary Checkup
+TH00466,30,12,37.9,2,3,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH00467,38,13,37.1,4,2,High,Critical,0.33,Emergency,Veterinary Checkup
+TH00468,31,9,37.8,9,4,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH00469,61,22,37.3,4,4,High,Healthy,0.33,No Alert,No Change
+TH00470,55,18,36.5,8,2,Medium,Critical,0.56,Emergency,Veterinary Checkup
+TH00471,38,14,38.1,3,4,High,Critical,0.4,Emergency,Veterinary Checkup
+TH00472,67,21,37.1,3,2,Low,Healthy,0.41,No Alert,No Change
+TH00473,54,17,37.1,9,3,High,Healthy,0.9,No Alert,No Change
+TH00474,41,14,37.3,8,3,High,Healthy,0.61,No Alert,No Change
+TH00475,30,10,37.6,1,3,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00476,67,23,37.5,2,1,Low,Healthy,0.23,No Alert,No Change
+TH00477,31,10,37.8,3,3,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH00478,30,8,36.8,2,4,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH00479,55,17,37.1,3,1,High,Healthy,0.35,No Alert,No Change
+TH00480,69,25,37.4,8,1,Low,Healthy,0.3,No Alert,No Change
+TH00481,58,19,38.4,6,1,High,Healthy,0.9,No Alert,No Change
+TH00482,50,16,37.4,7,3,High,Healthy,0.95,No Alert,No Change
+TH00483,50,19,38.0,6,1,High,Healthy,0.26,No Alert,No Change
+TH00484,53,16,37.5,1,3,High,Healthy,0.48,No Alert,No Change
+TH00485,52,14,37.3,3,3,High,Healthy,0.97,No Alert,No Change
+TH00486,47,15,37.4,1,1,High,Healthy,0.27,No Alert,No Change
+TH00487,46,14,37.4,9,1,High,Healthy,0.71,No Alert,No Change
+TH00488,44,13,37.8,9,4,High,Healthy,0.98,No Alert,No Change
+TH00489,37,12,38.2,5,1,High,Critical,0.98,Emergency,Veterinary Checkup
+TH00490,42,15,37.7,4,3,High,Healthy,0.58,No Alert,No Change
+TH00491,30,10,38.1,9,4,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH00492,44,15,37.0,9,4,High,Healthy,0.36,No Alert,No Change
+TH00493,35,15,37.3,3,3,High,Critical,0.91,Emergency,Veterinary Checkup
+TH00494,33,10,37.1,5,1,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH00495,46,16,37.7,3,1,High,Healthy,0.69,No Alert,No Change
+TH00496,58,18,37.3,2,2,High,Healthy,0.81,No Alert,No Change
+TH00497,54,16,37.9,1,1,High,Healthy,0.79,No Alert,No Change
+TH00498,30,9,37.0,2,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00499,35,11,37.5,8,4,High,Critical,0.86,Emergency,Veterinary Checkup
+TH00500,54,19,37.8,8,4,High,Healthy,0.75,No Alert,No Change
+TH00501,35,16,36.5,3,4,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH00502,42,13,38.6,7,2,High,Healthy,0.39,No Alert,No Change
+TH00503,50,16,37.4,7,3,High,Healthy,0.8,No Alert,No Change
+TH00504,35,12,36.5,2,3,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH00505,46,16,37.6,9,4,High,Healthy,0.44,No Alert,No Change
+TH00506,31,11,37.5,3,2,Medium,Critical,0.84,Emergency,Veterinary Checkup
+TH00507,38,15,37.5,2,2,High,Critical,0.76,Emergency,Veterinary Checkup
+TH00508,48,11,38.0,3,4,High,Healthy,0.95,No Alert,No Change
+TH00509,30,8,37.9,2,1,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH00510,49,15,37.6,8,4,High,Healthy,0.72,No Alert,No Change
+TH00511,44,17,37.7,5,2,High,Healthy,0.4,No Alert,No Change
+TH00512,50,14,37.4,3,1,High,Healthy,0.92,No Alert,No Change
+TH00513,47,10,38.4,5,3,High,Healthy,0.28,No Alert,No Change
+TH00514,58,20,36.8,8,1,Medium,Healthy,0.72,No Alert,No Change
+TH00515,46,16,37.6,7,3,High,Healthy,0.83,No Alert,No Change
+TH00516,40,11,37.5,6,2,High,Healthy,0.48,No Alert,No Change
+TH00517,46,13,37.9,1,4,High,Healthy,0.96,No Alert,No Change
+TH00518,50,15,37.1,1,4,High,Healthy,0.88,No Alert,No Change
+TH00519,45,15,36.6,1,4,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH00520,45,14,37.6,8,4,High,Healthy,0.21,No Alert,No Change
+TH00521,37,13,37.6,8,4,High,Critical,0.44,Emergency,Veterinary Checkup
+TH00522,38,8,38.2,7,2,High,Critical,0.43,Emergency,Veterinary Checkup
+TH00523,30,8,36.9,6,2,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH00524,62,18,38.1,4,4,High,Healthy,0.97,No Alert,No Change
+TH00525,32,10,38.7,1,1,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH00526,38,12,37.3,9,4,High,Critical,0.58,Emergency,Veterinary Checkup
+TH00527,37,14,36.9,1,3,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH00528,53,14,37.3,4,3,High,Healthy,0.27,No Alert,No Change
+TH00529,42,14,37.5,3,3,High,Healthy,0.5,No Alert,No Change
+TH00530,57,20,37.8,7,3,High,Healthy,0.45,No Alert,No Change
+TH00531,38,16,37.2,5,4,High,Critical,0.63,Emergency,Veterinary Checkup
+TH00532,47,15,38.3,5,3,High,Healthy,0.73,No Alert,No Change
+TH00533,36,13,36.9,4,1,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH00534,66,18,36.6,1,4,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH00535,33,8,38.1,5,3,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH00536,48,18,36.5,4,4,Medium,Critical,0.74,Emergency,Veterinary Checkup
+TH00537,51,17,37.4,8,4,High,Healthy,0.91,No Alert,No Change
+TH00538,49,19,39.1,2,4,Low,Healthy,0.56,No Alert,No Change
+TH00539,43,12,37.5,8,2,High,Healthy,0.92,No Alert,No Change
+TH00540,43,15,36.9,1,3,Medium,Healthy,0.89,No Alert,No Change
+TH00541,45,19,37.5,4,2,High,Healthy,0.55,No Alert,No Change
+TH00542,43,15,37.5,3,1,High,Healthy,0.5,No Alert,No Change
+TH00543,54,19,37.6,5,1,High,Healthy,0.95,No Alert,No Change
+TH00544,67,22,37.8,5,2,Low,Healthy,0.77,No Alert,No Change
+TH00545,39,10,37.0,5,3,High,Critical,0.94,Emergency,Veterinary Checkup
+TH00546,31,13,38.3,4,4,Medium,Critical,0.84,Emergency,Veterinary Checkup
+TH00547,44,13,37.6,8,1,High,Healthy,0.69,No Alert,No Change
+TH00548,70,24,37.9,3,1,Low,Healthy,0.29,No Alert,No Change
+TH00549,36,9,37.2,4,1,High,Critical,0.43,Emergency,Veterinary Checkup
+TH00550,61,18,38.1,1,3,High,Healthy,0.98,No Alert,No Change
+TH00551,61,23,37.4,7,2,High,Healthy,0.46,No Alert,No Change
+TH00552,39,12,37.6,1,2,High,Critical,0.27,Emergency,Veterinary Checkup
+TH00553,50,20,37.0,2,3,High,Healthy,0.77,No Alert,No Change
+TH00554,61,20,37.0,7,1,High,Healthy,0.79,No Alert,No Change
+TH00555,41,10,37.8,1,3,High,Healthy,0.43,No Alert,No Change
+TH00556,42,16,37.3,3,3,High,Healthy,0.44,No Alert,No Change
+TH00557,39,12,37.1,6,2,High,Critical,0.58,Emergency,Veterinary Checkup
+TH00558,34,13,37.2,6,3,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH00559,38,13,37.8,6,3,High,Critical,0.83,Emergency,Veterinary Checkup
+TH00560,32,8,37.2,2,1,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH00561,45,15,37.4,2,4,High,Healthy,0.88,No Alert,No Change
+TH00562,37,17,37.5,6,1,High,Critical,0.84,Emergency,Veterinary Checkup
+TH00563,47,17,36.5,5,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00564,30,10,36.8,7,4,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH00565,48,18,37.7,7,1,High,Healthy,0.61,No Alert,No Change
+TH00566,53,18,37.1,5,3,High,Healthy,0.56,No Alert,No Change
+TH00567,30,10,38.0,8,3,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH00568,48,14,38.0,6,4,High,Healthy,0.88,No Alert,No Change
+TH00569,57,19,37.9,5,4,High,Healthy,0.59,No Alert,No Change
+TH00570,32,13,38.4,4,3,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH00571,61,19,37.5,7,2,High,Healthy,0.28,No Alert,No Change
+TH00572,49,19,37.8,4,1,High,Healthy,0.31,No Alert,No Change
+TH00573,37,12,37.2,5,3,High,Critical,0.98,Emergency,Veterinary Checkup
+TH00574,44,13,38.7,5,1,High,Healthy,0.67,No Alert,No Change
+TH00575,50,19,38.5,1,1,High,Healthy,0.61,No Alert,No Change
+TH00576,45,14,37.5,1,1,High,Healthy,0.62,No Alert,No Change
+TH00577,50,18,37.7,3,1,High,Healthy,0.37,No Alert,No Change
+TH00578,35,11,38.2,3,2,High,Critical,0.77,Emergency,Veterinary Checkup
+TH00579,46,15,37.4,2,2,High,Healthy,0.27,No Alert,No Change
+TH00580,30,11,37.2,2,2,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH00581,43,15,37.9,6,3,High,Healthy,0.66,No Alert,No Change
+TH00582,35,8,37.5,1,3,High,Critical,0.93,Emergency,Veterinary Checkup
+TH00583,37,10,37.6,6,3,High,Critical,0.62,Emergency,Veterinary Checkup
+TH00584,57,21,37.1,5,2,High,Healthy,0.31,No Alert,No Change
+TH00585,55,18,36.6,6,1,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH00586,51,16,37.6,5,2,High,Healthy,0.27,No Alert,No Change
+TH00587,34,9,38.0,7,3,Medium,Critical,0.36,Emergency,Veterinary Checkup
+TH00588,41,12,37.4,1,4,High,Healthy,0.22,No Alert,No Change
+TH00589,57,15,38.2,3,3,High,Healthy,0.61,No Alert,No Change
+TH00590,46,15,37.1,6,1,High,Healthy,0.27,No Alert,No Change
+TH00591,68,21,37.0,1,2,Low,Healthy,0.58,No Alert,No Change
+TH00592,48,14,37.5,7,4,High,Healthy,0.95,No Alert,No Change
+TH00593,46,15,37.5,4,4,High,Healthy,0.78,No Alert,No Change
+TH00594,41,14,37.9,3,1,High,Healthy,0.26,No Alert,No Change
+TH00595,46,20,37.1,9,2,High,Healthy,0.38,No Alert,No Change
+TH00596,43,11,38.2,1,4,High,Healthy,0.74,No Alert,No Change
+TH00597,52,20,38.5,8,3,High,Healthy,0.92,No Alert,No Change
+TH00598,54,20,37.5,1,1,High,Healthy,0.23,No Alert,No Change
+TH00599,37,11,38.1,5,4,High,Critical,0.85,Emergency,Veterinary Checkup
+TH00600,31,11,37.0,8,1,Medium,Critical,0.65,Emergency,Veterinary Checkup
+TH00601,30,9,38.0,6,2,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH00602,50,17,38.0,7,2,High,Healthy,0.97,No Alert,No Change
+TH00603,33,14,37.9,8,2,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH00604,30,11,37.5,6,3,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH00605,48,17,36.5,6,4,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH00606,69,22,37.2,6,2,Low,Healthy,0.64,No Alert,No Change
+TH00607,44,12,37.2,5,3,High,Healthy,0.69,No Alert,No Change
+TH00608,53,17,37.0,8,2,High,Healthy,0.46,No Alert,No Change
+TH00609,45,17,37.6,2,2,High,Healthy,0.66,No Alert,No Change
+TH00610,44,12,37.3,7,4,High,Healthy,0.39,No Alert,No Change
+TH00611,54,16,37.1,4,3,High,Healthy,0.31,No Alert,No Change
+TH00612,42,14,37.0,1,2,High,Healthy,0.5,No Alert,No Change
+TH00613,47,14,37.1,5,3,High,Healthy,0.79,No Alert,No Change
+TH00614,48,14,38.1,3,3,High,Healthy,0.93,No Alert,No Change
+TH00615,38,12,37.2,4,2,High,Critical,0.57,Emergency,Veterinary Checkup
+TH00616,54,15,37.2,7,2,High,Healthy,0.71,No Alert,No Change
+TH00617,43,12,37.3,5,1,High,Healthy,0.28,No Alert,No Change
+TH00618,37,14,37.7,4,4,High,Critical,0.92,Emergency,Veterinary Checkup
+TH00619,50,14,37.7,1,2,High,Healthy,0.65,No Alert,No Change
+TH00620,36,9,36.5,6,1,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH00621,45,14,38.0,6,4,High,Healthy,0.84,No Alert,No Change
+TH00622,44,16,38.2,7,2,High,Healthy,0.41,No Alert,No Change
+TH00623,55,18,37.0,1,3,High,Healthy,0.62,No Alert,No Change
+TH00624,49,15,37.0,4,4,High,Healthy,0.97,No Alert,No Change
+TH00625,44,15,37.3,9,3,High,Healthy,0.27,No Alert,No Change
+TH00626,53,14,37.1,6,1,High,Healthy,0.75,No Alert,No Change
+TH00627,58,20,37.6,2,2,High,Healthy,0.97,No Alert,No Change
+TH00628,50,17,36.5,4,1,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH00629,45,14,36.9,6,2,Medium,Healthy,0.89,No Alert,No Change
+TH00630,31,12,38.3,4,2,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH00631,34,9,37.0,7,3,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH00632,41,16,38.1,3,1,High,Healthy,0.39,No Alert,No Change
+TH00633,38,13,37.7,6,3,High,Critical,0.47,Emergency,Veterinary Checkup
+TH00634,43,14,36.6,4,3,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH00635,45,15,37.8,3,3,High,Healthy,0.87,No Alert,No Change
+TH00636,50,16,37.4,3,1,High,Healthy,0.88,No Alert,No Change
+TH00637,44,17,37.3,2,2,High,Healthy,0.71,No Alert,No Change
+TH00638,49,14,37.6,3,2,High,Healthy,0.48,No Alert,No Change
+TH00639,45,13,37.7,1,1,High,Healthy,0.26,No Alert,No Change
+TH00640,30,12,37.9,3,2,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH00641,35,10,38.1,9,1,High,Critical,0.78,Emergency,Veterinary Checkup
+TH00642,43,16,37.7,4,1,High,Healthy,0.93,No Alert,No Change
+TH00643,32,14,36.8,3,2,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00644,50,16,37.3,8,4,High,Healthy,0.86,No Alert,No Change
+TH00645,60,21,39.0,1,3,High,Healthy,0.8,No Alert,No Change
+TH00646,57,17,37.9,5,1,High,Healthy,0.7,No Alert,No Change
+TH00647,42,16,38.7,1,1,High,Healthy,0.54,No Alert,No Change
+TH00648,59,20,38.2,7,4,High,Healthy,0.92,No Alert,No Change
+TH00649,46,16,37.6,5,1,High,Healthy,0.72,No Alert,No Change
+TH00650,41,12,37.7,2,1,High,Healthy,0.52,No Alert,No Change
+TH00651,38,9,37.5,1,2,High,Critical,0.27,Emergency,Veterinary Checkup
+TH00652,41,15,36.6,7,2,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH00653,41,10,37.5,1,4,High,Healthy,0.63,No Alert,No Change
+TH00654,46,15,38.1,3,1,High,Healthy,0.42,No Alert,No Change
+TH00655,46,17,37.2,6,3,High,Healthy,0.38,No Alert,No Change
+TH00656,45,15,37.7,6,2,High,Healthy,0.62,No Alert,No Change
+TH00657,49,20,37.9,7,3,High,Healthy,0.34,No Alert,No Change
+TH00658,56,21,37.0,1,3,High,Healthy,0.84,No Alert,No Change
+TH00659,54,17,37.3,7,4,High,Healthy,0.59,No Alert,No Change
+TH00660,30,10,37.0,2,4,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH00661,30,10,37.1,6,1,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH00662,54,15,36.9,8,4,Medium,Healthy,0.46,No Alert,No Change
+TH00663,31,8,37.0,5,2,Medium,Critical,0.53,Emergency,Veterinary Checkup
+TH00664,42,13,38.2,3,1,High,Healthy,0.85,No Alert,No Change
+TH00665,33,8,37.0,8,1,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH00666,30,10,37.6,8,3,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH00667,50,16,37.2,4,3,High,Healthy,0.69,No Alert,No Change
+TH00668,52,14,38.1,8,3,High,Healthy,0.39,No Alert,No Change
+TH00669,39,14,38.2,5,1,High,Critical,0.99,Emergency,Veterinary Checkup
+TH00670,30,11,37.9,5,4,Medium,Critical,0.96,Emergency,Veterinary Checkup
+TH00671,39,13,37.7,3,4,High,Critical,0.65,Emergency,Veterinary Checkup
+TH00672,48,15,37.4,7,4,High,Healthy,0.76,No Alert,No Change
+TH00673,30,11,36.9,9,1,Medium,Critical,0.84,Emergency,Veterinary Checkup
+TH00674,46,17,38.5,9,1,High,Healthy,0.78,No Alert,No Change
+TH00675,44,15,37.1,1,1,High,Healthy,0.76,No Alert,No Change
+TH00676,50,15,37.8,1,1,High,Healthy,0.97,No Alert,No Change
+TH00677,46,16,38.0,5,1,High,Healthy,0.68,No Alert,No Change
+TH00678,35,14,37.2,1,4,High,Critical,0.71,Emergency,Veterinary Checkup
+TH00679,56,17,38.0,4,1,High,Healthy,0.88,No Alert,No Change
+TH00680,43,19,37.9,1,4,High,Healthy,0.74,No Alert,No Change
+TH00681,44,14,38.4,2,1,High,Healthy,0.79,No Alert,No Change
+TH00682,35,12,37.3,2,4,High,Critical,0.39,Emergency,Veterinary Checkup
+TH00683,40,12,36.9,4,2,Medium,Healthy,0.5,No Alert,No Change
+TH00684,36,12,37.2,8,2,High,Critical,0.32,Emergency,Veterinary Checkup
+TH00685,43,11,37.6,2,4,High,Healthy,0.6,No Alert,No Change
+TH00686,62,20,37.5,9,2,High,Healthy,0.56,No Alert,No Change
+TH00687,31,8,37.3,9,2,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH00688,30,10,36.5,2,4,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH00689,59,22,37.7,1,1,High,Healthy,0.83,No Alert,No Change
+TH00690,42,15,38.5,9,1,High,Healthy,0.47,No Alert,No Change
+TH00691,38,8,37.7,2,4,High,Critical,0.87,Emergency,Veterinary Checkup
+TH00692,55,22,37.8,8,3,High,Healthy,0.69,No Alert,No Change
+TH00693,38,13,37.8,3,3,High,Critical,0.76,Emergency,Veterinary Checkup
+TH00694,63,19,37.7,1,2,High,Healthy,0.44,No Alert,No Change
+TH00695,51,17,38.0,1,3,High,Healthy,0.64,No Alert,No Change
+TH00696,40,14,37.7,2,2,High,Healthy,0.71,No Alert,No Change
+TH00697,66,21,37.3,7,1,Low,Healthy,0.67,No Alert,No Change
+TH00698,38,13,37.1,6,4,High,Critical,0.93,Emergency,Veterinary Checkup
+TH00699,52,16,37.4,2,1,High,Healthy,0.92,No Alert,No Change
+TH00700,47,15,37.7,4,4,High,Healthy,0.98,No Alert,No Change
+TH00701,58,18,37.3,2,3,High,Healthy,0.73,No Alert,No Change
+TH00702,60,17,37.7,1,1,High,Healthy,0.98,No Alert,No Change
+TH00703,45,15,37.7,3,1,High,Healthy,0.87,No Alert,No Change
+TH00704,37,14,37.9,4,2,High,Critical,0.42,Emergency,Veterinary Checkup
+TH00705,49,17,38.1,5,4,High,Healthy,0.54,No Alert,No Change
+TH00706,38,14,37.5,5,3,High,Critical,0.39,Emergency,Veterinary Checkup
+TH00707,65,22,36.8,7,1,Medium,Healthy,0.2,No Alert,No Change
+TH00708,46,14,37.3,8,4,High,Healthy,0.35,No Alert,No Change
+TH00709,41,15,37.5,9,3,High,Healthy,0.2,No Alert,No Change
+TH00710,46,13,36.6,7,1,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00711,31,9,38.2,5,4,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH00712,35,10,37.6,9,2,High,Critical,0.45,Emergency,Veterinary Checkup
+TH00713,57,21,37.7,8,1,High,Healthy,0.81,No Alert,No Change
+TH00714,38,15,38.2,9,4,High,Critical,0.87,Emergency,Veterinary Checkup
+TH00715,34,12,37.2,8,3,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH00716,50,19,37.8,6,3,High,Healthy,0.71,No Alert,No Change
+TH00717,56,17,37.4,4,2,High,Healthy,0.57,No Alert,No Change
+TH00718,52,18,37.4,9,1,High,Healthy,0.44,No Alert,No Change
+TH00719,54,18,37.1,9,2,High,Healthy,0.38,No Alert,No Change
+TH00720,37,14,38.3,9,4,High,Critical,0.37,Emergency,Veterinary Checkup
+TH00721,30,10,37.3,3,3,Medium,Critical,0.53,Emergency,Veterinary Checkup
+TH00722,60,19,37.8,3,2,High,Healthy,0.99,No Alert,No Change
+TH00723,41,15,36.6,6,1,Medium,Critical,0.2,Emergency,Veterinary Checkup
+TH00724,42,16,38.1,6,4,High,Healthy,0.36,No Alert,No Change
+TH00725,58,18,38.0,6,1,High,Healthy,0.35,No Alert,No Change
+TH00726,50,17,37.5,5,2,High,Healthy,0.77,No Alert,No Change
+TH00727,49,14,37.4,5,3,High,Healthy,0.48,No Alert,No Change
+TH00728,66,17,37.7,2,3,Low,Healthy,0.57,No Alert,No Change
+TH00729,38,13,38.6,7,2,High,Critical,0.32,Emergency,Veterinary Checkup
+TH00730,54,19,36.6,4,1,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH00731,45,16,37.9,3,1,High,Healthy,0.28,No Alert,No Change
+TH00732,47,12,37.0,8,1,High,Healthy,0.63,No Alert,No Change
+TH00733,60,19,37.5,4,1,High,Healthy,0.28,No Alert,No Change
+TH00734,50,12,37.4,4,3,High,Healthy,0.83,No Alert,No Change
+TH00735,50,19,37.3,8,1,High,Healthy,0.65,No Alert,No Change
+TH00736,55,16,37.5,1,2,High,Healthy,0.78,No Alert,No Change
+TH00737,41,16,36.9,9,2,Medium,Healthy,0.53,No Alert,No Change
+TH00738,36,14,38.0,7,2,High,Critical,0.51,Emergency,Veterinary Checkup
+TH00739,34,10,36.6,2,2,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH00740,30,8,37.8,6,1,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH00741,65,22,37.3,8,3,High,Healthy,0.61,No Alert,No Change
+TH00742,33,9,36.9,5,4,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH00743,42,14,37.6,6,1,High,Healthy,0.79,No Alert,No Change
+TH00744,42,13,36.7,8,4,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH00745,48,12,37.5,6,3,High,Healthy,0.8,No Alert,No Change
+TH00746,53,13,36.8,9,1,Medium,Healthy,0.32,No Alert,No Change
+TH00747,53,18,37.7,9,4,High,Healthy,0.7,No Alert,No Change
+TH00748,39,12,37.0,9,3,High,Critical,0.26,Emergency,Veterinary Checkup
+TH00749,43,13,37.3,6,4,High,Healthy,0.76,No Alert,No Change
+TH00750,47,17,37.6,9,2,High,Healthy,0.51,No Alert,No Change
+TH00751,42,16,37.1,3,2,High,Healthy,0.31,No Alert,No Change
+TH00752,61,20,37.5,5,3,High,Healthy,0.89,No Alert,No Change
+TH00753,49,16,36.7,2,3,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH00754,52,18,37.8,8,4,High,Healthy,0.48,No Alert,No Change
+TH00755,51,14,38.4,4,3,High,Healthy,0.22,No Alert,No Change
+TH00756,56,19,38.9,6,2,High,Healthy,0.63,No Alert,No Change
+TH00757,46,16,37.5,6,2,High,Healthy,0.94,No Alert,No Change
+TH00758,32,12,37.9,5,1,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH00759,48,12,36.6,1,4,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH00760,38,11,38.3,7,3,High,Critical,0.31,Emergency,Veterinary Checkup
+TH00761,39,11,37.9,8,3,High,Critical,0.65,Emergency,Veterinary Checkup
+TH00762,50,17,37.3,1,3,High,Healthy,0.84,No Alert,No Change
+TH00763,57,20,38.1,7,4,High,Healthy,0.62,No Alert,No Change
+TH00764,45,18,37.4,4,2,High,Healthy,0.27,No Alert,No Change
+TH00765,48,15,37.3,6,3,High,Healthy,0.67,No Alert,No Change
+TH00766,62,20,37.7,9,3,High,Healthy,0.69,No Alert,No Change
+TH00767,47,18,37.0,5,2,High,Healthy,0.78,No Alert,No Change
+TH00768,71,24,38.0,8,3,Low,Critical,0.81,Emergency,Veterinary Checkup
+TH00769,50,19,37.0,5,1,High,Healthy,0.82,No Alert,No Change
+TH00770,30,11,37.0,2,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00771,52,15,37.0,4,2,High,Healthy,0.37,No Alert,No Change
+TH00772,48,13,37.9,2,2,High,Healthy,0.52,No Alert,No Change
+TH00773,57,16,37.2,7,1,High,Healthy,0.82,No Alert,No Change
+TH00774,51,18,36.8,7,2,Medium,Healthy,0.96,No Alert,No Change
+TH00775,43,17,37.2,3,4,High,Healthy,0.26,No Alert,No Change
+TH00776,32,14,37.5,7,4,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH00777,42,16,36.9,1,4,Medium,Healthy,0.45,No Alert,No Change
+TH00778,36,14,36.9,1,2,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH00779,39,12,38.6,9,2,High,Critical,0.6,Emergency,Veterinary Checkup
+TH00780,50,14,37.1,6,2,High,Healthy,0.68,No Alert,No Change
+TH00781,61,22,37.3,5,1,High,Healthy,0.21,No Alert,No Change
+TH00782,48,17,37.3,6,4,High,Healthy,0.82,No Alert,No Change
+TH00783,33,11,37.3,6,3,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH00784,49,17,37.8,1,3,High,Healthy,0.97,No Alert,No Change
+TH00785,56,19,38.0,5,2,High,Healthy,0.34,No Alert,No Change
+TH00786,38,15,37.3,9,1,High,Critical,0.68,Emergency,Veterinary Checkup
+TH00787,43,17,36.9,4,2,Medium,Healthy,0.54,No Alert,No Change
+TH00788,45,16,38.1,3,3,High,Healthy,0.47,No Alert,No Change
+TH00789,37,14,37.5,1,4,High,Critical,0.65,Emergency,Veterinary Checkup
+TH00790,51,18,38.4,2,3,High,Healthy,0.83,No Alert,No Change
+TH00791,43,13,36.5,3,4,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH00792,49,18,37.6,4,4,High,Healthy,0.98,No Alert,No Change
+TH00793,36,9,38.5,7,1,High,Critical,0.85,Emergency,Veterinary Checkup
+TH00794,40,15,37.3,6,3,High,Healthy,0.8,No Alert,No Change
+TH00795,52,15,37.4,8,2,High,Healthy,0.81,No Alert,No Change
+TH00796,41,14,37.6,9,1,High,Healthy,0.51,No Alert,No Change
+TH00797,62,19,37.2,6,4,High,Healthy,0.8,No Alert,No Change
+TH00798,41,15,37.3,7,3,High,Healthy,0.51,No Alert,No Change
+TH00799,47,16,37.3,4,2,High,Healthy,0.92,No Alert,No Change
+TH00800,54,15,37.2,2,1,High,Healthy,0.34,No Alert,No Change
+TH00801,30,11,38.1,9,2,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH00802,30,9,37.7,9,3,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH00803,30,12,37.6,4,2,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH00804,57,19,37.9,3,1,High,Healthy,0.54,No Alert,No Change
+TH00805,39,14,37.4,6,2,High,Critical,0.59,Emergency,Veterinary Checkup
+TH00806,70,21,37.1,3,3,Low,Healthy,0.89,No Alert,No Change
+TH00807,39,12,37.2,1,1,High,Critical,0.62,Emergency,Veterinary Checkup
+TH00808,46,14,37.5,4,4,High,Healthy,0.49,No Alert,No Change
+TH00809,60,22,37.0,1,1,High,Healthy,0.4,No Alert,No Change
+TH00810,65,25,37.2,2,3,High,Healthy,0.53,No Alert,No Change
+TH00811,65,20,37.2,3,2,High,Healthy,0.61,No Alert,No Change
+TH00812,57,21,38.6,8,4,High,Healthy,0.8,No Alert,No Change
+TH00813,55,14,36.5,4,4,Medium,Critical,0.3,Emergency,Veterinary Checkup
+TH00814,50,14,37.4,4,2,High,Healthy,0.38,No Alert,No Change
+TH00815,52,15,38.4,9,3,High,Healthy,0.5,No Alert,No Change
+TH00816,39,10,37.6,7,1,High,Critical,0.49,Emergency,Veterinary Checkup
+TH00817,36,9,37.9,2,3,High,Critical,0.51,Emergency,Veterinary Checkup
+TH00818,44,15,37.5,3,4,High,Healthy,0.83,No Alert,No Change
+TH00819,43,14,37.2,4,1,High,Healthy,0.46,No Alert,No Change
+TH00820,40,14,36.5,4,1,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH00821,51,18,37.6,8,2,High,Healthy,0.7,No Alert,No Change
+TH00822,54,19,37.1,6,3,High,Healthy,0.39,No Alert,No Change
+TH00823,45,16,37.1,3,1,High,Healthy,0.77,No Alert,No Change
+TH00824,59,20,37.3,9,2,High,Healthy,0.64,No Alert,No Change
+TH00825,33,9,38.4,8,3,Medium,Critical,0.56,Emergency,Veterinary Checkup
+TH00826,43,16,38.7,9,4,High,Healthy,0.85,No Alert,No Change
+TH00827,37,11,37.6,5,4,High,Critical,0.39,Emergency,Veterinary Checkup
+TH00828,30,8,37.3,3,3,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH00829,44,14,36.9,4,1,Medium,Healthy,0.65,No Alert,No Change
+TH00830,43,13,37.7,5,1,High,Healthy,0.69,No Alert,No Change
+TH00831,60,19,38.4,9,4,High,Healthy,0.9,No Alert,No Change
+TH00832,51,18,37.4,9,4,High,Healthy,0.85,No Alert,No Change
+TH00833,34,12,36.5,3,1,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH00834,63,19,37.8,7,3,High,Healthy,0.8,No Alert,No Change
+TH00835,57,18,38.0,6,4,High,Healthy,0.55,No Alert,No Change
+TH00836,50,19,36.7,4,1,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH00837,42,15,37.6,5,3,High,Healthy,0.25,No Alert,No Change
+TH00838,35,16,37.7,2,2,High,Critical,0.27,Emergency,Veterinary Checkup
+TH00839,41,16,37.5,7,3,High,Healthy,0.86,No Alert,No Change
+TH00840,55,21,37.1,4,1,High,Healthy,0.25,No Alert,No Change
+TH00841,63,18,38.0,2,3,High,Healthy,0.34,No Alert,No Change
+TH00842,60,22,37.3,6,1,High,Healthy,0.84,No Alert,No Change
+TH00843,40,13,36.8,2,4,Medium,Healthy,0.2,No Alert,No Change
+TH00844,33,10,36.5,2,2,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH00845,46,16,38.1,7,4,High,Healthy,0.67,No Alert,No Change
+TH00846,30,12,37.8,1,4,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH00847,48,17,37.5,7,1,High,Healthy,0.82,No Alert,No Change
+TH00848,43,13,37.3,5,1,High,Healthy,0.6,No Alert,No Change
+TH00849,40,15,37.2,1,1,High,Healthy,0.61,No Alert,No Change
+TH00850,30,9,37.0,6,1,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00851,50,17,37.3,7,4,High,Healthy,0.6,No Alert,No Change
+TH00852,39,12,36.5,1,1,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH00853,33,11,37.1,9,1,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH00854,30,12,37.3,7,4,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH00855,44,13,37.8,1,2,High,Healthy,0.51,No Alert,No Change
+TH00856,62,25,37.5,3,2,High,Healthy,0.2,No Alert,No Change
+TH00857,61,17,37.9,5,3,High,Healthy,0.69,No Alert,No Change
+TH00858,40,12,38.2,4,4,High,Healthy,0.22,No Alert,No Change
+TH00859,38,13,38.0,2,1,High,Critical,0.6,Emergency,Veterinary Checkup
+TH00860,49,18,37.7,1,3,High,Healthy,0.84,No Alert,No Change
+TH00861,35,11,37.5,4,2,High,Critical,0.64,Emergency,Veterinary Checkup
+TH00862,48,16,37.0,7,2,High,Healthy,0.42,No Alert,No Change
+TH00863,52,18,37.9,4,4,High,Healthy,0.83,No Alert,No Change
+TH00864,57,19,38.3,9,1,High,Healthy,0.42,No Alert,No Change
+TH00865,43,17,37.7,8,1,High,Healthy,0.79,No Alert,No Change
+TH00866,42,16,38.5,8,3,High,Healthy,0.69,No Alert,No Change
+TH00867,36,14,36.7,5,2,Medium,Critical,0.34,Emergency,Veterinary Checkup
+TH00868,36,10,36.9,1,3,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH00869,42,14,37.9,9,3,High,Healthy,0.36,No Alert,No Change
+TH00870,48,15,37.6,2,3,High,Healthy,0.99,No Alert,No Change
+TH00871,54,16,38.2,6,1,High,Healthy,0.21,No Alert,No Change
+TH00872,36,13,37.5,5,2,High,Critical,0.41,Emergency,Veterinary Checkup
+TH00873,59,19,37.1,8,3,High,Healthy,0.36,No Alert,No Change
+TH00874,42,15,37.4,3,2,High,Healthy,0.21,No Alert,No Change
+TH00875,44,13,36.7,6,2,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH00876,37,16,36.9,6,3,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH00877,30,8,38.0,3,3,Medium,Critical,0.83,Emergency,Veterinary Checkup
+TH00878,53,18,37.9,7,4,High,Healthy,0.41,No Alert,No Change
+TH00879,52,19,37.7,4,1,High,Healthy,0.56,No Alert,No Change
+TH00880,42,13,36.6,5,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH00881,45,17,37.3,9,3,High,Healthy,0.55,No Alert,No Change
+TH00882,50,14,36.9,6,3,Medium,Healthy,0.76,No Alert,No Change
+TH00883,30,13,38.1,4,2,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH00884,39,13,37.2,8,3,High,Critical,0.29,Emergency,Veterinary Checkup
+TH00885,52,16,37.0,9,4,High,Healthy,0.82,No Alert,No Change
+TH00886,32,10,37.5,5,2,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH00887,47,17,37.2,2,3,High,Healthy,0.72,No Alert,No Change
+TH00888,31,9,38.2,6,2,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH00889,49,15,37.1,8,3,High,Healthy,0.41,No Alert,No Change
+TH00890,44,14,36.8,5,3,Medium,Healthy,0.51,No Alert,No Change
+TH00891,30,8,36.5,1,1,Medium,Critical,0.42,Emergency,Veterinary Checkup
+TH00892,56,22,37.5,8,2,High,Healthy,0.38,No Alert,No Change
+TH00893,37,11,37.2,9,1,High,Critical,0.84,Emergency,Veterinary Checkup
+TH00894,36,14,36.8,1,3,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH00895,47,16,38.1,8,2,High,Healthy,0.65,No Alert,No Change
+TH00896,56,17,37.8,2,2,High,Healthy,0.38,No Alert,No Change
+TH00897,34,11,37.5,4,4,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH00898,45,17,38.2,2,4,High,Healthy,0.35,No Alert,No Change
+TH00899,49,16,37.8,2,3,High,Healthy,0.84,No Alert,No Change
+TH00900,51,19,37.1,3,3,High,Healthy,0.97,No Alert,No Change
+TH00901,46,17,37.0,8,3,High,Healthy,0.78,No Alert,No Change
+TH00902,41,16,37.9,4,3,High,Healthy,0.99,No Alert,No Change
+TH00903,36,11,37.7,7,4,High,Critical,0.72,Emergency,Veterinary Checkup
+TH00904,45,13,37.6,3,2,High,Healthy,0.37,No Alert,No Change
+TH00905,34,10,37.1,3,1,Medium,Critical,0.36,Emergency,Veterinary Checkup
+TH00906,30,10,37.8,2,2,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH00907,49,17,37.1,6,2,High,Healthy,0.21,No Alert,No Change
+TH00908,54,14,37.4,6,4,High,Healthy,0.75,No Alert,No Change
+TH00909,30,10,38.2,1,2,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH00910,34,12,37.2,7,2,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH00911,51,16,36.7,4,3,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH00912,65,24,37.0,3,1,High,Healthy,0.58,No Alert,No Change
+TH00913,45,16,38.0,8,2,High,Healthy,0.97,No Alert,No Change
+TH00914,37,15,37.6,2,2,High,Critical,0.39,Emergency,Veterinary Checkup
+TH00915,43,14,37.4,9,1,High,Healthy,0.78,No Alert,No Change
+TH00916,58,21,37.2,8,3,High,Healthy,0.8,No Alert,No Change
+TH00917,38,16,37.7,8,4,High,Critical,0.38,Emergency,Veterinary Checkup
+TH00918,37,15,37.1,3,4,High,Critical,0.6,Emergency,Veterinary Checkup
+TH00919,40,11,37.7,4,2,High,Healthy,0.48,No Alert,No Change
+TH00920,35,11,37.1,2,3,High,Critical,0.82,Emergency,Veterinary Checkup
+TH00921,46,15,37.1,2,4,High,Healthy,0.7,No Alert,No Change
+TH00922,61,21,37.2,4,4,High,Healthy,0.58,No Alert,No Change
+TH00923,48,17,37.3,6,4,High,Healthy,0.82,No Alert,No Change
+TH00924,42,12,37.5,5,4,High,Healthy,0.39,No Alert,No Change
+TH00925,42,14,37.6,1,4,High,Healthy,0.8,No Alert,No Change
+TH00926,30,8,36.5,1,2,Medium,Critical,0.89,Emergency,Veterinary Checkup
+TH00927,53,21,37.1,6,4,High,Healthy,0.9,No Alert,No Change
+TH00928,44,14,37.3,3,2,High,Healthy,0.83,No Alert,No Change
+TH00929,43,14,38.3,3,1,High,Healthy,0.53,No Alert,No Change
+TH00930,76,25,37.0,7,1,Low,Critical,0.99,Emergency,Veterinary Checkup
+TH00931,47,18,37.6,1,3,High,Healthy,0.5,No Alert,No Change
+TH00932,37,8,38.2,1,2,High,Critical,0.71,Emergency,Veterinary Checkup
+TH00933,40,13,36.8,3,3,Medium,Healthy,0.33,No Alert,No Change
+TH00934,56,18,37.7,8,1,High,Healthy,0.98,No Alert,No Change
+TH00935,46,14,37.1,1,1,High,Healthy,0.76,No Alert,No Change
+TH00936,30,13,37.2,4,1,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH00937,54,16,37.1,9,1,High,Healthy,0.25,No Alert,No Change
+TH00938,38,14,37.1,4,4,High,Critical,0.81,Emergency,Veterinary Checkup
+TH00939,63,22,38.9,8,1,High,Healthy,0.82,No Alert,No Change
+TH00940,55,21,37.9,7,4,High,Healthy,0.74,No Alert,No Change
+TH00941,40,12,38.1,3,4,High,Healthy,0.43,No Alert,No Change
+TH00942,57,18,37.7,7,3,High,Healthy,0.59,No Alert,No Change
+TH00943,45,17,36.7,7,4,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH00944,53,19,37.7,3,3,High,Healthy,0.58,No Alert,No Change
+TH00945,49,13,38.0,2,4,High,Healthy,0.4,No Alert,No Change
+TH00946,36,11,37.1,9,4,High,Critical,0.48,Emergency,Veterinary Checkup
+TH00947,38,13,38.0,1,1,High,Critical,0.33,Emergency,Veterinary Checkup
+TH00948,55,20,37.9,7,2,High,Healthy,0.38,No Alert,No Change
+TH00949,41,12,38.4,4,4,High,Healthy,0.26,No Alert,No Change
+TH00950,40,8,37.3,2,2,High,Healthy,0.94,No Alert,No Change
+TH00951,35,13,37.0,2,2,High,Critical,0.62,Emergency,Veterinary Checkup
+TH00952,49,14,37.3,8,2,High,Healthy,0.52,No Alert,No Change
+TH00953,65,18,38.2,7,4,High,Healthy,0.63,No Alert,No Change
+TH00954,34,8,36.6,7,2,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH00955,45,17,36.5,5,4,Medium,Critical,0.94,Emergency,Veterinary Checkup
+TH00956,59,20,37.5,8,1,High,Healthy,0.34,No Alert,No Change
+TH00957,44,14,37.3,2,4,High,Healthy,0.44,No Alert,No Change
+TH00958,49,19,37.5,2,3,High,Healthy,0.98,No Alert,No Change
+TH00959,34,13,38.0,5,1,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH00960,49,20,37.2,1,2,High,Healthy,0.22,No Alert,No Change
+TH00961,43,12,36.6,6,2,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH00962,54,18,38.5,4,3,High,Healthy,0.22,No Alert,No Change
+TH00963,56,15,37.0,6,1,High,Healthy,0.99,No Alert,No Change
+TH00964,70,23,37.0,7,3,Low,Healthy,0.42,No Alert,No Change
+TH00965,50,16,38.1,3,2,High,Healthy,0.94,No Alert,No Change
+TH00966,48,17,37.3,8,4,High,Healthy,1.0,No Alert,No Change
+TH00967,46,15,37.5,7,2,High,Healthy,0.68,No Alert,No Change
+TH00968,41,15,37.7,1,3,High,Healthy,0.23,No Alert,No Change
+TH00969,48,17,38.0,6,4,High,Healthy,0.27,No Alert,No Change
+TH00970,42,18,37.3,7,4,High,Healthy,0.59,No Alert,No Change
+TH00971,46,15,38.3,4,2,High,Healthy,0.52,No Alert,No Change
+TH00972,58,17,36.5,2,4,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH00973,34,12,37.9,9,1,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH00974,56,17,37.1,7,2,High,Healthy,0.95,No Alert,No Change
+TH00975,58,22,38.2,1,2,High,Healthy,0.63,No Alert,No Change
+TH00976,43,14,37.6,8,1,High,Healthy,0.75,No Alert,No Change
+TH00977,30,9,37.2,3,2,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH00978,38,12,37.8,4,3,High,Critical,0.32,Emergency,Veterinary Checkup
+TH00979,57,20,37.9,5,3,High,Healthy,0.38,No Alert,No Change
+TH00980,44,14,37.8,1,2,High,Healthy,0.29,No Alert,No Change
+TH00981,35,10,37.0,6,1,High,Critical,0.31,Emergency,Veterinary Checkup
+TH00982,39,16,37.3,6,4,High,Critical,0.61,Emergency,Veterinary Checkup
+TH00983,53,16,37.5,2,1,High,Healthy,0.46,No Alert,No Change
+TH00984,50,17,37.5,6,3,High,Healthy,0.54,No Alert,No Change
+TH00985,42,15,37.9,8,2,High,Healthy,0.99,No Alert,No Change
+TH00986,41,10,36.5,6,1,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH00987,41,15,37.7,4,4,High,Healthy,0.63,No Alert,No Change
+TH00988,35,10,37.4,4,4,High,Critical,0.28,Emergency,Veterinary Checkup
+TH00989,61,22,37.1,9,4,High,Healthy,0.45,No Alert,No Change
+TH00990,41,12,37.1,6,4,High,Healthy,0.62,No Alert,No Change
+TH00991,57,20,37.4,8,1,High,Healthy,0.96,No Alert,No Change
+TH00992,60,22,36.5,8,4,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH00993,54,20,37.1,7,3,High,Healthy,0.25,No Alert,No Change
+TH00994,40,14,37.1,3,4,High,Healthy,0.51,No Alert,No Change
+TH00995,49,16,37.8,1,3,High,Healthy,0.32,No Alert,No Change
+TH00996,44,14,37.1,5,1,High,Healthy,0.38,No Alert,No Change
+TH00997,35,15,37.4,2,3,High,Critical,0.69,Emergency,Veterinary Checkup
+TH00998,48,15,38.3,2,1,High,Healthy,0.25,No Alert,No Change
+TH00999,33,9,38.0,7,4,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH01000,56,20,38.0,3,2,High,Healthy,0.69,No Alert,No Change
+TH01001,40,12,37.3,8,3,High,Healthy,0.54,No Alert,No Change
+TH01002,47,14,37.8,9,3,High,Healthy,0.22,No Alert,No Change
+TH01003,47,13,37.4,8,2,High,Healthy,0.99,No Alert,No Change
+TH01004,42,13,37.4,6,1,High,Healthy,0.49,No Alert,No Change
+TH01005,50,17,37.7,5,1,High,Healthy,0.82,No Alert,No Change
+TH01006,40,14,37.2,3,4,High,Healthy,0.46,No Alert,No Change
+TH01007,53,20,38.2,3,3,High,Healthy,0.58,No Alert,No Change
+TH01008,31,11,37.4,7,1,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH01009,46,15,37.8,5,4,High,Healthy,0.47,No Alert,No Change
+TH01010,64,21,38.2,6,1,High,Healthy,0.22,No Alert,No Change
+TH01011,34,12,38.0,6,2,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH01012,38,15,36.8,9,2,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH01013,50,17,37.7,1,2,High,Healthy,0.75,No Alert,No Change
+TH01014,46,14,37.9,8,4,High,Healthy,0.32,No Alert,No Change
+TH01015,48,14,37.9,5,3,High,Healthy,0.67,No Alert,No Change
+TH01016,49,13,36.9,6,2,Medium,Healthy,0.91,No Alert,No Change
+TH01017,51,18,37.2,6,2,High,Healthy,0.76,No Alert,No Change
+TH01018,56,20,38.0,1,1,High,Healthy,0.32,No Alert,No Change
+TH01019,49,17,37.1,3,2,High,Healthy,0.89,No Alert,No Change
+TH01020,42,14,37.4,6,3,High,Healthy,0.44,No Alert,No Change
+TH01021,51,20,38.3,9,4,High,Healthy,0.56,No Alert,No Change
+TH01022,63,20,37.5,6,2,High,Healthy,0.62,No Alert,No Change
+TH01023,43,16,37.1,6,4,High,Healthy,0.88,No Alert,No Change
+TH01024,35,12,37.1,1,4,High,Critical,0.95,Emergency,Veterinary Checkup
+TH01025,56,17,37.7,9,3,High,Healthy,0.94,No Alert,No Change
+TH01026,43,16,36.8,4,1,Medium,Healthy,0.21,No Alert,No Change
+TH01027,30,11,37.4,2,1,Medium,Critical,0.94,Emergency,Veterinary Checkup
+TH01028,53,18,37.7,1,4,High,Healthy,0.24,No Alert,No Change
+TH01029,39,13,38.1,3,2,High,Critical,0.41,Emergency,Veterinary Checkup
+TH01030,44,15,37.8,3,4,High,Healthy,0.61,No Alert,No Change
+TH01031,48,21,37.1,5,1,High,Healthy,0.58,No Alert,No Change
+TH01032,46,18,38.1,1,2,High,Healthy,0.68,No Alert,No Change
+TH01033,52,19,37.4,7,1,High,Healthy,0.58,No Alert,No Change
+TH01034,40,14,36.9,1,3,Medium,Healthy,0.95,No Alert,No Change
+TH01035,50,19,37.4,4,1,High,Healthy,0.39,No Alert,No Change
+TH01036,42,15,38.2,6,2,High,Healthy,0.42,No Alert,No Change
+TH01037,52,17,37.6,1,2,High,Healthy,0.94,No Alert,No Change
+TH01038,51,16,37.5,7,4,High,Healthy,0.26,No Alert,No Change
+TH01039,35,12,38.3,7,2,High,Critical,0.69,Emergency,Veterinary Checkup
+TH01040,55,12,36.8,3,3,Medium,Healthy,0.75,No Alert,No Change
+TH01041,39,13,36.9,4,1,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01042,53,17,36.7,6,4,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH01043,48,19,37.7,7,4,High,Healthy,0.34,No Alert,No Change
+TH01044,63,21,37.6,4,2,High,Healthy,0.88,No Alert,No Change
+TH01045,42,12,38.3,9,3,High,Healthy,0.31,No Alert,No Change
+TH01046,41,14,37.6,9,4,High,Healthy,0.52,No Alert,No Change
+TH01047,44,13,37.3,9,3,High,Healthy,0.26,No Alert,No Change
+TH01048,41,15,37.5,6,3,High,Healthy,0.64,No Alert,No Change
+TH01049,52,18,37.6,2,1,High,Healthy,0.74,No Alert,No Change
+TH01050,30,12,36.7,2,1,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH01051,34,10,38.9,4,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH01052,34,11,37.8,9,3,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH01053,54,15,37.6,3,1,High,Healthy,0.95,No Alert,No Change
+TH01054,62,22,37.8,6,4,High,Healthy,0.58,No Alert,No Change
+TH01055,43,15,37.9,2,4,High,Healthy,0.65,No Alert,No Change
+TH01056,43,15,37.4,1,2,High,Healthy,0.68,No Alert,No Change
+TH01057,45,15,37.2,5,3,High,Healthy,0.53,No Alert,No Change
+TH01058,56,19,37.8,8,1,High,Healthy,0.87,No Alert,No Change
+TH01059,35,15,37.7,2,4,High,Critical,0.35,Emergency,Veterinary Checkup
+TH01060,47,15,37.1,9,3,High,Healthy,0.64,No Alert,No Change
+TH01061,54,18,38.2,8,3,High,Healthy,0.78,No Alert,No Change
+TH01062,50,14,37.6,3,1,High,Healthy,0.92,No Alert,No Change
+TH01063,46,14,37.9,1,3,High,Healthy,0.91,No Alert,No Change
+TH01064,55,19,38.2,4,1,High,Healthy,0.61,No Alert,No Change
+TH01065,30,12,37.5,8,1,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH01066,51,16,37.7,3,1,High,Healthy,0.52,No Alert,No Change
+TH01067,38,12,37.9,2,3,High,Critical,0.57,Emergency,Veterinary Checkup
+TH01068,30,9,37.1,7,3,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH01069,50,16,37.5,4,1,High,Healthy,0.94,No Alert,No Change
+TH01070,58,20,37.6,6,3,High,Healthy,0.92,No Alert,No Change
+TH01071,43,11,37.0,5,1,High,Healthy,0.31,No Alert,No Change
+TH01072,54,21,38.7,2,2,High,Healthy,0.88,No Alert,No Change
+TH01073,61,19,36.8,2,3,Medium,Healthy,0.96,No Alert,No Change
+TH01074,58,21,36.9,9,3,Medium,Healthy,0.49,No Alert,No Change
+TH01075,61,18,38.2,2,2,High,Healthy,0.61,No Alert,No Change
+TH01076,52,19,37.9,8,2,High,Healthy,0.82,No Alert,No Change
+TH01077,45,16,37.0,8,2,High,Healthy,0.65,No Alert,No Change
+TH01078,30,11,37.8,1,1,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH01079,42,12,38.2,1,1,High,Healthy,0.56,No Alert,No Change
+TH01080,36,12,37.5,4,4,High,Critical,0.77,Emergency,Veterinary Checkup
+TH01081,66,20,38.8,2,2,Low,Healthy,0.83,No Alert,No Change
+TH01082,43,14,36.6,1,4,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01083,46,17,37.8,9,1,High,Healthy,0.89,No Alert,No Change
+TH01084,50,18,38.1,3,3,High,Healthy,0.64,No Alert,No Change
+TH01085,45,15,37.9,1,2,High,Healthy,0.53,No Alert,No Change
+TH01086,61,18,37.4,2,3,High,Healthy,0.29,No Alert,No Change
+TH01087,38,14,37.4,8,1,High,Critical,0.51,Emergency,Veterinary Checkup
+TH01088,46,15,37.7,5,2,High,Healthy,0.79,No Alert,No Change
+TH01089,37,8,37.9,7,4,High,Critical,0.94,Emergency,Veterinary Checkup
+TH01090,31,12,37.8,6,4,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH01091,38,13,38.0,1,1,High,Critical,0.48,Emergency,Veterinary Checkup
+TH01092,44,17,37.0,6,3,High,Healthy,0.32,No Alert,No Change
+TH01093,40,11,37.4,7,1,High,Healthy,0.75,No Alert,No Change
+TH01094,38,8,37.0,4,3,High,Critical,0.97,Emergency,Veterinary Checkup
+TH01095,30,11,37.3,8,1,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH01096,44,15,38.0,8,4,High,Healthy,0.69,No Alert,No Change
+TH01097,30,8,37.6,7,3,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH01098,52,15,38.8,2,1,High,Healthy,0.27,No Alert,No Change
+TH01099,45,21,37.6,6,2,High,Healthy,0.78,No Alert,No Change
+TH01100,30,9,37.5,6,4,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH01101,41,15,37.6,7,4,High,Healthy,0.73,No Alert,No Change
+TH01102,37,11,37.2,6,2,High,Critical,0.92,Emergency,Veterinary Checkup
+TH01103,48,12,37.5,2,1,High,Healthy,0.83,No Alert,No Change
+TH01104,58,19,38.1,8,3,High,Healthy,0.82,No Alert,No Change
+TH01105,30,9,37.6,4,4,Medium,Critical,0.94,Emergency,Veterinary Checkup
+TH01106,46,15,37.1,9,1,High,Healthy,0.99,No Alert,No Change
+TH01107,43,14,37.0,8,2,High,Healthy,0.67,No Alert,No Change
+TH01108,51,18,37.3,3,3,High,Healthy,0.29,No Alert,No Change
+TH01109,47,15,37.5,3,1,High,Healthy,0.57,No Alert,No Change
+TH01110,37,10,38.1,8,1,High,Critical,0.83,Emergency,Veterinary Checkup
+TH01111,41,15,36.8,2,4,Medium,Healthy,0.22,No Alert,No Change
+TH01112,37,8,37.3,9,4,High,Critical,0.25,Emergency,Veterinary Checkup
+TH01113,55,14,37.6,4,3,High,Healthy,0.25,No Alert,No Change
+TH01114,45,16,36.6,6,1,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH01115,64,22,37.1,3,2,High,Healthy,0.6,No Alert,No Change
+TH01116,44,15,37.2,3,2,High,Healthy,0.5,No Alert,No Change
+TH01117,37,10,37.1,3,3,High,Critical,0.28,Emergency,Veterinary Checkup
+TH01118,30,9,37.6,2,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH01119,30,9,37.4,8,4,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH01120,30,8,37.2,9,1,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH01121,47,14,37.7,8,4,High,Healthy,0.72,No Alert,No Change
+TH01122,50,18,38.4,3,2,High,Healthy,0.65,No Alert,No Change
+TH01123,30,13,38.3,7,3,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH01124,53,17,36.5,2,3,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH01125,40,15,37.8,4,3,High,Healthy,0.42,No Alert,No Change
+TH01126,46,12,37.4,6,4,High,Healthy,0.84,No Alert,No Change
+TH01127,61,22,37.6,5,2,High,Healthy,0.38,No Alert,No Change
+TH01128,53,16,37.3,9,2,High,Healthy,0.33,No Alert,No Change
+TH01129,42,15,37.6,4,3,High,Healthy,0.83,No Alert,No Change
+TH01130,36,12,37.6,5,3,High,Critical,0.77,Emergency,Veterinary Checkup
+TH01131,30,13,37.2,4,4,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01132,37,11,37.1,8,4,High,Critical,0.29,Emergency,Veterinary Checkup
+TH01133,42,15,37.3,8,1,High,Healthy,0.87,No Alert,No Change
+TH01134,35,11,37.6,3,4,High,Critical,0.82,Emergency,Veterinary Checkup
+TH01135,43,14,37.8,1,1,High,Healthy,0.46,No Alert,No Change
+TH01136,45,15,37.9,6,3,High,Healthy,0.73,No Alert,No Change
+TH01137,42,12,37.3,2,2,High,Healthy,0.3,No Alert,No Change
+TH01138,38,13,37.6,2,4,High,Critical,0.61,Emergency,Veterinary Checkup
+TH01139,46,15,38.0,3,2,High,Healthy,0.21,No Alert,No Change
+TH01140,49,17,38.1,8,4,High,Healthy,0.51,No Alert,No Change
+TH01141,34,12,37.5,3,4,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH01142,59,21,37.4,7,1,High,Healthy,0.58,No Alert,No Change
+TH01143,44,17,37.6,9,4,High,Healthy,0.54,No Alert,No Change
+TH01144,45,13,36.9,8,3,Medium,Healthy,0.56,No Alert,No Change
+TH01145,52,19,37.4,1,2,High,Healthy,0.24,No Alert,No Change
+TH01146,47,13,37.9,7,4,High,Healthy,0.49,No Alert,No Change
+TH01147,54,19,37.8,7,2,High,Healthy,0.81,No Alert,No Change
+TH01148,47,17,37.4,8,2,High,Healthy,0.5,No Alert,No Change
+TH01149,38,9,37.6,5,2,High,Critical,0.77,Emergency,Veterinary Checkup
+TH01150,48,16,37.1,9,4,High,Healthy,0.5,No Alert,No Change
+TH01151,33,10,37.9,9,1,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH01152,46,14,37.5,8,2,High,Healthy,0.65,No Alert,No Change
+TH01153,44,17,37.4,6,2,High,Healthy,0.96,No Alert,No Change
+TH01154,42,13,37.3,6,4,High,Healthy,0.29,No Alert,No Change
+TH01155,43,13,37.5,1,4,High,Healthy,0.23,No Alert,No Change
+TH01156,30,10,37.3,6,3,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH01157,39,14,37.8,4,3,High,Critical,0.96,Emergency,Veterinary Checkup
+TH01158,45,15,37.3,4,1,High,Healthy,0.99,No Alert,No Change
+TH01159,46,18,38.3,2,1,High,Healthy,0.59,No Alert,No Change
+TH01160,34,12,38.2,4,1,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH01161,57,15,37.1,5,1,High,Healthy,0.72,No Alert,No Change
+TH01162,36,11,37.5,5,2,High,Critical,0.64,Emergency,Veterinary Checkup
+TH01163,54,17,37.2,5,4,High,Healthy,0.71,No Alert,No Change
+TH01164,49,17,37.3,4,3,High,Healthy,0.9,No Alert,No Change
+TH01165,38,8,38.5,1,2,High,Critical,0.8,Emergency,Veterinary Checkup
+TH01166,62,26,37.3,8,4,High,Healthy,0.6,No Alert,No Change
+TH01167,33,12,37.7,3,4,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH01168,54,18,37.8,2,2,High,Healthy,0.71,No Alert,No Change
+TH01169,55,21,37.0,9,2,High,Healthy,0.56,No Alert,No Change
+TH01170,38,17,37.1,7,3,High,Critical,0.57,Emergency,Veterinary Checkup
+TH01171,58,21,36.9,9,1,Medium,Healthy,0.21,No Alert,No Change
+TH01172,42,16,37.1,2,1,High,Healthy,0.34,No Alert,No Change
+TH01173,47,16,36.5,9,3,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH01174,47,15,37.8,9,3,High,Healthy,0.86,No Alert,No Change
+TH01175,43,13,38.5,9,1,High,Healthy,0.42,No Alert,No Change
+TH01176,53,16,37.6,4,2,High,Healthy,0.62,No Alert,No Change
+TH01177,52,16,36.8,3,1,Medium,Healthy,0.48,No Alert,No Change
+TH01178,30,8,37.2,6,4,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH01179,58,19,37.3,3,4,High,Healthy,0.97,No Alert,No Change
+TH01180,30,8,37.0,9,3,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH01181,55,19,37.9,3,1,High,Healthy,0.26,No Alert,No Change
+TH01182,56,19,37.9,2,1,High,Healthy,0.78,No Alert,No Change
+TH01183,34,12,36.9,8,4,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH01184,40,12,37.9,6,1,High,Healthy,1.0,No Alert,No Change
+TH01185,33,17,38.3,8,3,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH01186,42,17,38.5,7,3,High,Healthy,0.39,No Alert,No Change
+TH01187,41,11,38.9,3,4,High,Healthy,0.65,No Alert,No Change
+TH01188,52,18,37.0,8,1,High,Healthy,0.87,No Alert,No Change
+TH01189,58,18,38.9,1,1,High,Healthy,0.35,No Alert,No Change
+TH01190,58,17,37.3,1,4,High,Healthy,0.77,No Alert,No Change
+TH01191,39,10,37.2,8,2,High,Critical,0.25,Emergency,Veterinary Checkup
+TH01192,42,15,37.7,9,2,High,Healthy,0.94,No Alert,No Change
+TH01193,30,9,37.2,6,1,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH01194,36,14,37.7,5,3,High,Critical,0.93,Emergency,Veterinary Checkup
+TH01195,54,20,36.8,2,2,Medium,Healthy,0.59,No Alert,No Change
+TH01196,61,23,37.4,9,1,High,Healthy,0.56,No Alert,No Change
+TH01197,32,9,38.1,6,2,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH01198,39,14,37.5,8,4,High,Critical,0.99,Emergency,Veterinary Checkup
+TH01199,44,16,37.6,9,2,High,Healthy,0.72,No Alert,No Change
+TH01200,47,15,37.7,9,2,High,Healthy,0.3,No Alert,No Change
+TH01201,36,10,38.1,8,4,High,Critical,0.6,Emergency,Veterinary Checkup
+TH01202,49,20,36.7,8,3,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH01203,40,14,37.8,3,1,High,Healthy,0.61,No Alert,No Change
+TH01204,44,16,37.4,3,3,High,Healthy,0.66,No Alert,No Change
+TH01205,50,15,37.6,2,3,High,Healthy,0.21,No Alert,No Change
+TH01206,45,13,38.0,1,2,High,Healthy,0.77,No Alert,No Change
+TH01207,40,12,36.9,4,1,Medium,Healthy,0.77,No Alert,No Change
+TH01208,43,14,37.0,2,2,High,Healthy,0.29,No Alert,No Change
+TH01209,44,13,36.5,2,4,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH01210,41,14,37.2,5,3,High,Healthy,0.65,No Alert,No Change
+TH01211,42,11,38.2,4,3,High,Healthy,0.75,No Alert,No Change
+TH01212,60,18,37.4,1,4,High,Healthy,0.27,No Alert,No Change
+TH01213,50,18,36.8,9,1,Medium,Healthy,0.7,No Alert,No Change
+TH01214,42,15,37.3,4,3,High,Healthy,0.42,No Alert,No Change
+TH01215,51,16,36.8,5,3,Medium,Healthy,0.61,No Alert,No Change
+TH01216,41,12,36.9,7,1,Medium,Healthy,0.82,No Alert,No Change
+TH01217,56,17,37.7,2,2,High,Healthy,0.76,No Alert,No Change
+TH01218,48,15,36.9,8,4,Medium,Healthy,0.3,No Alert,No Change
+TH01219,43,16,38.1,2,1,High,Healthy,0.67,No Alert,No Change
+TH01220,49,18,37.5,5,4,High,Healthy,0.98,No Alert,No Change
+TH01221,30,9,37.5,2,4,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH01222,33,9,37.4,2,3,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH01223,33,12,37.9,4,1,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH01224,46,14,37.9,4,4,High,Healthy,0.82,No Alert,No Change
+TH01225,62,20,37.7,8,2,High,Healthy,0.43,No Alert,No Change
+TH01226,67,25,37.8,6,4,Low,Healthy,0.43,No Alert,No Change
+TH01227,51,19,37.4,8,3,High,Healthy,0.92,No Alert,No Change
+TH01228,50,17,37.8,7,2,High,Healthy,0.49,No Alert,No Change
+TH01229,30,8,37.3,4,2,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH01230,39,13,37.5,2,1,High,Critical,0.68,Emergency,Veterinary Checkup
+TH01231,37,14,37.4,9,2,High,Critical,0.3,Emergency,Veterinary Checkup
+TH01232,38,12,37.3,2,1,High,Critical,0.84,Emergency,Veterinary Checkup
+TH01233,43,17,37.2,1,1,High,Healthy,0.71,No Alert,No Change
+TH01234,40,16,37.7,8,2,High,Healthy,0.9,No Alert,No Change
+TH01235,30,13,38.2,9,1,Medium,Critical,0.83,Emergency,Veterinary Checkup
+TH01236,52,18,38.1,1,1,High,Healthy,0.29,No Alert,No Change
+TH01237,34,13,36.9,7,2,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH01238,47,18,38.1,2,3,High,Healthy,0.82,No Alert,No Change
+TH01239,65,23,37.3,6,4,High,Healthy,0.53,No Alert,No Change
+TH01240,35,11,37.8,5,1,High,Critical,0.98,Emergency,Veterinary Checkup
+TH01241,30,9,37.0,1,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH01242,42,14,37.6,2,2,High,Healthy,0.21,No Alert,No Change
+TH01243,56,16,37.7,2,4,High,Healthy,0.9,No Alert,No Change
+TH01244,64,21,36.8,6,4,Medium,Healthy,0.28,No Alert,No Change
+TH01245,32,13,37.8,1,1,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH01246,49,12,38.2,4,2,High,Healthy,0.79,No Alert,No Change
+TH01247,40,16,37.4,5,3,High,Healthy,0.89,No Alert,No Change
+TH01248,43,17,38.2,2,4,High,Healthy,0.63,No Alert,No Change
+TH01249,71,23,37.4,2,3,Low,Critical,0.43,Emergency,Veterinary Checkup
+TH01250,30,11,37.9,7,2,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH01251,47,16,36.5,7,3,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH01252,49,19,38.7,6,2,High,Healthy,0.46,No Alert,No Change
+TH01253,55,20,38.2,1,1,High,Healthy,0.39,No Alert,No Change
+TH01254,45,12,37.4,3,3,High,Healthy,0.69,No Alert,No Change
+TH01255,48,17,36.5,9,1,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH01256,41,13,37.6,1,1,High,Healthy,0.45,No Alert,No Change
+TH01257,47,16,36.8,2,2,Medium,Healthy,0.35,No Alert,No Change
+TH01258,41,12,37.7,8,3,High,Healthy,0.87,No Alert,No Change
+TH01259,51,20,37.7,7,4,High,Healthy,0.79,No Alert,No Change
+TH01260,41,16,37.0,9,3,High,Healthy,0.94,No Alert,No Change
+TH01261,48,15,38.1,4,4,High,Healthy,0.33,No Alert,No Change
+TH01262,44,12,37.9,4,1,High,Healthy,0.32,No Alert,No Change
+TH01263,56,18,38.0,7,1,High,Healthy,0.63,No Alert,No Change
+TH01264,44,16,37.5,1,2,High,Healthy,0.69,No Alert,No Change
+TH01265,30,10,36.8,9,4,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH01266,57,22,38.0,2,3,High,Healthy,0.68,No Alert,No Change
+TH01267,35,13,37.4,1,2,High,Critical,0.34,Emergency,Veterinary Checkup
+TH01268,38,15,36.8,7,2,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH01269,39,14,38.2,6,2,High,Critical,0.73,Emergency,Veterinary Checkup
+TH01270,58,17,38.5,3,3,High,Healthy,0.55,No Alert,No Change
+TH01271,30,10,37.5,1,2,Medium,Critical,0.74,Emergency,Veterinary Checkup
+TH01272,76,27,38.6,5,3,Low,Critical,0.56,Emergency,Veterinary Checkup
+TH01273,55,18,37.5,4,2,High,Healthy,0.47,No Alert,No Change
+TH01274,47,17,37.3,5,4,High,Healthy,0.44,No Alert,No Change
+TH01275,44,14,37.2,1,1,High,Healthy,0.53,No Alert,No Change
+TH01276,47,14,38.3,1,4,High,Healthy,0.22,No Alert,No Change
+TH01277,50,16,37.1,5,4,High,Healthy,0.73,No Alert,No Change
+TH01278,51,18,37.9,6,2,High,Healthy,0.88,No Alert,No Change
+TH01279,50,15,37.2,5,4,High,Healthy,0.48,No Alert,No Change
+TH01280,45,15,37.3,2,4,High,Healthy,0.24,No Alert,No Change
+TH01281,43,12,38.0,9,4,High,Healthy,0.99,No Alert,No Change
+TH01282,43,17,37.3,5,2,High,Healthy,0.41,No Alert,No Change
+TH01283,43,14,37.3,5,3,High,Healthy,0.3,No Alert,No Change
+TH01284,56,22,38.1,9,1,High,Healthy,0.5,No Alert,No Change
+TH01285,50,20,38.3,3,1,High,Healthy,0.79,No Alert,No Change
+TH01286,30,10,37.8,5,3,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH01287,51,15,37.2,5,3,High,Healthy,0.66,No Alert,No Change
+TH01288,46,11,37.2,2,4,High,Healthy,0.53,No Alert,No Change
+TH01289,44,12,37.5,4,1,High,Healthy,0.29,No Alert,No Change
+TH01290,41,11,37.7,2,3,High,Healthy,0.46,No Alert,No Change
+TH01291,56,21,37.0,5,4,High,Healthy,0.78,No Alert,No Change
+TH01292,54,18,37.9,2,1,High,Healthy,0.69,No Alert,No Change
+TH01293,37,13,37.5,9,2,High,Critical,0.3,Emergency,Veterinary Checkup
+TH01294,49,12,36.6,6,2,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH01295,35,9,37.0,8,1,High,Critical,0.71,Emergency,Veterinary Checkup
+TH01296,31,12,37.2,9,1,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH01297,38,13,37.5,8,2,High,Critical,0.48,Emergency,Veterinary Checkup
+TH01298,53,17,38.4,5,2,High,Healthy,0.68,No Alert,No Change
+TH01299,54,19,37.6,5,1,High,Healthy,0.34,No Alert,No Change
+TH01300,50,20,37.1,6,4,High,Healthy,0.45,No Alert,No Change
+TH01301,52,17,37.6,1,3,High,Healthy,0.22,No Alert,No Change
+TH01302,50,17,37.3,8,3,High,Healthy,0.81,No Alert,No Change
+TH01303,38,13,37.7,2,1,High,Critical,0.52,Emergency,Veterinary Checkup
+TH01304,49,21,37.8,6,3,High,Healthy,0.85,No Alert,No Change
+TH01305,53,13,38.1,9,2,High,Healthy,0.77,No Alert,No Change
+TH01306,52,19,37.5,3,2,High,Healthy,0.86,No Alert,No Change
+TH01307,56,18,38.3,2,3,High,Healthy,0.43,No Alert,No Change
+TH01308,52,18,38.0,5,1,High,Healthy,0.35,No Alert,No Change
+TH01309,48,15,37.1,9,2,High,Healthy,0.98,No Alert,No Change
+TH01310,55,18,38.6,6,4,High,Healthy,0.77,No Alert,No Change
+TH01311,44,16,37.7,8,4,High,Healthy,0.87,No Alert,No Change
+TH01312,36,18,37.1,8,2,High,Critical,0.21,Emergency,Veterinary Checkup
+TH01313,43,16,38.3,7,2,High,Healthy,0.48,No Alert,No Change
+TH01314,37,11,38.5,5,3,High,Critical,0.79,Emergency,Veterinary Checkup
+TH01315,38,12,37.5,2,1,High,Critical,0.26,Emergency,Veterinary Checkup
+TH01316,43,13,37.2,5,3,High,Healthy,0.65,No Alert,No Change
+TH01317,37,9,37.4,7,1,High,Critical,0.54,Emergency,Veterinary Checkup
+TH01318,41,13,37.9,7,4,High,Healthy,0.21,No Alert,No Change
+TH01319,30,11,38.1,2,4,Medium,Critical,0.39,Emergency,Veterinary Checkup
+TH01320,47,13,37.8,7,1,High,Healthy,0.43,No Alert,No Change
+TH01321,45,17,37.6,6,3,High,Healthy,0.29,No Alert,No Change
+TH01322,36,13,38.2,7,2,High,Critical,0.71,Emergency,Veterinary Checkup
+TH01323,51,16,37.3,8,1,High,Healthy,0.39,No Alert,No Change
+TH01324,54,18,38.0,4,3,High,Healthy,0.42,No Alert,No Change
+TH01325,30,13,37.4,1,4,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH01326,37,14,37.7,8,2,High,Critical,0.57,Emergency,Veterinary Checkup
+TH01327,37,12,37.4,8,4,High,Critical,0.51,Emergency,Veterinary Checkup
+TH01328,35,11,37.5,3,1,High,Critical,0.78,Emergency,Veterinary Checkup
+TH01329,53,18,37.3,3,4,High,Healthy,0.93,No Alert,No Change
+TH01330,43,13,38.2,5,4,High,Healthy,0.22,No Alert,No Change
+TH01331,42,10,37.1,3,1,High,Healthy,0.56,No Alert,No Change
+TH01332,30,14,37.1,5,2,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH01333,51,17,38.6,8,1,High,Healthy,0.45,No Alert,No Change
+TH01334,32,11,38.0,1,3,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH01335,45,15,36.5,2,1,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH01336,47,14,37.2,2,1,High,Healthy,0.95,No Alert,No Change
+TH01337,58,19,36.6,4,2,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH01338,31,8,37.0,9,3,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH01339,30,15,36.5,2,4,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH01340,46,13,37.4,9,4,High,Healthy,0.57,No Alert,No Change
+TH01341,63,19,36.9,7,4,Medium,Healthy,0.37,No Alert,No Change
+TH01342,57,18,37.5,8,4,High,Healthy,0.77,No Alert,No Change
+TH01343,47,18,36.7,1,2,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH01344,40,13,37.5,5,3,High,Healthy,0.41,No Alert,No Change
+TH01345,53,15,37.3,9,2,High,Healthy,0.9,No Alert,No Change
+TH01346,35,14,38.3,4,1,High,Critical,0.33,Emergency,Veterinary Checkup
+TH01347,49,18,38.2,2,3,High,Healthy,0.25,No Alert,No Change
+TH01348,50,18,37.9,6,3,High,Healthy,0.42,No Alert,No Change
+TH01349,55,20,37.3,2,4,High,Healthy,0.69,No Alert,No Change
+TH01350,72,29,38.5,3,4,Low,Critical,0.3,Emergency,Veterinary Checkup
+TH01351,48,20,36.7,8,4,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH01352,39,12,36.8,3,4,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH01353,44,18,37.5,2,1,High,Healthy,0.88,No Alert,No Change
+TH01354,30,11,38.6,6,4,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH01355,38,14,37.4,3,2,High,Critical,0.85,Emergency,Veterinary Checkup
+TH01356,40,10,37.4,1,3,High,Healthy,0.39,No Alert,No Change
+TH01357,39,13,36.8,3,1,Medium,Critical,0.74,Emergency,Veterinary Checkup
+TH01358,46,14,38.0,6,1,High,Healthy,0.54,No Alert,No Change
+TH01359,36,14,38.0,3,3,High,Critical,0.29,Emergency,Veterinary Checkup
+TH01360,56,21,37.9,9,3,High,Healthy,0.77,No Alert,No Change
+TH01361,45,11,37.2,7,3,High,Healthy,0.37,No Alert,No Change
+TH01362,44,15,37.1,5,1,High,Healthy,0.34,No Alert,No Change
+TH01363,41,16,36.9,2,2,Medium,Healthy,0.49,No Alert,No Change
+TH01364,46,15,37.5,9,2,High,Healthy,0.72,No Alert,No Change
+TH01365,53,19,37.0,5,3,High,Healthy,0.39,No Alert,No Change
+TH01366,36,13,36.9,7,1,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01367,38,13,37.3,9,4,High,Critical,0.21,Emergency,Veterinary Checkup
+TH01368,41,13,37.3,4,1,High,Healthy,0.58,No Alert,No Change
+TH01369,31,8,37.2,9,3,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH01370,36,10,37.7,1,1,High,Critical,0.39,Emergency,Veterinary Checkup
+TH01371,40,15,37.5,6,1,High,Healthy,0.24,No Alert,No Change
+TH01372,53,18,37.4,2,1,High,Healthy,0.54,No Alert,No Change
+TH01373,47,15,37.6,8,4,High,Healthy,0.83,No Alert,No Change
+TH01374,46,14,37.0,5,3,High,Healthy,0.77,No Alert,No Change
+TH01375,53,17,37.6,3,3,High,Healthy,0.89,No Alert,No Change
+TH01376,43,16,37.6,2,3,High,Healthy,0.21,No Alert,No Change
+TH01377,48,15,36.7,8,2,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH01378,43,12,38.0,7,2,High,Healthy,0.47,No Alert,No Change
+TH01379,47,17,37.1,9,3,High,Healthy,0.99,No Alert,No Change
+TH01380,39,13,37.5,8,1,High,Critical,0.4,Emergency,Veterinary Checkup
+TH01381,30,10,38.1,4,1,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH01382,43,18,38.0,2,3,High,Healthy,0.48,No Alert,No Change
+TH01383,59,20,37.5,2,4,High,Healthy,0.48,No Alert,No Change
+TH01384,54,19,37.3,2,4,High,Healthy,0.87,No Alert,No Change
+TH01385,54,16,38.0,6,1,High,Healthy,0.8,No Alert,No Change
+TH01386,57,19,37.8,7,1,High,Healthy,0.99,No Alert,No Change
+TH01387,45,16,37.2,6,2,High,Healthy,0.69,No Alert,No Change
+TH01388,46,12,37.1,2,4,High,Healthy,0.57,No Alert,No Change
+TH01389,38,13,36.5,4,1,Medium,Critical,0.27,Emergency,Veterinary Checkup
+TH01390,41,14,37.6,3,1,High,Healthy,1.0,No Alert,No Change
+TH01391,51,17,37.5,4,3,High,Healthy,0.64,No Alert,No Change
+TH01392,57,21,38.1,5,2,High,Healthy,0.76,No Alert,No Change
+TH01393,43,15,37.7,7,4,High,Healthy,0.53,No Alert,No Change
+TH01394,40,16,38.2,9,4,High,Healthy,0.64,No Alert,No Change
+TH01395,45,13,37.2,2,2,High,Healthy,0.95,No Alert,No Change
+TH01396,51,17,38.1,8,1,High,Healthy,0.33,No Alert,No Change
+TH01397,30,10,37.2,3,4,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH01398,30,8,37.9,9,4,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH01399,39,15,36.8,4,4,Medium,Critical,0.83,Emergency,Veterinary Checkup
+TH01400,32,15,37.6,3,3,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH01401,39,13,36.5,6,2,Medium,Critical,0.27,Emergency,Veterinary Checkup
+TH01402,43,15,37.4,9,4,High,Healthy,0.44,No Alert,No Change
+TH01403,40,14,37.7,7,2,High,Healthy,0.61,No Alert,No Change
+TH01404,59,18,37.2,4,1,High,Healthy,0.53,No Alert,No Change
+TH01405,48,12,37.0,3,2,High,Healthy,0.24,No Alert,No Change
+TH01406,48,15,37.9,4,3,High,Healthy,0.97,No Alert,No Change
+TH01407,51,14,37.4,3,3,High,Healthy,0.96,No Alert,No Change
+TH01408,33,14,37.3,3,2,Medium,Critical,0.42,Emergency,Veterinary Checkup
+TH01409,55,18,37.5,9,3,High,Healthy,0.79,No Alert,No Change
+TH01410,44,14,38.8,4,4,High,Healthy,0.66,No Alert,No Change
+TH01411,51,19,38.1,9,3,High,Healthy,0.39,No Alert,No Change
+TH01412,34,9,38.1,5,1,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH01413,30,8,37.7,7,2,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH01414,53,18,37.6,5,2,High,Healthy,0.54,No Alert,No Change
+TH01415,48,18,36.5,1,1,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH01416,35,13,37.2,2,1,High,Critical,0.85,Emergency,Veterinary Checkup
+TH01417,36,12,37.3,5,1,High,Critical,0.59,Emergency,Veterinary Checkup
+TH01418,56,19,36.6,6,1,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH01419,33,12,36.9,7,4,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01420,61,21,36.5,2,3,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH01421,35,10,37.5,9,3,High,Critical,0.45,Emergency,Veterinary Checkup
+TH01422,51,17,37.9,6,4,High,Healthy,0.62,No Alert,No Change
+TH01423,41,12,38.1,2,1,High,Healthy,0.82,No Alert,No Change
+TH01424,51,17,37.7,2,2,High,Healthy,0.82,No Alert,No Change
+TH01425,39,12,37.0,3,2,High,Critical,0.48,Emergency,Veterinary Checkup
+TH01426,43,19,36.5,1,2,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH01427,45,15,36.6,9,1,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH01428,34,9,36.9,4,4,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH01429,52,17,37.1,5,4,High,Healthy,0.32,No Alert,No Change
+TH01430,39,14,37.4,7,4,High,Critical,0.74,Emergency,Veterinary Checkup
+TH01431,42,17,37.0,1,3,High,Healthy,0.28,No Alert,No Change
+TH01432,35,10,37.7,3,3,High,Critical,0.9,Emergency,Veterinary Checkup
+TH01433,30,8,37.4,3,3,Medium,Critical,0.61,Emergency,Veterinary Checkup
+TH01434,43,16,37.5,2,3,High,Healthy,0.51,No Alert,No Change
+TH01435,69,20,38.1,8,2,Low,Healthy,0.25,No Alert,No Change
+TH01436,52,16,36.9,5,2,Medium,Healthy,0.5,No Alert,No Change
+TH01437,44,14,37.7,1,4,High,Healthy,0.92,No Alert,No Change
+TH01438,42,14,37.5,2,3,High,Healthy,0.22,No Alert,No Change
+TH01439,45,16,37.3,1,4,High,Healthy,0.58,No Alert,No Change
+TH01440,50,15,37.9,6,1,High,Healthy,0.94,No Alert,No Change
+TH01441,33,10,37.9,9,3,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH01442,56,19,37.0,7,3,High,Healthy,0.54,No Alert,No Change
+TH01443,52,18,37.4,5,4,High,Healthy,0.66,No Alert,No Change
+TH01444,52,18,37.6,3,4,High,Healthy,0.57,No Alert,No Change
+TH01445,49,17,37.4,8,1,High,Healthy,0.33,No Alert,No Change
+TH01446,45,17,37.8,4,4,High,Healthy,0.21,No Alert,No Change
+TH01447,51,18,37.6,9,3,High,Healthy,0.69,No Alert,No Change
+TH01448,50,18,38.4,5,2,High,Healthy,0.94,No Alert,No Change
+TH01449,41,11,36.7,6,1,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH01450,39,13,37.4,5,1,High,Critical,0.37,Emergency,Veterinary Checkup
+TH01451,46,16,37.0,7,3,High,Healthy,0.5,No Alert,No Change
+TH01452,60,21,37.8,7,2,High,Healthy,0.85,No Alert,No Change
+TH01453,32,9,36.7,1,4,Medium,Critical,0.42,Emergency,Veterinary Checkup
+TH01454,30,9,37.7,2,4,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH01455,46,14,37.2,7,2,High,Healthy,0.24,No Alert,No Change
+TH01456,45,16,37.1,8,2,High,Healthy,0.95,No Alert,No Change
+TH01457,46,17,36.8,4,3,Medium,Healthy,0.65,No Alert,No Change
+TH01458,47,15,37.3,6,4,High,Healthy,0.73,No Alert,No Change
+TH01459,42,16,38.0,3,3,High,Healthy,0.49,No Alert,No Change
+TH01460,59,20,37.5,7,4,High,Healthy,0.83,No Alert,No Change
+TH01461,30,10,37.8,3,4,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH01462,36,12,38.3,7,2,High,Critical,0.24,Emergency,Veterinary Checkup
+TH01463,43,16,37.6,8,3,High,Healthy,0.52,No Alert,No Change
+TH01464,30,11,37.2,3,2,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH01465,43,19,37.7,2,3,High,Healthy,0.8,No Alert,No Change
+TH01466,61,19,37.2,6,4,High,Healthy,0.61,No Alert,No Change
+TH01467,45,16,37.2,4,1,High,Healthy,0.66,No Alert,No Change
+TH01468,47,15,36.7,8,1,Medium,Critical,0.3,Emergency,Veterinary Checkup
+TH01469,32,9,38.0,2,3,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH01470,38,13,37.3,4,3,High,Critical,0.83,Emergency,Veterinary Checkup
+TH01471,41,14,37.6,2,2,High,Healthy,0.73,No Alert,No Change
+TH01472,41,20,37.0,2,4,High,Healthy,0.57,No Alert,No Change
+TH01473,57,19,37.7,2,1,High,Healthy,0.97,No Alert,No Change
+TH01474,50,14,37.1,1,2,High,Healthy,0.9,No Alert,No Change
+TH01475,33,12,37.4,4,3,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH01476,47,12,37.9,2,4,High,Healthy,0.5,No Alert,No Change
+TH01477,49,16,37.9,9,2,High,Healthy,0.69,No Alert,No Change
+TH01478,56,19,37.5,9,2,High,Healthy,0.66,No Alert,No Change
+TH01479,60,22,36.6,7,3,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH01480,34,13,39.0,6,4,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH01481,36,11,38.4,3,1,High,Critical,0.53,Emergency,Veterinary Checkup
+TH01482,32,10,37.9,7,2,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH01483,42,12,37.1,1,3,High,Healthy,0.54,No Alert,No Change
+TH01484,49,14,37.4,9,2,High,Healthy,0.41,No Alert,No Change
+TH01485,54,19,37.2,4,3,High,Healthy,0.81,No Alert,No Change
+TH01486,44,12,38.1,6,3,High,Healthy,0.63,No Alert,No Change
+TH01487,41,13,37.6,6,3,High,Healthy,0.25,No Alert,No Change
+TH01488,46,13,37.1,3,4,High,Healthy,0.49,No Alert,No Change
+TH01489,36,13,37.3,4,1,High,Critical,0.91,Emergency,Veterinary Checkup
+TH01490,65,25,38.1,3,4,High,Healthy,0.8,No Alert,No Change
+TH01491,30,8,38.3,6,1,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH01492,46,12,38.3,1,3,High,Healthy,0.95,No Alert,No Change
+TH01493,65,21,37.9,8,1,High,Healthy,0.26,No Alert,No Change
+TH01494,45,15,37.4,8,4,High,Healthy,0.97,No Alert,No Change
+TH01495,43,15,36.5,9,2,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH01496,41,13,37.6,6,4,High,Healthy,0.21,No Alert,No Change
+TH01497,43,14,37.5,1,4,High,Healthy,0.55,No Alert,No Change
+TH01498,58,20,37.6,3,4,High,Healthy,0.49,No Alert,No Change
+TH01499,30,12,37.5,1,4,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH01500,60,16,36.8,5,4,Medium,Healthy,0.84,No Alert,No Change
+TH01501,30,9,37.8,3,1,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH01502,42,14,37.8,2,1,High,Healthy,0.52,No Alert,No Change
+TH01503,40,11,37.8,3,2,High,Healthy,0.54,No Alert,No Change
+TH01504,50,20,38.0,9,4,High,Healthy,0.32,No Alert,No Change
+TH01505,30,9,37.8,8,4,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH01506,49,16,37.3,3,2,High,Healthy,0.71,No Alert,No Change
+TH01507,65,23,37.5,2,2,High,Healthy,0.25,No Alert,No Change
+TH01508,31,9,37.5,5,3,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH01509,46,12,37.6,1,2,High,Healthy,0.63,No Alert,No Change
+TH01510,38,12,38.0,4,2,High,Critical,0.36,Emergency,Veterinary Checkup
+TH01511,49,18,37.8,8,2,High,Healthy,0.63,No Alert,No Change
+TH01512,45,14,38.5,1,3,High,Healthy,0.35,No Alert,No Change
+TH01513,38,11,38.6,5,1,High,Critical,0.55,Emergency,Veterinary Checkup
+TH01514,49,18,37.5,4,3,High,Healthy,0.84,No Alert,No Change
+TH01515,63,20,36.5,6,1,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH01516,43,13,38.1,7,2,High,Healthy,0.32,No Alert,No Change
+TH01517,52,18,37.2,9,3,High,Healthy,0.78,No Alert,No Change
+TH01518,32,12,37.1,1,3,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01519,35,16,37.3,4,1,High,Critical,0.79,Emergency,Veterinary Checkup
+TH01520,49,18,37.3,6,3,High,Healthy,0.58,No Alert,No Change
+TH01521,59,22,37.8,7,3,High,Healthy,0.56,No Alert,No Change
+TH01522,48,15,36.7,7,4,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH01523,41,12,37.0,8,1,High,Healthy,0.77,No Alert,No Change
+TH01524,44,15,37.7,8,3,High,Healthy,0.23,No Alert,No Change
+TH01525,32,11,37.8,8,3,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH01526,51,15,37.8,8,2,High,Healthy,0.9,No Alert,No Change
+TH01527,53,17,37.1,8,4,High,Healthy,0.21,No Alert,No Change
+TH01528,40,14,37.0,6,4,High,Healthy,0.64,No Alert,No Change
+TH01529,40,14,37.2,9,2,High,Healthy,0.78,No Alert,No Change
+TH01530,47,17,37.6,3,2,High,Healthy,0.7,No Alert,No Change
+TH01531,40,14,38.2,6,2,High,Healthy,0.81,No Alert,No Change
+TH01532,44,14,36.5,5,2,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH01533,65,21,37.4,8,4,High,Healthy,0.75,No Alert,No Change
+TH01534,42,12,36.8,4,3,Medium,Healthy,0.86,No Alert,No Change
+TH01535,41,17,36.7,4,3,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH01536,38,13,38.0,5,2,High,Critical,0.52,Emergency,Veterinary Checkup
+TH01537,52,17,37.8,6,1,High,Healthy,0.58,No Alert,No Change
+TH01538,43,12,37.7,4,2,High,Healthy,0.77,No Alert,No Change
+TH01539,38,19,38.0,2,3,High,Critical,0.9,Emergency,Veterinary Checkup
+TH01540,58,17,37.3,2,1,High,Healthy,0.42,No Alert,No Change
+TH01541,59,19,37.3,3,2,High,Healthy,0.47,No Alert,No Change
+TH01542,38,13,38.6,2,1,High,Critical,0.94,Emergency,Veterinary Checkup
+TH01543,30,11,37.4,1,2,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH01544,55,20,37.9,8,4,High,Healthy,0.34,No Alert,No Change
+TH01545,38,16,37.5,5,3,High,Critical,0.73,Emergency,Veterinary Checkup
+TH01546,52,18,36.6,1,2,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH01547,30,8,36.5,9,1,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH01548,53,17,37.2,8,3,High,Healthy,0.8,No Alert,No Change
+TH01549,32,11,38.0,4,2,Medium,Critical,0.37,Emergency,Veterinary Checkup
+TH01550,52,21,37.9,8,2,High,Healthy,0.9,No Alert,No Change
+TH01551,45,12,38.0,7,2,High,Healthy,0.62,No Alert,No Change
+TH01552,35,14,37.0,7,2,High,Critical,0.91,Emergency,Veterinary Checkup
+TH01553,40,14,38.3,1,4,High,Healthy,0.46,No Alert,No Change
+TH01554,51,19,37.0,6,3,High,Healthy,0.25,No Alert,No Change
+TH01555,46,15,37.6,4,4,High,Healthy,0.58,No Alert,No Change
+TH01556,50,15,37.5,2,3,High,Healthy,0.42,No Alert,No Change
+TH01557,64,23,37.4,7,2,High,Healthy,0.77,No Alert,No Change
+TH01558,30,11,38.2,9,3,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH01559,61,22,37.1,5,1,High,Healthy,0.75,No Alert,No Change
+TH01560,46,15,36.8,8,3,Medium,Healthy,0.91,No Alert,No Change
+TH01561,36,11,37.5,5,1,High,Critical,0.56,Emergency,Veterinary Checkup
+TH01562,31,8,37.3,7,1,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH01563,43,16,39.2,7,4,Low,Healthy,0.87,No Alert,No Change
+TH01564,54,19,37.8,9,3,High,Healthy,0.77,No Alert,No Change
+TH01565,43,12,37.3,3,2,High,Healthy,0.61,No Alert,No Change
+TH01566,60,19,37.0,1,3,High,Healthy,0.7,No Alert,No Change
+TH01567,30,9,36.6,2,4,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH01568,44,12,37.0,6,1,High,Healthy,0.4,No Alert,No Change
+TH01569,32,9,37.6,9,1,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH01570,48,14,38.2,3,4,High,Healthy,0.96,No Alert,No Change
+TH01571,53,17,38.1,2,4,High,Healthy,0.57,No Alert,No Change
+TH01572,40,12,37.6,1,3,High,Healthy,0.76,No Alert,No Change
+TH01573,30,8,37.3,2,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH01574,46,19,37.6,3,4,High,Healthy,0.73,No Alert,No Change
+TH01575,49,19,37.2,7,3,High,Healthy,0.64,No Alert,No Change
+TH01576,49,15,38.4,2,3,High,Healthy,0.91,No Alert,No Change
+TH01577,57,20,37.4,5,2,High,Healthy,0.56,No Alert,No Change
+TH01578,34,12,37.5,2,1,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH01579,51,19,36.5,7,3,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH01580,56,17,37.4,8,4,High,Healthy,0.74,No Alert,No Change
+TH01581,30,12,37.9,8,1,Medium,Critical,0.88,Emergency,Veterinary Checkup
+TH01582,48,15,37.0,8,4,High,Healthy,0.31,No Alert,No Change
+TH01583,39,10,37.1,9,4,High,Critical,0.22,Emergency,Veterinary Checkup
+TH01584,44,16,37.9,1,3,High,Healthy,0.95,No Alert,No Change
+TH01585,48,19,36.8,1,3,Medium,Healthy,0.32,No Alert,No Change
+TH01586,40,19,38.0,2,2,High,Healthy,0.85,No Alert,No Change
+TH01587,38,10,37.2,6,4,High,Critical,0.86,Emergency,Veterinary Checkup
+TH01588,45,16,37.3,1,3,High,Healthy,0.77,No Alert,No Change
+TH01589,34,11,36.9,5,2,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH01590,34,13,37.7,5,1,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH01591,51,14,38.7,4,2,High,Healthy,0.91,No Alert,No Change
+TH01592,33,8,37.9,5,2,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH01593,51,15,37.1,1,4,High,Healthy,0.53,No Alert,No Change
+TH01594,49,16,38.1,6,1,High,Healthy,0.55,No Alert,No Change
+TH01595,30,9,37.3,7,4,Medium,Critical,0.27,Emergency,Veterinary Checkup
+TH01596,38,14,38.2,8,4,High,Critical,0.91,Emergency,Veterinary Checkup
+TH01597,56,21,37.9,2,2,High,Healthy,0.9,No Alert,No Change
+TH01598,35,13,36.5,7,2,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH01599,40,17,37.0,6,3,High,Healthy,0.67,No Alert,No Change
+TH01600,49,17,38.0,9,2,High,Healthy,0.8,No Alert,No Change
+TH01601,52,15,37.6,8,3,High,Healthy,0.36,No Alert,No Change
+TH01602,42,17,37.0,4,4,High,Healthy,0.73,No Alert,No Change
+TH01603,39,12,37.2,9,2,High,Critical,0.72,Emergency,Veterinary Checkup
+TH01604,59,21,36.5,1,1,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH01605,62,24,37.5,6,1,High,Healthy,0.86,No Alert,No Change
+TH01606,54,19,38.6,8,4,High,Healthy,0.95,No Alert,No Change
+TH01607,45,12,37.9,4,4,High,Healthy,0.9,No Alert,No Change
+TH01608,36,10,38.6,2,2,High,Critical,0.89,Emergency,Veterinary Checkup
+TH01609,36,15,37.9,2,3,High,Critical,0.25,Emergency,Veterinary Checkup
+TH01610,50,16,38.0,1,2,High,Healthy,0.88,No Alert,No Change
+TH01611,49,16,38.5,5,3,High,Healthy,0.69,No Alert,No Change
+TH01612,59,21,37.7,6,2,High,Healthy,0.5,No Alert,No Change
+TH01613,51,18,37.4,4,1,High,Healthy,0.25,No Alert,No Change
+TH01614,30,11,38.0,4,1,Medium,Critical,0.74,Emergency,Veterinary Checkup
+TH01615,55,18,38.2,5,3,High,Healthy,0.46,No Alert,No Change
+TH01616,35,11,37.3,5,2,High,Critical,0.57,Emergency,Veterinary Checkup
+TH01617,41,15,37.1,9,4,High,Healthy,0.75,No Alert,No Change
+TH01618,47,17,37.6,8,3,High,Healthy,0.93,No Alert,No Change
+TH01619,64,21,37.9,9,1,High,Healthy,0.86,No Alert,No Change
+TH01620,76,27,37.9,3,3,Low,Critical,0.56,Emergency,Veterinary Checkup
+TH01621,51,17,36.8,3,2,Medium,Healthy,0.51,No Alert,No Change
+TH01622,43,13,38.5,1,4,High,Healthy,0.39,No Alert,No Change
+TH01623,50,15,37.2,6,4,High,Healthy,0.5,No Alert,No Change
+TH01624,53,16,37.4,4,3,High,Healthy,0.29,No Alert,No Change
+TH01625,41,13,37.0,8,2,High,Healthy,0.98,No Alert,No Change
+TH01626,62,23,38.8,2,2,High,Healthy,0.66,No Alert,No Change
+TH01627,47,14,37.6,2,4,High,Healthy,0.3,No Alert,No Change
+TH01628,49,17,37.1,7,1,High,Healthy,0.48,No Alert,No Change
+TH01629,51,16,37.9,5,2,High,Healthy,0.64,No Alert,No Change
+TH01630,49,16,37.9,1,4,High,Healthy,0.63,No Alert,No Change
+TH01631,53,15,37.4,7,4,High,Healthy,0.23,No Alert,No Change
+TH01632,38,12,37.9,7,2,High,Critical,0.96,Emergency,Veterinary Checkup
+TH01633,39,13,37.1,6,2,High,Critical,0.42,Emergency,Veterinary Checkup
+TH01634,33,12,37.3,4,3,Medium,Critical,0.21,Emergency,Veterinary Checkup
+TH01635,49,17,36.5,8,1,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH01636,52,15,36.8,2,3,Medium,Healthy,0.66,No Alert,No Change
+TH01637,49,19,38.4,2,3,High,Healthy,0.31,No Alert,No Change
+TH01638,61,21,38.3,2,4,High,Healthy,0.23,No Alert,No Change
+TH01639,44,15,37.5,3,4,High,Healthy,0.5,No Alert,No Change
+TH01640,51,17,38.3,6,1,High,Healthy,0.7,No Alert,No Change
+TH01641,34,10,37.4,1,3,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH01642,41,14,37.4,2,3,High,Healthy,0.45,No Alert,No Change
+TH01643,51,18,37.5,2,4,High,Healthy,0.53,No Alert,No Change
+TH01644,53,14,37.4,1,4,High,Healthy,0.33,No Alert,No Change
+TH01645,42,13,37.4,3,2,High,Healthy,0.6,No Alert,No Change
+TH01646,44,14,38.1,7,3,High,Healthy,0.27,No Alert,No Change
+TH01647,30,11,37.6,1,1,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH01648,41,16,37.9,7,3,High,Healthy,0.62,No Alert,No Change
+TH01649,53,16,38.0,5,4,High,Healthy,0.4,No Alert,No Change
+TH01650,50,16,37.7,9,2,High,Healthy,0.28,No Alert,No Change
+TH01651,50,16,37.0,2,3,High,Healthy,0.54,No Alert,No Change
+TH01652,45,13,36.8,1,1,Medium,Healthy,0.93,No Alert,No Change
+TH01653,45,14,37.6,9,4,High,Healthy,0.78,No Alert,No Change
+TH01654,38,14,37.4,8,2,High,Critical,0.85,Emergency,Veterinary Checkup
+TH01655,51,15,37.5,6,3,High,Healthy,0.9,No Alert,No Change
+TH01656,49,17,37.5,5,1,High,Healthy,0.98,No Alert,No Change
+TH01657,49,13,38.8,8,4,High,Healthy,0.81,No Alert,No Change
+TH01658,39,12,36.8,8,1,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH01659,30,9,36.5,5,3,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH01660,55,22,37.7,7,4,High,Healthy,0.35,No Alert,No Change
+TH01661,40,13,37.3,1,3,High,Healthy,0.75,No Alert,No Change
+TH01662,36,8,37.7,4,2,High,Critical,1.0,Emergency,Veterinary Checkup
+TH01663,51,13,37.8,2,3,High,Healthy,0.57,No Alert,No Change
+TH01664,41,14,38.1,3,2,High,Healthy,0.78,No Alert,No Change
+TH01665,55,20,36.7,1,3,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01666,51,18,37.2,2,1,High,Healthy,0.55,No Alert,No Change
+TH01667,51,17,37.7,1,1,High,Healthy,0.53,No Alert,No Change
+TH01668,31,13,37.9,8,4,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01669,57,18,38.6,4,1,High,Healthy,0.49,No Alert,No Change
+TH01670,47,17,38.0,3,1,High,Healthy,0.8,No Alert,No Change
+TH01671,41,10,37.5,1,2,High,Healthy,0.9,No Alert,No Change
+TH01672,46,14,37.1,2,1,High,Healthy,0.91,No Alert,No Change
+TH01673,30,8,37.2,3,2,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH01674,49,16,37.2,3,2,High,Healthy,0.92,No Alert,No Change
+TH01675,34,11,37.8,6,2,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH01676,31,11,37.6,8,3,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH01677,30,10,36.8,6,2,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH01678,56,17,37.3,2,3,High,Healthy,0.44,No Alert,No Change
+TH01679,38,12,37.9,2,2,High,Critical,0.24,Emergency,Veterinary Checkup
+TH01680,60,17,37.7,7,3,High,Healthy,0.5,No Alert,No Change
+TH01681,39,16,37.8,1,4,High,Critical,0.78,Emergency,Veterinary Checkup
+TH01682,30,9,37.7,1,4,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH01683,33,10,38.3,7,3,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH01684,57,22,37.6,9,4,High,Healthy,0.73,No Alert,No Change
+TH01685,43,12,37.3,5,1,High,Healthy,0.79,No Alert,No Change
+TH01686,39,11,37.0,1,2,High,Critical,0.92,Emergency,Veterinary Checkup
+TH01687,46,13,37.6,5,3,High,Healthy,0.55,No Alert,No Change
+TH01688,50,17,36.5,1,4,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH01689,56,20,37.4,9,4,High,Healthy,0.46,No Alert,No Change
+TH01690,59,21,37.4,4,1,High,Healthy,0.55,No Alert,No Change
+TH01691,41,19,36.8,9,2,Medium,Healthy,0.77,No Alert,No Change
+TH01692,31,8,37.0,2,1,Medium,Critical,0.21,Emergency,Veterinary Checkup
+TH01693,40,15,37.9,7,3,High,Healthy,0.45,No Alert,No Change
+TH01694,47,15,37.6,2,4,High,Healthy,0.82,No Alert,No Change
+TH01695,35,10,37.6,4,4,High,Critical,0.74,Emergency,Veterinary Checkup
+TH01696,35,10,37.7,6,4,High,Critical,0.79,Emergency,Veterinary Checkup
+TH01697,48,14,37.5,2,1,High,Healthy,0.85,No Alert,No Change
+TH01698,44,18,38.1,2,1,High,Healthy,0.83,No Alert,No Change
+TH01699,45,17,37.6,2,2,High,Healthy,0.75,No Alert,No Change
+TH01700,37,12,36.8,3,3,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH01701,42,17,38.3,5,2,High,Healthy,0.99,No Alert,No Change
+TH01702,35,9,37.7,9,2,High,Critical,0.66,Emergency,Veterinary Checkup
+TH01703,53,15,37.2,6,4,High,Healthy,0.36,No Alert,No Change
+TH01704,55,14,36.9,9,1,Medium,Healthy,0.43,No Alert,No Change
+TH01705,30,9,37.7,5,3,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH01706,35,12,37.4,6,2,High,Critical,0.94,Emergency,Veterinary Checkup
+TH01707,30,10,38.3,8,3,Medium,Critical,0.34,Emergency,Veterinary Checkup
+TH01708,38,13,37.3,3,4,High,Critical,0.27,Emergency,Veterinary Checkup
+TH01709,44,12,37.1,2,2,High,Healthy,0.91,No Alert,No Change
+TH01710,30,12,37.9,3,1,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH01711,35,12,38.0,9,2,High,Critical,0.42,Emergency,Veterinary Checkup
+TH01712,34,13,37.6,6,4,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH01713,47,12,37.8,4,2,High,Healthy,0.73,No Alert,No Change
+TH01714,45,16,37.5,3,4,High,Healthy,0.46,No Alert,No Change
+TH01715,37,10,37.6,2,2,High,Critical,0.9,Emergency,Veterinary Checkup
+TH01716,46,15,38.1,4,3,High,Healthy,0.29,No Alert,No Change
+TH01717,39,14,37.8,9,1,High,Critical,0.23,Emergency,Veterinary Checkup
+TH01718,42,14,37.4,4,4,High,Healthy,0.37,No Alert,No Change
+TH01719,61,19,38.2,5,3,High,Healthy,0.43,No Alert,No Change
+TH01720,58,19,36.5,8,4,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH01721,32,8,38.5,2,2,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH01722,53,20,36.6,3,4,Medium,Critical,0.8,Emergency,Veterinary Checkup
+TH01723,53,17,37.2,6,4,High,Healthy,0.33,No Alert,No Change
+TH01724,33,13,37.5,7,1,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH01725,53,17,37.4,4,3,High,Healthy,0.49,No Alert,No Change
+TH01726,60,19,38.0,1,2,High,Healthy,0.74,No Alert,No Change
+TH01727,33,9,37.0,7,1,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH01728,35,13,37.6,9,4,High,Critical,0.39,Emergency,Veterinary Checkup
+TH01729,55,17,37.2,1,1,High,Healthy,0.66,No Alert,No Change
+TH01730,47,17,37.6,1,4,High,Healthy,0.65,No Alert,No Change
+TH01731,50,16,37.5,1,2,High,Healthy,0.81,No Alert,No Change
+TH01732,48,12,37.5,7,4,High,Healthy,0.81,No Alert,No Change
+TH01733,48,15,37.2,9,1,High,Healthy,0.74,No Alert,No Change
+TH01734,31,8,37.2,3,1,Medium,Critical,0.56,Emergency,Veterinary Checkup
+TH01735,55,18,37.6,8,4,High,Healthy,0.91,No Alert,No Change
+TH01736,56,16,38.0,9,3,High,Healthy,0.7,No Alert,No Change
+TH01737,42,16,37.2,3,1,High,Healthy,0.99,No Alert,No Change
+TH01738,44,14,37.1,3,3,High,Healthy,0.86,No Alert,No Change
+TH01739,30,10,37.8,1,3,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH01740,50,18,37.5,2,3,High,Healthy,0.46,No Alert,No Change
+TH01741,50,19,37.9,7,3,High,Healthy,0.66,No Alert,No Change
+TH01742,44,15,37.0,3,1,High,Healthy,0.78,No Alert,No Change
+TH01743,56,17,36.6,7,1,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH01744,41,10,37.2,5,3,High,Healthy,0.83,No Alert,No Change
+TH01745,50,15,37.1,8,1,High,Healthy,0.43,No Alert,No Change
+TH01746,34,10,37.5,5,3,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01747,44,15,37.2,3,3,High,Healthy,0.24,No Alert,No Change
+TH01748,43,14,37.9,9,3,High,Healthy,0.66,No Alert,No Change
+TH01749,47,17,37.4,7,4,High,Healthy,0.75,No Alert,No Change
+TH01750,41,12,37.6,5,2,High,Healthy,0.46,No Alert,No Change
+TH01751,43,14,37.6,7,1,High,Healthy,0.69,No Alert,No Change
+TH01752,53,20,37.6,9,1,High,Healthy,0.24,No Alert,No Change
+TH01753,40,14,37.5,5,3,High,Healthy,0.28,No Alert,No Change
+TH01754,30,10,37.8,7,4,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH01755,62,19,37.1,9,4,High,Healthy,0.49,No Alert,No Change
+TH01756,58,18,38.2,1,1,High,Healthy,0.74,No Alert,No Change
+TH01757,32,9,37.4,4,3,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH01758,51,16,36.8,1,1,Medium,Healthy,0.88,No Alert,No Change
+TH01759,39,15,37.6,8,3,High,Critical,0.34,Emergency,Veterinary Checkup
+TH01760,47,15,37.1,3,3,High,Healthy,0.59,No Alert,No Change
+TH01761,47,13,37.8,2,2,High,Healthy,0.79,No Alert,No Change
+TH01762,42,18,38.6,4,3,High,Healthy,0.82,No Alert,No Change
+TH01763,37,13,37.1,3,2,High,Critical,0.83,Emergency,Veterinary Checkup
+TH01764,38,10,37.7,5,1,High,Critical,0.38,Emergency,Veterinary Checkup
+TH01765,35,11,36.6,8,1,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01766,36,12,37.7,8,4,High,Critical,0.67,Emergency,Veterinary Checkup
+TH01767,44,18,37.1,7,2,High,Healthy,0.79,No Alert,No Change
+TH01768,37,10,37.2,8,1,High,Critical,0.46,Emergency,Veterinary Checkup
+TH01769,51,19,36.9,5,2,Medium,Healthy,0.28,No Alert,No Change
+TH01770,59,22,37.9,6,1,High,Healthy,0.77,No Alert,No Change
+TH01771,39,12,38.0,8,2,High,Critical,0.44,Emergency,Veterinary Checkup
+TH01772,47,15,37.5,1,2,High,Healthy,0.33,No Alert,No Change
+TH01773,49,14,37.1,6,3,High,Healthy,0.32,No Alert,No Change
+TH01774,49,16,38.3,6,1,High,Healthy,0.45,No Alert,No Change
+TH01775,45,15,37.1,5,4,High,Healthy,0.67,No Alert,No Change
+TH01776,52,19,36.5,4,3,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH01777,49,19,37.7,1,4,High,Healthy,0.22,No Alert,No Change
+TH01778,32,9,36.9,8,2,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH01779,53,14,38.0,6,3,High,Healthy,0.43,No Alert,No Change
+TH01780,53,18,37.3,3,2,High,Healthy,0.73,No Alert,No Change
+TH01781,37,13,37.8,3,1,High,Critical,0.28,Emergency,Veterinary Checkup
+TH01782,45,15,38.2,6,1,High,Healthy,0.65,No Alert,No Change
+TH01783,51,16,36.9,7,4,Medium,Healthy,0.3,No Alert,No Change
+TH01784,42,14,37.2,8,1,High,Healthy,0.37,No Alert,No Change
+TH01785,55,21,37.5,5,4,High,Healthy,0.34,No Alert,No Change
+TH01786,68,23,38.3,6,2,Low,Healthy,0.25,No Alert,No Change
+TH01787,37,12,37.2,1,3,High,Critical,0.74,Emergency,Veterinary Checkup
+TH01788,31,9,37.2,6,1,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH01789,48,16,37.7,9,2,High,Healthy,0.86,No Alert,No Change
+TH01790,52,21,37.2,4,3,High,Healthy,0.28,No Alert,No Change
+TH01791,42,14,37.6,1,2,High,Healthy,0.32,No Alert,No Change
+TH01792,59,20,36.7,9,4,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH01793,31,9,38.6,4,2,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH01794,51,19,36.8,2,4,Medium,Healthy,0.44,No Alert,No Change
+TH01795,38,17,37.3,1,4,High,Critical,0.53,Emergency,Veterinary Checkup
+TH01796,62,22,37.5,3,1,High,Healthy,0.44,No Alert,No Change
+TH01797,64,21,38.5,7,4,High,Healthy,0.26,No Alert,No Change
+TH01798,37,12,36.8,2,4,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH01799,39,8,38.5,9,2,High,Critical,0.64,Emergency,Veterinary Checkup
+TH01800,53,19,37.9,2,4,High,Healthy,0.83,No Alert,No Change
+TH01801,41,14,37.7,5,4,High,Healthy,0.73,No Alert,No Change
+TH01802,44,16,37.0,8,2,High,Healthy,0.61,No Alert,No Change
+TH01803,45,14,37.8,8,3,High,Healthy,0.27,No Alert,No Change
+TH01804,30,9,37.1,3,1,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH01805,44,14,38.1,2,2,High,Healthy,0.32,No Alert,No Change
+TH01806,38,15,37.0,9,4,High,Critical,0.53,Emergency,Veterinary Checkup
+TH01807,40,13,37.4,3,2,High,Healthy,0.7,No Alert,No Change
+TH01808,59,24,37.2,8,3,High,Healthy,0.83,No Alert,No Change
+TH01809,32,12,37.0,2,2,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH01810,53,15,37.9,3,2,High,Healthy,0.74,No Alert,No Change
+TH01811,42,14,37.8,1,2,High,Healthy,0.32,No Alert,No Change
+TH01812,42,13,38.1,6,2,High,Healthy,0.48,No Alert,No Change
+TH01813,52,13,36.6,7,4,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH01814,48,19,38.0,4,2,High,Healthy,0.78,No Alert,No Change
+TH01815,50,18,38.8,1,3,High,Healthy,0.96,No Alert,No Change
+TH01816,54,19,37.3,3,2,High,Healthy,0.41,No Alert,No Change
+TH01817,41,14,38.4,9,2,High,Healthy,0.27,No Alert,No Change
+TH01818,38,10,37.4,5,4,High,Critical,0.58,Emergency,Veterinary Checkup
+TH01819,34,10,36.8,6,4,Medium,Critical,0.89,Emergency,Veterinary Checkup
+TH01820,36,14,37.3,4,2,High,Critical,0.64,Emergency,Veterinary Checkup
+TH01821,74,23,38.0,1,4,Low,Critical,0.24,Emergency,Veterinary Checkup
+TH01822,57,14,37.1,5,4,High,Healthy,0.98,No Alert,No Change
+TH01823,31,10,37.2,5,2,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH01824,31,10,37.8,5,4,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH01825,49,17,37.5,6,1,High,Healthy,0.94,No Alert,No Change
+TH01826,50,18,37.8,2,1,High,Healthy,0.56,No Alert,No Change
+TH01827,50,18,37.6,1,1,High,Healthy,0.5,No Alert,No Change
+TH01828,42,15,37.7,2,4,High,Healthy,0.57,No Alert,No Change
+TH01829,43,17,37.3,6,1,High,Healthy,0.87,No Alert,No Change
+TH01830,48,13,37.6,5,3,High,Healthy,0.73,No Alert,No Change
+TH01831,45,16,37.0,5,1,High,Healthy,0.25,No Alert,No Change
+TH01832,30,11,38.1,6,3,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH01833,42,12,37.2,7,4,High,Healthy,0.32,No Alert,No Change
+TH01834,36,9,38.1,9,1,High,Critical,0.8,Emergency,Veterinary Checkup
+TH01835,46,14,37.4,7,3,High,Healthy,0.71,No Alert,No Change
+TH01836,74,23,37.6,2,4,Low,Critical,0.35,Emergency,Veterinary Checkup
+TH01837,48,18,37.3,6,1,High,Healthy,0.34,No Alert,No Change
+TH01838,41,12,37.0,9,2,High,Healthy,0.9,No Alert,No Change
+TH01839,54,16,36.6,7,1,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH01840,49,15,37.0,2,1,High,Healthy,0.72,No Alert,No Change
+TH01841,49,19,37.3,3,1,High,Healthy,0.6,No Alert,No Change
+TH01842,51,17,37.6,8,2,High,Healthy,0.78,No Alert,No Change
+TH01843,65,21,38.0,9,3,High,Healthy,0.58,No Alert,No Change
+TH01844,33,11,37.3,4,3,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH01845,49,19,37.1,9,2,High,Healthy,0.49,No Alert,No Change
+TH01846,35,10,36.8,2,1,Medium,Critical,0.89,Emergency,Veterinary Checkup
+TH01847,50,19,37.7,5,1,High,Healthy,0.57,No Alert,No Change
+TH01848,35,12,38.2,2,1,High,Critical,0.37,Emergency,Veterinary Checkup
+TH01849,40,13,38.1,1,3,High,Healthy,0.95,No Alert,No Change
+TH01850,42,19,37.9,5,3,High,Healthy,0.84,No Alert,No Change
+TH01851,54,16,37.8,2,2,High,Healthy,0.24,No Alert,No Change
+TH01852,54,17,38.3,7,4,High,Healthy,1.0,No Alert,No Change
+TH01853,32,8,37.7,8,2,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH01854,45,17,37.8,2,3,High,Healthy,0.33,No Alert,No Change
+TH01855,37,16,37.3,7,1,High,Critical,0.39,Emergency,Veterinary Checkup
+TH01856,32,14,36.8,4,1,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH01857,42,16,37.2,1,1,High,Healthy,0.82,No Alert,No Change
+TH01858,41,13,37.5,3,1,High,Healthy,0.39,No Alert,No Change
+TH01859,69,22,37.5,1,4,Low,Healthy,0.41,No Alert,No Change
+TH01860,49,13,38.5,5,2,High,Healthy,0.45,No Alert,No Change
+TH01861,31,14,37.5,8,2,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH01862,39,14,38.1,1,3,High,Critical,0.34,Emergency,Veterinary Checkup
+TH01863,55,17,37.3,9,2,High,Healthy,0.28,No Alert,No Change
+TH01864,65,24,37.3,3,4,High,Healthy,0.74,No Alert,No Change
+TH01865,30,8,36.8,5,4,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH01866,30,11,37.1,9,4,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01867,63,21,37.8,5,1,High,Healthy,0.49,No Alert,No Change
+TH01868,48,17,37.5,9,3,High,Healthy,0.55,No Alert,No Change
+TH01869,36,12,38.0,8,4,High,Critical,0.51,Emergency,Veterinary Checkup
+TH01870,50,14,37.6,7,2,High,Healthy,0.97,No Alert,No Change
+TH01871,30,10,37.3,1,2,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH01872,45,17,38.6,4,2,High,Healthy,0.37,No Alert,No Change
+TH01873,48,16,37.5,9,4,High,Healthy,0.51,No Alert,No Change
+TH01874,54,20,38.1,8,4,High,Healthy,0.64,No Alert,No Change
+TH01875,34,9,37.3,4,2,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH01876,45,15,37.9,1,4,High,Healthy,0.57,No Alert,No Change
+TH01877,35,10,38.0,4,2,High,Critical,0.85,Emergency,Veterinary Checkup
+TH01878,47,17,37.6,3,1,High,Healthy,0.81,No Alert,No Change
+TH01879,36,12,36.5,6,4,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01880,40,15,37.5,5,1,High,Healthy,0.88,No Alert,No Change
+TH01881,35,14,38.1,5,1,High,Critical,0.8,Emergency,Veterinary Checkup
+TH01882,51,18,37.8,2,4,High,Healthy,0.82,No Alert,No Change
+TH01883,53,18,37.7,3,2,High,Healthy,0.97,No Alert,No Change
+TH01884,42,12,36.6,6,3,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH01885,45,15,37.1,2,1,High,Healthy,0.41,No Alert,No Change
+TH01886,30,9,37.7,4,4,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH01887,42,13,37.7,2,1,High,Healthy,0.82,No Alert,No Change
+TH01888,44,14,38.1,9,2,High,Healthy,0.94,No Alert,No Change
+TH01889,71,22,37.4,3,4,Low,Critical,0.25,Emergency,Veterinary Checkup
+TH01890,33,8,37.7,6,3,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH01891,59,18,37.5,1,4,High,Healthy,0.32,No Alert,No Change
+TH01892,54,18,37.0,3,1,High,Healthy,0.6,No Alert,No Change
+TH01893,47,13,36.5,8,4,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH01894,62,21,37.7,5,4,High,Healthy,0.3,No Alert,No Change
+TH01895,48,20,37.6,8,1,High,Healthy,0.21,No Alert,No Change
+TH01896,48,18,37.2,2,3,High,Healthy,0.7,No Alert,No Change
+TH01897,44,18,36.7,7,2,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH01898,57,20,37.8,9,4,High,Healthy,0.28,No Alert,No Change
+TH01899,55,21,37.4,7,3,High,Healthy,0.46,No Alert,No Change
+TH01900,38,11,37.8,3,2,High,Critical,0.34,Emergency,Veterinary Checkup
+TH01901,31,9,38.4,7,1,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH01902,42,9,36.5,8,3,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH01903,36,14,37.2,1,3,High,Critical,0.47,Emergency,Veterinary Checkup
+TH01904,44,18,37.4,3,4,High,Healthy,0.87,No Alert,No Change
+TH01905,57,18,38.2,5,1,High,Healthy,0.72,No Alert,No Change
+TH01906,40,13,36.7,6,4,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH01907,44,13,38.5,3,1,High,Healthy,0.71,No Alert,No Change
+TH01908,45,16,37.6,4,2,High,Healthy,0.96,No Alert,No Change
+TH01909,53,20,37.5,5,4,High,Healthy,0.37,No Alert,No Change
+TH01910,30,8,37.4,3,1,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH01911,38,13,37.3,4,1,High,Critical,0.86,Emergency,Veterinary Checkup
+TH01912,47,15,38.0,5,3,High,Healthy,0.67,No Alert,No Change
+TH01913,57,19,37.0,2,4,High,Healthy,0.73,No Alert,No Change
+TH01914,40,14,37.7,9,4,High,Healthy,0.72,No Alert,No Change
+TH01915,30,10,37.3,8,2,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH01916,51,17,37.1,6,1,High,Healthy,0.37,No Alert,No Change
+TH01917,38,12,38.8,3,3,High,Critical,0.97,Emergency,Veterinary Checkup
+TH01918,33,13,37.7,2,1,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH01919,38,14,37.8,7,1,High,Critical,0.5,Emergency,Veterinary Checkup
+TH01920,43,15,38.1,8,1,High,Healthy,0.81,No Alert,No Change
+TH01921,38,10,36.8,1,4,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH01922,30,9,38.4,6,1,Medium,Critical,0.21,Emergency,Veterinary Checkup
+TH01923,53,19,36.5,7,2,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH01924,57,19,37.1,9,3,High,Healthy,0.79,No Alert,No Change
+TH01925,51,18,37.3,3,3,High,Healthy,0.33,No Alert,No Change
+TH01926,33,15,37.8,2,1,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH01927,42,16,37.6,5,3,High,Healthy,0.38,No Alert,No Change
+TH01928,44,15,37.4,1,1,High,Healthy,0.57,No Alert,No Change
+TH01929,50,16,37.5,6,4,High,Healthy,0.29,No Alert,No Change
+TH01930,51,12,37.0,9,3,High,Healthy,0.68,No Alert,No Change
+TH01931,37,12,36.8,9,4,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH01932,45,14,37.9,7,4,High,Healthy,0.48,No Alert,No Change
+TH01933,49,17,37.8,7,2,High,Healthy,0.86,No Alert,No Change
+TH01934,59,19,38.3,8,2,High,Healthy,0.21,No Alert,No Change
+TH01935,52,17,37.1,2,3,High,Healthy,0.84,No Alert,No Change
+TH01936,52,14,37.8,6,1,High,Healthy,0.66,No Alert,No Change
+TH01937,45,13,37.4,5,1,High,Healthy,0.99,No Alert,No Change
+TH01938,59,21,38.1,5,1,High,Healthy,0.67,No Alert,No Change
+TH01939,49,20,38.0,3,1,High,Healthy,0.24,No Alert,No Change
+TH01940,36,12,37.6,3,2,High,Critical,0.24,Emergency,Veterinary Checkup
+TH01941,59,20,37.3,6,1,High,Healthy,0.91,No Alert,No Change
+TH01942,51,19,38.0,7,1,High,Healthy,0.87,No Alert,No Change
+TH01943,40,12,37.8,1,4,High,Healthy,0.48,No Alert,No Change
+TH01944,40,14,37.2,3,1,High,Healthy,0.69,No Alert,No Change
+TH01945,47,14,36.8,1,1,Medium,Healthy,0.59,No Alert,No Change
+TH01946,49,18,37.4,3,2,High,Healthy,0.97,No Alert,No Change
+TH01947,46,16,38.3,5,3,High,Healthy,0.96,No Alert,No Change
+TH01948,48,17,38.1,9,4,High,Healthy,0.99,No Alert,No Change
+TH01949,61,19,36.9,3,4,Medium,Healthy,0.89,No Alert,No Change
+TH01950,55,20,36.9,9,3,Medium,Healthy,0.93,No Alert,No Change
+TH01951,46,20,38.1,1,4,High,Healthy,0.37,No Alert,No Change
+TH01952,54,16,36.9,6,1,Medium,Healthy,0.86,No Alert,No Change
+TH01953,34,11,37.8,9,1,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH01954,48,16,37.2,5,3,High,Healthy,0.97,No Alert,No Change
+TH01955,63,23,38.3,2,2,High,Healthy,0.66,No Alert,No Change
+TH01956,42,13,37.1,5,2,High,Healthy,0.27,No Alert,No Change
+TH01957,36,8,38.1,1,4,High,Critical,0.68,Emergency,Veterinary Checkup
+TH01958,38,15,37.6,9,2,High,Critical,0.75,Emergency,Veterinary Checkup
+TH01959,34,13,37.6,9,2,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH01960,37,9,36.5,6,2,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH01961,41,12,36.5,9,2,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH01962,30,13,37.4,3,2,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH01963,45,18,37.6,4,2,High,Healthy,0.5,No Alert,No Change
+TH01964,54,20,36.9,6,2,Medium,Healthy,0.31,No Alert,No Change
+TH01965,35,11,37.0,4,4,High,Critical,0.95,Emergency,Veterinary Checkup
+TH01966,60,20,37.8,1,1,High,Healthy,0.8,No Alert,No Change
+TH01967,50,16,37.8,7,2,High,Healthy,0.2,No Alert,No Change
+TH01968,55,21,37.4,5,1,High,Healthy,0.81,No Alert,No Change
+TH01969,38,11,37.9,8,3,High,Critical,0.79,Emergency,Veterinary Checkup
+TH01970,53,16,36.9,9,1,Medium,Healthy,0.21,No Alert,No Change
+TH01971,34,13,37.3,5,3,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH01972,53,18,38.3,8,4,High,Healthy,0.69,No Alert,No Change
+TH01973,46,18,37.5,1,1,High,Healthy,0.56,No Alert,No Change
+TH01974,50,15,37.6,1,3,High,Healthy,0.82,No Alert,No Change
+TH01975,33,11,38.7,7,1,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH01976,36,10,36.8,6,4,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH01977,50,17,37.9,5,1,High,Healthy,0.98,No Alert,No Change
+TH01978,35,9,38.3,5,3,High,Critical,0.39,Emergency,Veterinary Checkup
+TH01979,49,15,37.3,9,2,High,Healthy,0.77,No Alert,No Change
+TH01980,31,8,37.9,1,2,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH01981,53,19,37.0,8,2,High,Healthy,0.46,No Alert,No Change
+TH01982,32,12,37.2,2,4,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH01983,50,13,37.7,7,2,High,Healthy,0.35,No Alert,No Change
+TH01984,51,20,37.9,6,4,High,Healthy,0.56,No Alert,No Change
+TH01985,38,18,38.1,2,2,High,Critical,0.33,Emergency,Veterinary Checkup
+TH01986,50,17,38.3,3,4,High,Healthy,0.65,No Alert,No Change
+TH01987,47,14,37.5,4,4,High,Healthy,0.73,No Alert,No Change
+TH01988,39,19,38.1,7,1,High,Critical,0.25,Emergency,Veterinary Checkup
+TH01989,34,9,37.3,8,2,Medium,Critical,0.9,Emergency,Veterinary Checkup
+TH01990,30,10,38.0,2,1,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH01991,48,16,37.6,8,3,High,Healthy,0.38,No Alert,No Change
+TH01992,30,13,37.7,9,2,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH01993,45,16,37.7,7,2,High,Healthy,0.58,No Alert,No Change
+TH01994,42,13,36.7,1,2,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH01995,51,15,36.9,6,2,Medium,Healthy,0.3,No Alert,No Change
+TH01996,41,13,37.6,8,1,High,Healthy,0.84,No Alert,No Change
+TH01997,41,12,36.7,5,1,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH01998,52,17,37.9,2,4,High,Healthy,0.31,No Alert,No Change
+TH01999,48,15,37.9,5,1,High,Healthy,0.5,No Alert,No Change
+TH02000,48,13,37.7,8,4,High,Healthy,0.85,No Alert,No Change
+TH02001,49,19,36.9,2,3,Medium,Healthy,0.65,No Alert,No Change
+TH02002,30,9,38.2,1,1,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH02003,52,15,38.5,4,4,High,Healthy,0.5,No Alert,No Change
+TH02004,51,17,37.6,4,2,High,Healthy,0.39,No Alert,No Change
+TH02005,34,11,37.8,9,3,Medium,Critical,0.61,Emergency,Veterinary Checkup
+TH02006,42,11,37.6,3,4,High,Healthy,0.87,No Alert,No Change
+TH02007,44,15,37.8,4,3,High,Healthy,0.55,No Alert,No Change
+TH02008,43,12,37.4,3,2,High,Healthy,0.55,No Alert,No Change
+TH02009,48,19,37.5,2,2,High,Healthy,0.92,No Alert,No Change
+TH02010,59,21,38.0,4,4,High,Healthy,0.66,No Alert,No Change
+TH02011,55,18,38.7,8,4,High,Healthy,0.65,No Alert,No Change
+TH02012,31,9,36.8,1,2,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH02013,51,17,37.4,8,4,High,Healthy,0.69,No Alert,No Change
+TH02014,58,21,36.9,8,2,Medium,Healthy,0.66,No Alert,No Change
+TH02015,48,16,38.3,3,1,High,Healthy,0.52,No Alert,No Change
+TH02016,55,18,37.2,6,4,High,Healthy,0.99,No Alert,No Change
+TH02017,65,22,36.8,4,3,Medium,Healthy,0.91,No Alert,No Change
+TH02018,55,17,37.8,1,2,High,Healthy,0.8,No Alert,No Change
+TH02019,47,15,38.4,1,1,High,Healthy,0.63,No Alert,No Change
+TH02020,55,14,37.8,5,4,High,Healthy,0.57,No Alert,No Change
+TH02021,46,17,37.6,8,2,High,Healthy,0.35,No Alert,No Change
+TH02022,45,16,37.7,1,1,High,Healthy,0.44,No Alert,No Change
+TH02023,41,12,38.2,2,4,High,Healthy,0.82,No Alert,No Change
+TH02024,60,24,37.1,7,2,High,Healthy,0.56,No Alert,No Change
+TH02025,36,12,37.4,8,2,High,Critical,0.91,Emergency,Veterinary Checkup
+TH02026,60,18,37.3,3,2,High,Healthy,0.32,No Alert,No Change
+TH02027,49,18,36.9,8,4,Medium,Healthy,0.61,No Alert,No Change
+TH02028,31,11,37.3,1,1,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH02029,48,17,38.1,9,2,High,Healthy,0.61,No Alert,No Change
+TH02030,30,9,37.8,2,1,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH02031,51,18,37.8,2,1,High,Healthy,0.99,No Alert,No Change
+TH02032,53,17,37.6,4,3,High,Healthy,0.29,No Alert,No Change
+TH02033,39,14,37.8,3,1,High,Critical,0.3,Emergency,Veterinary Checkup
+TH02034,46,12,37.1,4,1,High,Healthy,0.3,No Alert,No Change
+TH02035,64,20,37.3,6,1,High,Healthy,0.74,No Alert,No Change
+TH02036,39,16,37.6,7,1,High,Critical,0.5,Emergency,Veterinary Checkup
+TH02037,34,10,37.6,5,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02038,59,18,37.7,2,4,High,Healthy,0.52,No Alert,No Change
+TH02039,64,20,37.4,3,3,High,Healthy,0.7,No Alert,No Change
+TH02040,45,13,37.3,3,2,High,Healthy,0.82,No Alert,No Change
+TH02041,55,14,39.1,5,3,Low,Healthy,0.64,No Alert,No Change
+TH02042,58,19,38.0,5,3,High,Healthy,0.63,No Alert,No Change
+TH02043,37,13,37.7,4,2,High,Critical,0.27,Emergency,Veterinary Checkup
+TH02044,40,13,37.4,8,1,High,Healthy,0.53,No Alert,No Change
+TH02045,57,19,37.3,6,2,High,Healthy,0.64,No Alert,No Change
+TH02046,61,20,37.4,6,1,High,Healthy,0.57,No Alert,No Change
+TH02047,50,19,37.6,1,2,High,Healthy,0.92,No Alert,No Change
+TH02048,36,12,36.6,6,4,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH02049,64,20,36.7,3,3,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02050,39,12,37.2,6,1,High,Critical,0.5,Emergency,Veterinary Checkup
+TH02051,41,15,37.6,6,3,High,Healthy,0.77,No Alert,No Change
+TH02052,48,19,37.4,2,1,High,Healthy,0.52,No Alert,No Change
+TH02053,60,19,38.2,1,2,High,Healthy,0.39,No Alert,No Change
+TH02054,53,18,36.8,3,2,Medium,Healthy,0.47,No Alert,No Change
+TH02055,49,17,37.1,5,2,High,Healthy,0.26,No Alert,No Change
+TH02056,49,14,38.3,4,4,High,Healthy,0.47,No Alert,No Change
+TH02057,45,15,37.6,7,2,High,Healthy,0.57,No Alert,No Change
+TH02058,50,14,37.9,4,2,High,Healthy,0.96,No Alert,No Change
+TH02059,30,8,38.5,8,4,Medium,Critical,0.45,Emergency,Veterinary Checkup
+TH02060,42,15,37.2,7,3,High,Healthy,0.92,No Alert,No Change
+TH02061,47,15,37.5,9,3,High,Healthy,0.38,No Alert,No Change
+TH02062,33,11,37.4,1,1,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH02063,48,16,36.5,5,3,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH02064,42,12,37.3,4,1,High,Healthy,0.74,No Alert,No Change
+TH02065,62,21,37.9,6,1,High,Healthy,0.24,No Alert,No Change
+TH02066,60,18,37.8,1,3,High,Healthy,0.38,No Alert,No Change
+TH02067,40,16,37.8,6,3,High,Healthy,0.56,No Alert,No Change
+TH02068,43,12,37.3,1,4,High,Healthy,0.46,No Alert,No Change
+TH02069,44,14,37.2,1,1,High,Healthy,0.77,No Alert,No Change
+TH02070,40,11,38.1,8,3,High,Healthy,0.61,No Alert,No Change
+TH02071,46,16,37.3,2,3,High,Healthy,0.33,No Alert,No Change
+TH02072,37,12,37.6,6,4,High,Critical,0.92,Emergency,Veterinary Checkup
+TH02073,33,10,37.6,6,3,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH02074,51,19,38.2,6,2,High,Healthy,0.78,No Alert,No Change
+TH02075,51,17,38.0,8,2,High,Healthy,0.82,No Alert,No Change
+TH02076,36,13,36.9,4,1,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH02077,53,16,36.9,3,4,Medium,Healthy,0.6,No Alert,No Change
+TH02078,38,10,37.8,6,3,High,Critical,0.69,Emergency,Veterinary Checkup
+TH02079,47,16,37.5,4,1,High,Healthy,0.47,No Alert,No Change
+TH02080,53,17,37.3,2,3,High,Healthy,0.74,No Alert,No Change
+TH02081,44,16,38.0,6,2,High,Healthy,0.57,No Alert,No Change
+TH02082,49,16,37.6,5,3,High,Healthy,0.55,No Alert,No Change
+TH02083,39,13,37.5,9,3,High,Critical,0.88,Emergency,Veterinary Checkup
+TH02084,43,11,37.9,6,3,High,Healthy,0.24,No Alert,No Change
+TH02085,42,18,37.3,3,2,High,Healthy,0.91,No Alert,No Change
+TH02086,37,12,38.3,5,2,High,Critical,0.88,Emergency,Veterinary Checkup
+TH02087,43,16,37.1,8,4,High,Healthy,0.61,No Alert,No Change
+TH02088,30,8,37.8,9,2,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH02089,40,14,38.2,8,1,High,Healthy,0.49,No Alert,No Change
+TH02090,42,11,36.8,3,3,Medium,Healthy,1.0,No Alert,No Change
+TH02091,42,15,37.3,9,2,High,Healthy,0.29,No Alert,No Change
+TH02092,42,13,38.1,3,1,High,Healthy,0.67,No Alert,No Change
+TH02093,44,15,38.1,8,2,High,Healthy,0.75,No Alert,No Change
+TH02094,49,18,37.4,9,3,High,Healthy,0.95,No Alert,No Change
+TH02095,53,15,37.1,7,1,High,Healthy,0.82,No Alert,No Change
+TH02096,38,11,38.0,4,2,High,Critical,0.72,Emergency,Veterinary Checkup
+TH02097,32,12,38.1,9,2,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH02098,34,16,36.9,3,1,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH02099,40,13,36.9,3,4,Medium,Healthy,0.31,No Alert,No Change
+TH02100,41,15,37.6,2,1,High,Healthy,0.9,No Alert,No Change
+TH02101,37,12,37.8,3,1,High,Critical,0.8,Emergency,Veterinary Checkup
+TH02102,32,15,37.4,1,1,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH02103,40,10,37.8,4,1,High,Healthy,0.72,No Alert,No Change
+TH02104,46,16,37.1,8,2,High,Healthy,0.61,No Alert,No Change
+TH02105,50,13,36.5,5,1,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH02106,39,8,37.3,2,1,High,Critical,0.46,Emergency,Veterinary Checkup
+TH02107,40,14,37.5,3,3,High,Healthy,0.31,No Alert,No Change
+TH02108,35,12,37.4,1,2,High,Critical,0.78,Emergency,Veterinary Checkup
+TH02109,44,14,36.9,2,3,Medium,Healthy,0.33,No Alert,No Change
+TH02110,36,12,36.6,1,2,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH02111,50,23,37.2,2,4,High,Healthy,0.75,No Alert,No Change
+TH02112,30,9,37.9,3,4,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH02113,41,15,38.1,1,2,High,Healthy,0.31,No Alert,No Change
+TH02114,48,15,38.1,9,4,High,Healthy,0.45,No Alert,No Change
+TH02115,46,16,37.1,5,4,High,Healthy,0.46,No Alert,No Change
+TH02116,71,23,36.9,8,2,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH02117,48,15,37.7,5,1,High,Healthy,0.29,No Alert,No Change
+TH02118,34,15,37.8,8,3,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02119,44,17,37.7,7,2,High,Healthy,0.81,No Alert,No Change
+TH02120,30,10,36.5,4,2,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH02121,44,10,37.1,7,2,High,Healthy,0.78,No Alert,No Change
+TH02122,36,11,37.5,6,3,High,Critical,0.73,Emergency,Veterinary Checkup
+TH02123,54,23,37.7,3,2,High,Healthy,0.8,No Alert,No Change
+TH02124,39,13,37.9,9,3,High,Critical,0.35,Emergency,Veterinary Checkup
+TH02125,43,17,37.6,9,3,High,Healthy,0.33,No Alert,No Change
+TH02126,38,16,37.7,5,4,High,Critical,0.39,Emergency,Veterinary Checkup
+TH02127,62,21,37.5,8,1,High,Healthy,0.49,No Alert,No Change
+TH02128,41,12,37.8,7,4,High,Healthy,0.83,No Alert,No Change
+TH02129,63,16,37.7,9,2,High,Healthy,0.79,No Alert,No Change
+TH02130,53,19,37.5,7,2,High,Healthy,0.94,No Alert,No Change
+TH02131,49,15,37.4,4,3,High,Healthy,0.25,No Alert,No Change
+TH02132,48,16,37.5,4,4,High,Healthy,0.21,No Alert,No Change
+TH02133,48,14,37.7,8,3,High,Healthy,0.76,No Alert,No Change
+TH02134,30,9,37.6,6,4,Medium,Critical,0.42,Emergency,Veterinary Checkup
+TH02135,42,14,37.7,9,4,High,Healthy,0.47,No Alert,No Change
+TH02136,53,18,38.2,7,4,High,Healthy,0.64,No Alert,No Change
+TH02137,44,12,37.6,7,4,High,Healthy,0.28,No Alert,No Change
+TH02138,30,12,37.2,4,4,Medium,Critical,0.71,Emergency,Veterinary Checkup
+TH02139,44,13,37.9,3,1,High,Healthy,0.46,No Alert,No Change
+TH02140,62,17,36.8,8,2,Medium,Healthy,0.71,No Alert,No Change
+TH02141,57,19,37.0,7,4,High,Healthy,0.87,No Alert,No Change
+TH02142,44,15,37.7,4,4,High,Healthy,0.34,No Alert,No Change
+TH02143,54,18,37.8,4,3,High,Healthy,0.94,No Alert,No Change
+TH02144,41,16,36.9,1,2,Medium,Healthy,0.62,No Alert,No Change
+TH02145,30,10,37.3,7,2,Medium,Critical,0.94,Emergency,Veterinary Checkup
+TH02146,35,11,37.2,1,2,High,Critical,0.37,Emergency,Veterinary Checkup
+TH02147,60,18,37.3,4,4,High,Healthy,0.68,No Alert,No Change
+TH02148,42,16,38.0,3,3,High,Healthy,0.52,No Alert,No Change
+TH02149,42,14,37.9,3,2,High,Healthy,0.82,No Alert,No Change
+TH02150,42,13,37.5,1,3,High,Healthy,0.68,No Alert,No Change
+TH02151,64,18,37.2,4,1,High,Healthy,0.6,No Alert,No Change
+TH02152,61,23,36.8,1,1,Medium,Healthy,0.93,No Alert,No Change
+TH02153,67,20,38.2,8,3,Low,Healthy,0.5,No Alert,No Change
+TH02154,43,13,37.8,1,4,High,Healthy,0.38,No Alert,No Change
+TH02155,47,16,37.1,6,2,High,Healthy,0.69,No Alert,No Change
+TH02156,30,8,37.9,7,1,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH02157,59,17,37.5,2,1,High,Healthy,0.55,No Alert,No Change
+TH02158,33,8,37.4,4,3,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH02159,47,17,37.7,3,4,High,Healthy,0.97,No Alert,No Change
+TH02160,34,10,37.1,9,3,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02161,39,19,37.3,7,3,High,Critical,0.29,Emergency,Veterinary Checkup
+TH02162,36,10,37.6,2,3,High,Critical,0.37,Emergency,Veterinary Checkup
+TH02163,38,11,37.3,6,3,High,Critical,0.98,Emergency,Veterinary Checkup
+TH02164,39,12,37.8,9,3,High,Critical,0.78,Emergency,Veterinary Checkup
+TH02165,39,13,38.4,3,4,High,Critical,0.93,Emergency,Veterinary Checkup
+TH02166,53,17,37.1,6,3,High,Healthy,0.44,No Alert,No Change
+TH02167,33,12,36.7,3,4,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02168,47,14,36.5,3,2,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH02169,57,16,37.4,4,2,High,Healthy,0.44,No Alert,No Change
+TH02170,39,9,37.2,9,2,High,Critical,0.64,Emergency,Veterinary Checkup
+TH02171,37,8,37.6,8,2,High,Critical,0.7,Emergency,Veterinary Checkup
+TH02172,42,13,37.6,1,1,High,Healthy,0.58,No Alert,No Change
+TH02173,56,18,36.7,1,4,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02174,46,14,36.6,7,2,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH02175,39,15,37.6,3,1,High,Critical,0.88,Emergency,Veterinary Checkup
+TH02176,49,19,37.6,7,4,High,Healthy,0.84,No Alert,No Change
+TH02177,33,10,37.3,9,1,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH02178,51,13,36.7,3,1,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH02179,49,15,37.7,3,3,High,Healthy,0.87,No Alert,No Change
+TH02180,41,12,38.1,2,1,High,Healthy,0.59,No Alert,No Change
+TH02181,36,11,37.6,1,1,High,Critical,0.4,Emergency,Veterinary Checkup
+TH02182,36,11,37.1,9,4,High,Critical,0.61,Emergency,Veterinary Checkup
+TH02183,50,15,37.5,6,1,High,Healthy,0.31,No Alert,No Change
+TH02184,57,18,36.8,6,3,Medium,Healthy,0.75,No Alert,No Change
+TH02185,38,11,38.0,8,2,High,Critical,0.47,Emergency,Veterinary Checkup
+TH02186,49,17,37.5,5,2,High,Healthy,0.41,No Alert,No Change
+TH02187,30,11,36.6,9,4,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH02188,39,11,37.3,5,4,High,Critical,0.82,Emergency,Veterinary Checkup
+TH02189,44,17,37.7,2,1,High,Healthy,0.83,No Alert,No Change
+TH02190,35,10,37.3,6,4,High,Critical,0.7,Emergency,Veterinary Checkup
+TH02191,35,8,37.4,9,1,High,Critical,0.87,Emergency,Veterinary Checkup
+TH02192,38,13,36.9,3,4,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH02193,47,14,37.8,4,2,High,Healthy,0.68,No Alert,No Change
+TH02194,43,15,37.2,8,2,High,Healthy,0.97,No Alert,No Change
+TH02195,30,8,36.5,6,2,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH02196,30,13,37.3,7,2,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH02197,38,14,38.0,7,1,High,Critical,0.52,Emergency,Veterinary Checkup
+TH02198,49,13,37.3,4,1,High,Healthy,0.62,No Alert,No Change
+TH02199,30,8,38.4,6,1,Medium,Critical,0.3,Emergency,Veterinary Checkup
+TH02200,40,17,37.7,9,2,High,Healthy,0.63,No Alert,No Change
+TH02201,39,12,37.7,3,3,High,Critical,0.69,Emergency,Veterinary Checkup
+TH02202,58,18,37.4,8,2,High,Healthy,1.0,No Alert,No Change
+TH02203,41,9,37.5,7,2,High,Healthy,0.98,No Alert,No Change
+TH02204,48,15,37.4,4,3,High,Healthy,0.97,No Alert,No Change
+TH02205,46,15,37.3,3,3,High,Healthy,0.48,No Alert,No Change
+TH02206,30,11,37.8,7,4,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH02207,52,15,37.0,9,2,High,Healthy,0.56,No Alert,No Change
+TH02208,47,13,37.0,3,3,High,Healthy,0.88,No Alert,No Change
+TH02209,50,18,36.9,9,4,Medium,Healthy,0.37,No Alert,No Change
+TH02210,80,29,38.5,8,3,Low,Critical,0.6,Emergency,Veterinary Checkup
+TH02211,30,8,37.8,3,3,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH02212,62,23,37.7,8,4,High,Healthy,0.96,No Alert,No Change
+TH02213,42,14,37.0,4,2,High,Healthy,0.75,No Alert,No Change
+TH02214,47,18,37.8,6,4,High,Healthy,0.84,No Alert,No Change
+TH02215,44,15,37.4,2,2,High,Healthy,0.34,No Alert,No Change
+TH02216,40,8,37.6,8,3,High,Healthy,0.78,No Alert,No Change
+TH02217,39,13,37.0,9,4,High,Critical,0.69,Emergency,Veterinary Checkup
+TH02218,48,18,37.6,7,1,High,Healthy,0.27,No Alert,No Change
+TH02219,30,8,37.3,8,3,Medium,Critical,0.29,Emergency,Veterinary Checkup
+TH02220,52,17,37.1,7,4,High,Healthy,0.29,No Alert,No Change
+TH02221,40,13,37.9,4,3,High,Healthy,0.78,No Alert,No Change
+TH02222,33,8,36.7,1,4,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH02223,40,17,37.8,3,2,High,Healthy,0.57,No Alert,No Change
+TH02224,57,17,37.8,7,1,High,Healthy,0.49,No Alert,No Change
+TH02225,39,14,37.1,7,3,High,Critical,0.64,Emergency,Veterinary Checkup
+TH02226,48,16,37.1,3,1,High,Healthy,0.77,No Alert,No Change
+TH02227,37,15,37.4,1,2,High,Critical,0.75,Emergency,Veterinary Checkup
+TH02228,52,18,37.6,9,4,High,Healthy,0.61,No Alert,No Change
+TH02229,51,17,37.4,6,1,High,Healthy,0.57,No Alert,No Change
+TH02230,63,19,37.7,7,4,High,Healthy,0.52,No Alert,No Change
+TH02231,43,16,38.4,1,2,High,Healthy,0.89,No Alert,No Change
+TH02232,51,13,37.2,1,3,High,Healthy,0.46,No Alert,No Change
+TH02233,45,16,36.6,4,2,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH02234,57,17,37.9,7,1,High,Healthy,0.79,No Alert,No Change
+TH02235,37,15,38.3,8,1,High,Critical,0.49,Emergency,Veterinary Checkup
+TH02236,52,18,37.7,9,1,High,Healthy,0.88,No Alert,No Change
+TH02237,43,16,37.0,1,4,High,Healthy,0.46,No Alert,No Change
+TH02238,44,15,37.4,4,3,High,Healthy,0.76,No Alert,No Change
+TH02239,45,11,36.9,4,1,Medium,Healthy,0.24,No Alert,No Change
+TH02240,47,14,37.8,3,1,High,Healthy,0.51,No Alert,No Change
+TH02241,43,16,36.8,7,1,Medium,Healthy,0.47,No Alert,No Change
+TH02242,47,16,37.3,1,2,High,Healthy,0.85,No Alert,No Change
+TH02243,60,22,37.0,9,1,High,Healthy,0.97,No Alert,No Change
+TH02244,54,19,37.6,8,2,High,Healthy,0.57,No Alert,No Change
+TH02245,53,16,37.3,2,1,High,Healthy,0.86,No Alert,No Change
+TH02246,40,12,37.6,2,2,High,Healthy,0.76,No Alert,No Change
+TH02247,36,12,37.5,8,4,High,Critical,0.97,Emergency,Veterinary Checkup
+TH02248,54,13,37.0,1,4,High,Healthy,0.85,No Alert,No Change
+TH02249,53,21,37.8,7,2,High,Healthy,0.26,No Alert,No Change
+TH02250,59,21,37.5,9,3,High,Healthy,0.77,No Alert,No Change
+TH02251,38,15,37.0,3,3,High,Critical,0.63,Emergency,Veterinary Checkup
+TH02252,42,11,38.6,7,2,High,Healthy,0.21,No Alert,No Change
+TH02253,30,12,37.7,6,4,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH02254,41,18,37.4,7,2,High,Healthy,0.94,No Alert,No Change
+TH02255,54,15,38.2,7,3,High,Healthy,0.94,No Alert,No Change
+TH02256,40,15,38.4,1,2,High,Healthy,0.84,No Alert,No Change
+TH02257,51,17,37.4,3,4,High,Healthy,0.99,No Alert,No Change
+TH02258,43,11,37.7,1,3,High,Healthy,0.85,No Alert,No Change
+TH02259,48,17,37.0,5,3,High,Healthy,0.21,No Alert,No Change
+TH02260,33,13,37.4,3,1,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH02261,45,14,37.4,1,1,High,Healthy,0.22,No Alert,No Change
+TH02262,30,12,37.6,2,3,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH02263,43,11,37.7,5,3,High,Healthy,0.38,No Alert,No Change
+TH02264,30,8,37.8,3,2,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH02265,57,19,37.6,6,4,High,Healthy,0.88,No Alert,No Change
+TH02266,52,17,36.9,9,3,Medium,Healthy,0.89,No Alert,No Change
+TH02267,49,15,37.0,6,4,High,Healthy,0.69,No Alert,No Change
+TH02268,60,22,37.2,2,3,High,Healthy,0.94,No Alert,No Change
+TH02269,35,13,37.4,2,4,High,Critical,0.6,Emergency,Veterinary Checkup
+TH02270,62,22,38.0,8,1,High,Healthy,0.91,No Alert,No Change
+TH02271,54,18,36.9,8,3,Medium,Healthy,0.56,No Alert,No Change
+TH02272,42,15,37.3,6,2,High,Healthy,0.42,No Alert,No Change
+TH02273,56,18,38.0,7,4,High,Healthy,0.93,No Alert,No Change
+TH02274,33,15,37.4,1,3,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH02275,36,10,37.7,9,1,High,Critical,0.6,Emergency,Veterinary Checkup
+TH02276,38,17,37.4,5,1,High,Critical,0.46,Emergency,Veterinary Checkup
+TH02277,39,13,37.6,9,1,High,Critical,0.73,Emergency,Veterinary Checkup
+TH02278,34,9,37.4,2,1,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH02279,57,22,37.8,8,3,High,Healthy,0.22,No Alert,No Change
+TH02280,42,14,36.7,7,2,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH02281,48,18,37.3,4,4,High,Healthy,0.2,No Alert,No Change
+TH02282,39,15,37.6,3,2,High,Critical,0.49,Emergency,Veterinary Checkup
+TH02283,30,11,37.8,4,4,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH02284,47,14,38.2,4,2,High,Healthy,0.81,No Alert,No Change
+TH02285,30,12,37.3,8,3,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH02286,44,15,38.2,4,3,High,Healthy,0.64,No Alert,No Change
+TH02287,31,12,37.2,5,4,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH02288,64,17,38.2,2,3,High,Healthy,0.31,No Alert,No Change
+TH02289,54,19,37.9,4,4,High,Healthy,0.82,No Alert,No Change
+TH02290,46,14,37.0,7,2,High,Healthy,0.37,No Alert,No Change
+TH02291,57,22,37.7,3,3,High,Healthy,0.38,No Alert,No Change
+TH02292,36,13,37.5,1,3,High,Critical,0.42,Emergency,Veterinary Checkup
+TH02293,50,17,37.8,8,4,High,Healthy,0.67,No Alert,No Change
+TH02294,46,16,37.4,8,4,High,Healthy,0.73,No Alert,No Change
+TH02295,47,14,37.3,6,4,High,Healthy,0.21,No Alert,No Change
+TH02296,57,22,38.2,7,4,High,Healthy,0.39,No Alert,No Change
+TH02297,52,21,37.5,2,1,High,Healthy,0.54,No Alert,No Change
+TH02298,47,16,37.9,5,4,High,Healthy,0.47,No Alert,No Change
+TH02299,30,13,37.4,7,1,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH02300,35,11,38.3,9,2,High,Critical,0.83,Emergency,Veterinary Checkup
+TH02301,43,13,37.2,1,4,High,Healthy,0.7,No Alert,No Change
+TH02302,45,15,37.2,3,1,High,Healthy,0.47,No Alert,No Change
+TH02303,33,12,38.3,6,1,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH02304,69,22,37.3,7,1,Low,Healthy,0.87,No Alert,No Change
+TH02305,60,21,38.3,6,3,High,Healthy,0.68,No Alert,No Change
+TH02306,51,18,37.9,1,1,High,Healthy,0.83,No Alert,No Change
+TH02307,45,13,37.4,4,4,High,Healthy,0.8,No Alert,No Change
+TH02308,42,15,36.6,6,4,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH02309,35,13,37.5,8,4,High,Critical,0.45,Emergency,Veterinary Checkup
+TH02310,45,15,37.6,4,1,High,Healthy,0.8,No Alert,No Change
+TH02311,47,18,38.1,7,1,High,Healthy,0.37,No Alert,No Change
+TH02312,32,8,38.3,3,3,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH02313,48,17,37.2,8,2,High,Healthy,0.84,No Alert,No Change
+TH02314,43,12,37.9,1,3,High,Healthy,0.86,No Alert,No Change
+TH02315,30,8,37.9,4,4,Medium,Critical,0.58,Emergency,Veterinary Checkup
+TH02316,36,11,38.0,8,4,High,Critical,0.35,Emergency,Veterinary Checkup
+TH02317,40,11,37.7,4,4,High,Healthy,0.28,No Alert,No Change
+TH02318,63,20,36.5,2,3,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02319,50,16,37.4,2,4,High,Healthy,0.91,No Alert,No Change
+TH02320,31,12,36.9,4,4,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH02321,49,16,37.4,4,4,High,Healthy,0.32,No Alert,No Change
+TH02322,30,8,38.0,2,1,Medium,Critical,0.95,Emergency,Veterinary Checkup
+TH02323,55,21,37.7,7,2,High,Healthy,0.99,No Alert,No Change
+TH02324,40,12,38.1,6,1,High,Healthy,0.55,No Alert,No Change
+TH02325,44,15,37.7,3,1,High,Healthy,0.68,No Alert,No Change
+TH02326,58,20,36.9,8,2,Medium,Healthy,0.82,No Alert,No Change
+TH02327,32,11,36.5,8,2,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02328,31,13,37.6,1,3,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH02329,39,14,37.4,3,2,High,Critical,0.29,Emergency,Veterinary Checkup
+TH02330,55,17,37.0,5,3,High,Healthy,0.66,No Alert,No Change
+TH02331,30,14,36.6,2,3,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH02332,30,10,37.1,5,1,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH02333,40,13,37.4,3,4,High,Healthy,0.9,No Alert,No Change
+TH02334,50,19,37.8,9,1,High,Healthy,0.98,No Alert,No Change
+TH02335,57,19,37.6,1,1,High,Healthy,0.61,No Alert,No Change
+TH02336,40,14,38.3,4,2,High,Healthy,0.86,No Alert,No Change
+TH02337,40,18,37.0,6,2,High,Healthy,0.54,No Alert,No Change
+TH02338,56,18,37.9,9,3,High,Healthy,0.54,No Alert,No Change
+TH02339,30,9,37.5,3,3,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH02340,41,14,37.8,3,3,High,Healthy,0.85,No Alert,No Change
+TH02341,46,17,37.3,5,2,High,Healthy,0.99,No Alert,No Change
+TH02342,49,13,38.0,7,3,High,Healthy,0.41,No Alert,No Change
+TH02343,39,9,37.6,5,3,High,Critical,0.24,Emergency,Veterinary Checkup
+TH02344,45,14,37.2,8,2,High,Healthy,0.85,No Alert,No Change
+TH02345,30,8,37.5,5,4,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH02346,38,12,37.4,7,1,High,Critical,0.97,Emergency,Veterinary Checkup
+TH02347,49,17,37.7,6,2,High,Healthy,0.4,No Alert,No Change
+TH02348,35,10,36.9,2,3,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH02349,45,12,37.5,3,1,High,Healthy,0.59,No Alert,No Change
+TH02350,49,16,37.7,4,2,High,Healthy,0.27,No Alert,No Change
+TH02351,41,15,37.5,5,1,High,Healthy,0.41,No Alert,No Change
+TH02352,46,12,38.2,9,1,High,Healthy,0.3,No Alert,No Change
+TH02353,35,13,37.9,6,4,High,Critical,0.38,Emergency,Veterinary Checkup
+TH02354,42,16,37.5,1,3,High,Healthy,0.28,No Alert,No Change
+TH02355,51,19,37.6,3,2,High,Healthy,0.96,No Alert,No Change
+TH02356,46,18,37.6,7,3,High,Healthy,0.42,No Alert,No Change
+TH02357,39,17,37.7,8,4,High,Critical,0.56,Emergency,Veterinary Checkup
+TH02358,47,15,36.6,7,4,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH02359,52,18,37.3,5,2,High,Healthy,0.74,No Alert,No Change
+TH02360,30,9,36.8,8,2,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH02361,56,19,38.1,9,4,High,Healthy,0.76,No Alert,No Change
+TH02362,41,17,37.5,7,2,High,Healthy,0.86,No Alert,No Change
+TH02363,49,14,37.4,9,1,High,Healthy,0.9,No Alert,No Change
+TH02364,56,17,37.9,1,1,High,Healthy,0.71,No Alert,No Change
+TH02365,31,13,37.7,9,4,Medium,Critical,0.91,Emergency,Veterinary Checkup
+TH02366,37,14,36.9,3,3,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH02367,42,13,37.5,6,2,High,Healthy,0.42,No Alert,No Change
+TH02368,37,14,37.3,8,2,High,Critical,0.9,Emergency,Veterinary Checkup
+TH02369,62,21,36.6,3,1,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH02370,36,15,37.2,4,2,High,Critical,0.92,Emergency,Veterinary Checkup
+TH02371,39,13,37.4,7,3,High,Critical,0.23,Emergency,Veterinary Checkup
+TH02372,47,18,37.4,7,2,High,Healthy,0.52,No Alert,No Change
+TH02373,32,16,36.8,4,2,Medium,Critical,0.96,Emergency,Veterinary Checkup
+TH02374,41,15,38.1,9,1,High,Healthy,0.4,No Alert,No Change
+TH02375,48,16,37.4,3,2,High,Healthy,0.95,No Alert,No Change
+TH02376,41,15,37.5,8,4,High,Healthy,0.96,No Alert,No Change
+TH02377,44,14,37.7,8,4,High,Healthy,0.91,No Alert,No Change
+TH02378,39,18,37.1,4,3,High,Critical,0.65,Emergency,Veterinary Checkup
+TH02379,30,10,37.7,7,3,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH02380,48,15,37.3,4,3,High,Healthy,0.9,No Alert,No Change
+TH02381,62,19,37.1,1,3,High,Healthy,0.82,No Alert,No Change
+TH02382,45,17,37.8,1,1,High,Healthy,0.7,No Alert,No Change
+TH02383,47,17,38.2,1,2,High,Healthy,0.99,No Alert,No Change
+TH02384,51,16,37.9,2,1,High,Healthy,0.75,No Alert,No Change
+TH02385,32,12,38.0,6,3,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH02386,62,18,37.2,5,2,High,Healthy,0.25,No Alert,No Change
+TH02387,47,16,36.7,2,4,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH02388,61,21,38.2,8,1,High,Healthy,0.56,No Alert,No Change
+TH02389,37,16,38.5,9,2,High,Critical,0.51,Emergency,Veterinary Checkup
+TH02390,63,19,38.3,7,4,High,Healthy,0.83,No Alert,No Change
+TH02391,52,15,37.3,9,4,High,Healthy,0.33,No Alert,No Change
+TH02392,50,15,36.9,4,3,Medium,Healthy,0.98,No Alert,No Change
+TH02393,47,13,37.0,7,4,High,Healthy,0.45,No Alert,No Change
+TH02394,42,17,36.7,5,4,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH02395,57,22,37.4,5,3,High,Healthy,0.42,No Alert,No Change
+TH02396,46,16,38.3,3,2,High,Healthy,0.66,No Alert,No Change
+TH02397,30,12,37.4,9,2,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH02398,33,11,37.7,5,3,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH02399,43,14,38.2,6,1,High,Healthy,0.8,No Alert,No Change
+TH02400,48,15,37.3,3,3,High,Healthy,0.35,No Alert,No Change
+TH02401,44,14,38.5,7,2,High,Healthy,0.39,No Alert,No Change
+TH02402,57,16,38.5,9,1,High,Healthy,0.83,No Alert,No Change
+TH02403,30,11,37.4,9,3,Medium,Critical,0.27,Emergency,Veterinary Checkup
+TH02404,46,15,37.2,5,2,High,Healthy,0.55,No Alert,No Change
+TH02405,30,11,37.8,7,2,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH02406,52,18,37.3,3,2,High,Healthy,0.48,No Alert,No Change
+TH02407,44,14,36.9,6,4,Medium,Healthy,0.76,No Alert,No Change
+TH02408,49,15,38.1,8,4,High,Healthy,0.27,No Alert,No Change
+TH02409,36,12,38.1,8,1,High,Critical,0.91,Emergency,Veterinary Checkup
+TH02410,57,20,37.6,2,1,High,Healthy,0.93,No Alert,No Change
+TH02411,55,16,36.9,6,1,Medium,Healthy,0.28,No Alert,No Change
+TH02412,50,17,36.9,7,4,Medium,Healthy,0.99,No Alert,No Change
+TH02413,43,15,37.6,7,1,High,Healthy,0.44,No Alert,No Change
+TH02414,50,15,37.3,3,2,High,Healthy,0.27,No Alert,No Change
+TH02415,37,11,37.3,9,2,High,Critical,0.2,Emergency,Veterinary Checkup
+TH02416,53,18,38.0,2,1,High,Healthy,0.53,No Alert,No Change
+TH02417,61,18,37.9,3,1,High,Healthy,0.7,No Alert,No Change
+TH02418,55,19,38.2,2,4,High,Healthy,0.47,No Alert,No Change
+TH02419,37,11,37.0,9,2,High,Critical,0.87,Emergency,Veterinary Checkup
+TH02420,48,18,37.3,4,3,High,Healthy,0.77,No Alert,No Change
+TH02421,32,15,37.9,2,3,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH02422,50,15,37.7,3,4,High,Healthy,0.79,No Alert,No Change
+TH02423,49,17,38.3,4,4,High,Healthy,0.95,No Alert,No Change
+TH02424,30,9,37.7,6,4,Medium,Critical,0.27,Emergency,Veterinary Checkup
+TH02425,33,13,38.4,5,2,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH02426,42,11,37.8,3,1,High,Healthy,0.57,No Alert,No Change
+TH02427,41,15,38.0,8,1,High,Healthy,0.6,No Alert,No Change
+TH02428,32,9,37.3,8,4,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH02429,48,16,37.5,7,2,High,Healthy,0.44,No Alert,No Change
+TH02430,47,14,38.0,3,3,High,Healthy,0.73,No Alert,No Change
+TH02431,43,16,38.3,1,4,High,Healthy,0.72,No Alert,No Change
+TH02432,37,11,37.9,5,2,High,Critical,0.66,Emergency,Veterinary Checkup
+TH02433,55,19,37.5,1,4,High,Healthy,0.29,No Alert,No Change
+TH02434,61,20,38.2,6,2,High,Healthy,0.58,No Alert,No Change
+TH02435,40,13,36.5,7,2,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH02436,38,13,36.8,5,4,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH02437,49,15,37.8,4,1,High,Healthy,0.94,No Alert,No Change
+TH02438,41,14,37.5,2,4,High,Healthy,0.58,No Alert,No Change
+TH02439,43,17,37.8,5,1,High,Healthy,0.21,No Alert,No Change
+TH02440,52,16,37.5,9,1,High,Healthy,0.55,No Alert,No Change
+TH02441,30,12,37.8,4,3,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02442,58,22,37.1,2,2,High,Healthy,0.82,No Alert,No Change
+TH02443,45,13,37.8,6,4,High,Healthy,0.61,No Alert,No Change
+TH02444,40,10,38.0,8,2,High,Healthy,0.4,No Alert,No Change
+TH02445,44,15,38.1,2,3,High,Healthy,0.57,No Alert,No Change
+TH02446,44,14,38.5,9,1,High,Healthy,0.65,No Alert,No Change
+TH02447,30,14,37.6,7,4,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH02448,59,20,37.6,2,2,High,Healthy,0.72,No Alert,No Change
+TH02449,45,13,36.7,5,3,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH02450,49,14,37.2,5,1,High,Healthy,0.59,No Alert,No Change
+TH02451,54,20,37.4,7,1,High,Healthy,0.48,No Alert,No Change
+TH02452,34,10,38.0,5,2,Medium,Critical,0.85,Emergency,Veterinary Checkup
+TH02453,49,16,37.2,6,1,High,Healthy,0.6,No Alert,No Change
+TH02454,42,16,37.9,9,3,High,Healthy,1.0,No Alert,No Change
+TH02455,53,17,37.5,3,1,High,Healthy,0.57,No Alert,No Change
+TH02456,30,10,37.4,3,4,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH02457,44,15,37.6,8,4,High,Healthy,0.75,No Alert,No Change
+TH02458,38,14,37.3,6,2,High,Critical,0.24,Emergency,Veterinary Checkup
+TH02459,49,18,37.3,3,3,High,Healthy,0.4,No Alert,No Change
+TH02460,49,16,36.6,2,1,Medium,Critical,0.48,Emergency,Veterinary Checkup
+TH02461,37,12,37.4,2,1,High,Critical,0.79,Emergency,Veterinary Checkup
+TH02462,37,12,37.3,2,1,High,Critical,0.6,Emergency,Veterinary Checkup
+TH02463,43,11,37.2,5,4,High,Healthy,0.22,No Alert,No Change
+TH02464,36,13,37.7,5,3,High,Critical,0.69,Emergency,Veterinary Checkup
+TH02465,53,21,37.8,1,1,High,Healthy,0.53,No Alert,No Change
+TH02466,41,12,37.6,2,2,High,Healthy,0.94,No Alert,No Change
+TH02467,30,8,38.0,2,3,Medium,Critical,0.6,Emergency,Veterinary Checkup
+TH02468,41,12,37.8,4,3,High,Healthy,0.77,No Alert,No Change
+TH02469,34,13,37.4,7,1,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH02470,30,11,37.3,3,4,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH02471,32,10,37.7,5,3,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02472,46,13,37.8,9,2,High,Healthy,0.92,No Alert,No Change
+TH02473,58,20,38.2,5,3,High,Healthy,0.23,No Alert,No Change
+TH02474,48,13,38.1,9,4,High,Healthy,0.56,No Alert,No Change
+TH02475,38,13,37.2,1,2,High,Critical,0.74,Emergency,Veterinary Checkup
+TH02476,49,18,37.4,9,4,High,Healthy,0.28,No Alert,No Change
+TH02477,40,11,37.8,5,1,High,Healthy,0.53,No Alert,No Change
+TH02478,38,10,38.0,8,3,High,Critical,0.95,Emergency,Veterinary Checkup
+TH02479,33,14,38.0,5,2,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH02480,30,9,37.5,6,4,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH02481,41,16,36.9,8,1,Medium,Healthy,0.25,No Alert,No Change
+TH02482,46,15,37.0,2,2,High,Healthy,0.77,No Alert,No Change
+TH02483,44,14,37.6,3,3,High,Healthy,0.66,No Alert,No Change
+TH02484,40,14,37.7,9,3,High,Healthy,0.6,No Alert,No Change
+TH02485,35,10,37.0,5,4,High,Critical,0.98,Emergency,Veterinary Checkup
+TH02486,51,17,37.5,5,2,High,Healthy,0.3,No Alert,No Change
+TH02487,31,10,37.8,9,1,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH02488,52,15,36.9,3,1,Medium,Healthy,0.75,No Alert,No Change
+TH02489,34,12,38.1,4,1,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH02490,37,12,37.3,7,4,High,Critical,0.92,Emergency,Veterinary Checkup
+TH02491,30,10,38.1,2,1,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH02492,39,11,37.2,8,2,High,Critical,0.85,Emergency,Veterinary Checkup
+TH02493,54,21,37.0,5,4,High,Healthy,0.51,No Alert,No Change
+TH02494,50,18,37.3,1,3,High,Healthy,0.88,No Alert,No Change
+TH02495,54,20,37.5,3,4,High,Healthy,0.71,No Alert,No Change
+TH02496,50,16,37.3,9,4,High,Healthy,0.31,No Alert,No Change
+TH02497,33,8,37.4,5,4,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH02498,41,18,37.7,8,2,High,Healthy,0.35,No Alert,No Change
+TH02499,37,12,37.4,1,3,High,Critical,0.53,Emergency,Veterinary Checkup
+TH02500,58,18,37.5,7,3,High,Healthy,0.34,No Alert,No Change
+TH02501,33,12,36.6,7,4,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH02502,53,20,37.7,8,4,High,Healthy,0.37,No Alert,No Change
+TH02503,53,18,37.5,3,4,High,Healthy,0.63,No Alert,No Change
+TH02504,63,24,38.3,1,2,High,Healthy,0.59,No Alert,No Change
+TH02505,40,15,37.0,9,2,High,Healthy,0.6,No Alert,No Change
+TH02506,52,15,36.6,1,1,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH02507,67,21,37.8,6,3,Low,Healthy,0.75,No Alert,No Change
+TH02508,38,15,37.7,9,1,High,Critical,0.76,Emergency,Veterinary Checkup
+TH02509,30,8,37.0,2,1,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH02510,30,10,36.7,4,4,Medium,Critical,0.9,Emergency,Veterinary Checkup
+TH02511,52,14,38.3,2,2,High,Healthy,0.72,No Alert,No Change
+TH02512,30,9,38.2,4,1,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH02513,41,13,36.5,2,1,Medium,Critical,0.42,Emergency,Veterinary Checkup
+TH02514,49,16,37.3,1,1,High,Healthy,0.2,No Alert,No Change
+TH02515,46,14,38.3,3,4,High,Healthy,0.89,No Alert,No Change
+TH02516,49,14,37.3,8,4,High,Healthy,0.86,No Alert,No Change
+TH02517,47,20,37.3,5,2,High,Healthy,0.3,No Alert,No Change
+TH02518,57,23,37.4,4,1,High,Healthy,0.5,No Alert,No Change
+TH02519,35,9,36.9,5,1,Medium,Critical,0.73,Emergency,Veterinary Checkup
+TH02520,38,16,36.6,6,2,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH02521,37,12,38.0,6,2,High,Critical,0.89,Emergency,Veterinary Checkup
+TH02522,53,18,36.6,5,2,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH02523,54,18,37.6,6,3,High,Healthy,0.54,No Alert,No Change
+TH02524,49,15,37.9,9,2,High,Healthy,0.28,No Alert,No Change
+TH02525,56,21,36.8,5,4,Medium,Healthy,0.51,No Alert,No Change
+TH02526,33,11,37.0,6,3,Medium,Critical,0.21,Emergency,Veterinary Checkup
+TH02527,61,19,38.1,4,2,High,Healthy,0.92,No Alert,No Change
+TH02528,60,17,37.8,3,4,High,Healthy,0.62,No Alert,No Change
+TH02529,52,16,37.2,6,2,High,Healthy,0.88,No Alert,No Change
+TH02530,62,17,38.1,5,2,High,Healthy,0.25,No Alert,No Change
+TH02531,30,10,38.1,4,3,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH02532,39,11,37.6,5,4,High,Critical,0.41,Emergency,Veterinary Checkup
+TH02533,37,12,37.0,7,1,High,Critical,0.51,Emergency,Veterinary Checkup
+TH02534,52,20,37.3,1,2,High,Healthy,0.84,No Alert,No Change
+TH02535,34,14,37.6,1,3,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH02536,52,17,37.4,1,4,High,Healthy,0.36,No Alert,No Change
+TH02537,58,19,38.0,2,2,High,Healthy,0.25,No Alert,No Change
+TH02538,51,21,36.7,9,1,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH02539,47,17,36.8,5,4,Medium,Healthy,0.81,No Alert,No Change
+TH02540,35,11,37.6,9,4,High,Critical,0.56,Emergency,Veterinary Checkup
+TH02541,36,9,37.3,5,3,High,Critical,0.78,Emergency,Veterinary Checkup
+TH02542,57,20,37.2,7,2,High,Healthy,0.75,No Alert,No Change
+TH02543,52,19,36.6,6,2,Medium,Critical,0.31,Emergency,Veterinary Checkup
+TH02544,44,13,37.5,2,4,High,Healthy,0.31,No Alert,No Change
+TH02545,40,14,37.5,3,2,High,Healthy,0.8,No Alert,No Change
+TH02546,30,9,37.8,5,4,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02547,34,11,37.5,4,1,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH02548,64,16,37.4,6,3,High,Healthy,0.26,No Alert,No Change
+TH02549,32,10,38.1,8,2,Medium,Critical,0.21,Emergency,Veterinary Checkup
+TH02550,46,17,36.8,8,2,Medium,Healthy,0.43,No Alert,No Change
+TH02551,55,17,37.8,3,3,High,Healthy,0.21,No Alert,No Change
+TH02552,32,11,36.7,4,1,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH02553,46,14,37.1,1,1,High,Healthy,0.54,No Alert,No Change
+TH02554,54,19,36.9,2,1,Medium,Healthy,0.3,No Alert,No Change
+TH02555,45,15,37.9,9,1,High,Healthy,0.28,No Alert,No Change
+TH02556,73,22,37.5,2,1,Low,Critical,0.92,Emergency,Veterinary Checkup
+TH02557,30,13,37.5,6,4,Medium,Critical,0.67,Emergency,Veterinary Checkup
+TH02558,55,20,36.9,7,2,Medium,Healthy,0.95,No Alert,No Change
+TH02559,43,13,37.4,6,2,High,Healthy,0.48,No Alert,No Change
+TH02560,52,18,37.1,8,2,High,Healthy,0.74,No Alert,No Change
+TH02561,49,17,37.7,9,4,High,Healthy,0.36,No Alert,No Change
+TH02562,37,14,37.0,8,3,High,Critical,0.69,Emergency,Veterinary Checkup
+TH02563,47,12,38.2,5,1,High,Healthy,0.3,No Alert,No Change
+TH02564,30,12,36.7,8,3,Medium,Critical,0.2,Emergency,Veterinary Checkup
+TH02565,51,16,37.1,9,1,High,Healthy,0.95,No Alert,No Change
+TH02566,47,15,38.3,8,1,High,Healthy,0.64,No Alert,No Change
+TH02567,51,22,37.3,2,3,High,Healthy,0.94,No Alert,No Change
+TH02568,55,19,36.8,2,2,Medium,Healthy,0.47,No Alert,No Change
+TH02569,48,15,37.6,3,4,High,Healthy,0.46,No Alert,No Change
+TH02570,46,11,37.3,7,3,High,Healthy,0.52,No Alert,No Change
+TH02571,36,15,37.1,9,2,High,Critical,0.76,Emergency,Veterinary Checkup
+TH02572,37,10,37.0,8,1,High,Critical,0.65,Emergency,Veterinary Checkup
+TH02573,56,17,38.9,9,2,High,Healthy,0.94,No Alert,No Change
+TH02574,59,19,37.4,6,1,High,Healthy,0.22,No Alert,No Change
+TH02575,42,17,36.5,1,1,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH02576,45,17,38.2,4,2,High,Healthy,0.46,No Alert,No Change
+TH02577,35,11,37.8,6,1,High,Critical,0.34,Emergency,Veterinary Checkup
+TH02578,56,19,37.1,6,4,High,Healthy,0.61,No Alert,No Change
+TH02579,51,16,37.0,8,2,High,Healthy,0.6,No Alert,No Change
+TH02580,64,22,37.8,1,3,High,Healthy,0.31,No Alert,No Change
+TH02581,36,12,37.4,2,1,High,Critical,0.36,Emergency,Veterinary Checkup
+TH02582,41,16,36.5,2,1,Medium,Critical,0.53,Emergency,Veterinary Checkup
+TH02583,47,18,38.4,6,4,High,Healthy,0.53,No Alert,No Change
+TH02584,51,18,37.3,7,4,High,Healthy,0.45,No Alert,No Change
+TH02585,42,13,38.2,2,3,High,Healthy,0.32,No Alert,No Change
+TH02586,36,13,38.1,5,1,High,Critical,0.2,Emergency,Veterinary Checkup
+TH02587,53,17,37.0,6,3,High,Healthy,0.98,No Alert,No Change
+TH02588,52,15,38.0,4,3,High,Healthy,0.95,No Alert,No Change
+TH02589,35,11,37.2,1,1,High,Critical,0.59,Emergency,Veterinary Checkup
+TH02590,58,20,36.6,3,3,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH02591,56,20,37.3,9,3,High,Healthy,0.74,No Alert,No Change
+TH02592,46,15,37.7,6,4,High,Healthy,0.26,No Alert,No Change
+TH02593,45,13,37.3,2,4,High,Healthy,0.29,No Alert,No Change
+TH02594,50,17,37.3,9,3,High,Healthy,0.93,No Alert,No Change
+TH02595,36,12,38.1,4,1,High,Critical,0.7,Emergency,Veterinary Checkup
+TH02596,45,15,37.6,8,4,High,Healthy,0.87,No Alert,No Change
+TH02597,30,12,37.1,7,3,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH02598,53,20,37.9,3,2,High,Healthy,0.56,No Alert,No Change
+TH02599,30,9,37.6,8,2,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH02600,60,19,36.5,4,3,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH02601,41,12,37.7,2,2,High,Healthy,0.25,No Alert,No Change
+TH02602,42,15,37.7,5,4,High,Healthy,0.35,No Alert,No Change
+TH02603,38,16,37.5,1,1,High,Critical,0.53,Emergency,Veterinary Checkup
+TH02604,42,13,37.9,8,3,High,Healthy,0.29,No Alert,No Change
+TH02605,59,19,37.2,8,4,High,Healthy,0.33,No Alert,No Change
+TH02606,30,13,37.7,3,1,Medium,Critical,0.56,Emergency,Veterinary Checkup
+TH02607,57,20,36.7,1,2,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH02608,48,17,37.7,4,2,High,Healthy,0.57,No Alert,No Change
+TH02609,32,8,38.5,9,2,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH02610,34,13,37.0,9,2,Medium,Critical,0.72,Emergency,Veterinary Checkup
+TH02611,61,18,37.1,1,4,High,Healthy,0.95,No Alert,No Change
+TH02612,35,9,37.1,7,4,High,Critical,0.29,Emergency,Veterinary Checkup
+TH02613,33,10,37.6,6,1,Medium,Critical,0.28,Emergency,Veterinary Checkup
+TH02614,56,17,37.0,7,3,High,Healthy,0.88,No Alert,No Change
+TH02615,48,16,37.7,7,1,High,Healthy,0.61,No Alert,No Change
+TH02616,35,9,37.9,8,3,High,Critical,0.81,Emergency,Veterinary Checkup
+TH02617,47,18,37.8,8,2,High,Healthy,0.37,No Alert,No Change
+TH02618,34,14,36.6,2,2,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02619,56,15,38.0,4,2,High,Healthy,0.94,No Alert,No Change
+TH02620,55,20,38.0,4,2,High,Healthy,0.71,No Alert,No Change
+TH02621,50,15,37.9,8,4,High,Healthy,0.28,No Alert,No Change
+TH02622,48,18,37.7,3,1,High,Healthy,0.92,No Alert,No Change
+TH02623,62,21,37.6,3,3,High,Healthy,0.83,No Alert,No Change
+TH02624,44,15,38.0,2,3,High,Healthy,0.8,No Alert,No Change
+TH02625,33,11,38.5,1,4,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH02626,49,19,37.0,8,2,High,Healthy,0.84,No Alert,No Change
+TH02627,65,19,38.0,9,1,High,Healthy,0.31,No Alert,No Change
+TH02628,34,13,37.5,9,2,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH02629,41,16,37.4,8,4,High,Healthy,0.66,No Alert,No Change
+TH02630,49,18,36.7,5,3,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH02631,44,19,37.4,1,4,High,Healthy,0.73,No Alert,No Change
+TH02632,35,11,37.0,9,3,High,Critical,0.69,Emergency,Veterinary Checkup
+TH02633,56,21,37.3,6,1,High,Healthy,0.29,No Alert,No Change
+TH02634,68,22,37.0,7,3,Low,Healthy,0.72,No Alert,No Change
+TH02635,46,18,37.3,8,1,High,Healthy,0.94,No Alert,No Change
+TH02636,35,12,37.3,5,2,High,Critical,0.33,Emergency,Veterinary Checkup
+TH02637,30,9,37.5,6,2,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH02638,47,18,36.7,7,4,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH02639,56,18,36.8,7,1,Medium,Healthy,0.57,No Alert,No Change
+TH02640,49,14,37.7,2,2,High,Healthy,0.43,No Alert,No Change
+TH02641,44,14,37.1,1,1,High,Healthy,0.48,No Alert,No Change
+TH02642,39,14,38.0,8,2,High,Critical,0.22,Emergency,Veterinary Checkup
+TH02643,34,14,37.6,5,2,Medium,Critical,0.99,Emergency,Veterinary Checkup
+TH02644,53,18,37.8,2,3,High,Healthy,0.7,No Alert,No Change
+TH02645,54,21,38.2,3,4,High,Healthy,0.6,No Alert,No Change
+TH02646,30,8,37.3,6,3,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH02647,60,19,37.2,6,1,High,Healthy,0.63,No Alert,No Change
+TH02648,50,16,37.9,8,2,High,Healthy,0.5,No Alert,No Change
+TH02649,58,19,37.8,5,4,High,Healthy,0.49,No Alert,No Change
+TH02650,31,11,37.4,5,2,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH02651,31,12,38.2,7,2,Medium,Critical,0.42,Emergency,Veterinary Checkup
+TH02652,43,13,37.4,5,3,High,Healthy,0.34,No Alert,No Change
+TH02653,50,17,37.5,9,1,High,Healthy,0.65,No Alert,No Change
+TH02654,62,21,37.5,6,4,High,Healthy,0.87,No Alert,No Change
+TH02655,52,15,37.0,7,4,High,Healthy,0.32,No Alert,No Change
+TH02656,42,14,37.5,8,4,High,Healthy,0.23,No Alert,No Change
+TH02657,34,11,38.2,5,1,Medium,Critical,0.4,Emergency,Veterinary Checkup
+TH02658,57,19,37.7,4,4,High,Healthy,0.98,No Alert,No Change
+TH02659,35,12,37.5,8,1,High,Critical,0.86,Emergency,Veterinary Checkup
+TH02660,61,20,37.4,9,4,High,Healthy,0.68,No Alert,No Change
+TH02661,42,13,37.7,1,2,High,Healthy,0.94,No Alert,No Change
+TH02662,60,23,37.9,3,1,High,Healthy,0.56,No Alert,No Change
+TH02663,51,15,37.8,4,3,High,Healthy,0.99,No Alert,No Change
+TH02664,43,13,37.3,7,4,High,Healthy,0.44,No Alert,No Change
+TH02665,39,19,37.7,6,3,High,Critical,0.39,Emergency,Veterinary Checkup
+TH02666,41,12,37.7,1,1,High,Healthy,0.71,No Alert,No Change
+TH02667,49,14,37.0,4,2,High,Healthy,0.5,No Alert,No Change
+TH02668,45,16,37.6,6,3,High,Healthy,0.7,No Alert,No Change
+TH02669,39,9,36.5,3,3,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH02670,43,14,37.7,2,2,High,Healthy,0.69,No Alert,No Change
+TH02671,45,19,37.8,2,2,High,Healthy,0.42,No Alert,No Change
+TH02672,30,8,37.9,4,1,Medium,Critical,0.24,Emergency,Veterinary Checkup
+TH02673,49,12,37.3,1,4,High,Healthy,0.93,No Alert,No Change
+TH02674,35,9,37.7,2,3,High,Critical,0.91,Emergency,Veterinary Checkup
+TH02675,33,13,38.2,2,3,Medium,Critical,0.98,Emergency,Veterinary Checkup
+TH02676,30,12,38.2,4,1,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH02677,30,9,37.5,4,4,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH02678,31,12,37.6,1,1,Medium,Critical,0.65,Emergency,Veterinary Checkup
+TH02679,37,15,38.1,7,3,High,Critical,0.3,Emergency,Veterinary Checkup
+TH02680,64,25,36.7,7,3,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH02681,39,13,37.3,1,2,High,Critical,0.43,Emergency,Veterinary Checkup
+TH02682,46,11,38.2,8,2,High,Healthy,0.91,No Alert,No Change
+TH02683,49,15,38.0,7,4,High,Healthy,0.34,No Alert,No Change
+TH02684,46,14,37.7,7,3,High,Healthy,0.94,No Alert,No Change
+TH02685,44,14,36.7,6,3,Medium,Critical,0.62,Emergency,Veterinary Checkup
+TH02686,33,11,37.5,4,2,Medium,Critical,0.77,Emergency,Veterinary Checkup
+TH02687,59,22,37.2,8,1,High,Healthy,0.29,No Alert,No Change
+TH02688,63,24,37.7,2,1,High,Healthy,0.42,No Alert,No Change
+TH02689,30,10,37.1,7,3,Medium,Critical,0.97,Emergency,Veterinary Checkup
+TH02690,34,14,37.0,3,3,Medium,Critical,0.41,Emergency,Veterinary Checkup
+TH02691,42,15,36.5,3,4,Medium,Critical,0.44,Emergency,Veterinary Checkup
+TH02692,35,12,38.1,7,4,High,Critical,0.36,Emergency,Veterinary Checkup
+TH02693,50,18,37.3,3,2,High,Healthy,0.3,No Alert,No Change
+TH02694,37,12,37.6,5,3,High,Critical,0.39,Emergency,Veterinary Checkup
+TH02695,66,26,37.5,8,1,Low,Healthy,0.71,No Alert,No Change
+TH02696,56,16,37.0,4,4,High,Healthy,0.56,No Alert,No Change
+TH02697,47,15,36.9,7,2,Medium,Healthy,0.64,No Alert,No Change
+TH02698,55,18,37.0,7,2,High,Healthy,0.3,No Alert,No Change
+TH02699,56,20,37.1,2,1,High,Healthy,0.84,No Alert,No Change
+TH02700,39,16,37.7,8,4,High,Critical,0.83,Emergency,Veterinary Checkup
+TH02701,36,12,37.1,9,1,High,Critical,0.22,Emergency,Veterinary Checkup
+TH02702,45,12,38.4,6,2,High,Healthy,0.51,No Alert,No Change
+TH02703,53,19,38.0,5,3,High,Healthy,0.26,No Alert,No Change
+TH02704,46,17,37.9,1,1,High,Healthy,0.83,No Alert,No Change
+TH02705,30,8,37.4,1,2,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02706,36,12,38.3,9,3,High,Critical,0.92,Emergency,Veterinary Checkup
+TH02707,44,11,37.4,4,3,High,Healthy,0.39,No Alert,No Change
+TH02708,44,13,37.5,1,4,High,Healthy,0.57,No Alert,No Change
+TH02709,64,20,37.6,3,4,High,Healthy,0.35,No Alert,No Change
+TH02710,31,12,37.9,6,2,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH02711,50,17,37.8,8,1,High,Healthy,0.62,No Alert,No Change
+TH02712,59,17,37.3,2,3,High,Healthy,0.24,No Alert,No Change
+TH02713,67,24,37.2,8,4,Low,Healthy,0.77,No Alert,No Change
+TH02714,40,10,37.8,1,4,High,Healthy,0.63,No Alert,No Change
+TH02715,49,17,37.9,2,1,High,Healthy,0.86,No Alert,No Change
+TH02716,50,15,37.3,8,4,High,Healthy,0.42,No Alert,No Change
+TH02717,46,15,36.7,7,2,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH02718,44,16,37.4,5,1,High,Healthy,1.0,No Alert,No Change
+TH02719,49,17,37.8,2,3,High,Healthy,0.94,No Alert,No Change
+TH02720,30,13,38.4,9,2,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH02721,51,17,36.9,5,3,Medium,Healthy,0.85,No Alert,No Change
+TH02722,46,16,37.3,8,3,High,Healthy,0.66,No Alert,No Change
+TH02723,42,13,37.3,4,4,High,Healthy,0.35,No Alert,No Change
+TH02724,65,22,38.2,9,2,High,Healthy,0.74,No Alert,No Change
+TH02725,38,14,37.5,7,2,High,Critical,0.77,Emergency,Veterinary Checkup
+TH02726,40,13,37.0,2,1,High,Healthy,0.99,No Alert,No Change
+TH02727,64,18,37.8,3,2,High,Healthy,0.63,No Alert,No Change
+TH02728,36,13,37.3,2,1,High,Critical,0.42,Emergency,Veterinary Checkup
+TH02729,39,14,36.9,5,2,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH02730,43,13,37.1,2,3,High,Healthy,0.98,No Alert,No Change
+TH02731,53,15,38.4,5,1,High,Healthy,0.34,No Alert,No Change
+TH02732,47,19,37.7,9,2,High,Healthy,0.46,No Alert,No Change
+TH02733,32,12,37.6,2,1,Medium,Critical,0.63,Emergency,Veterinary Checkup
+TH02734,39,13,37.4,9,4,High,Critical,0.34,Emergency,Veterinary Checkup
+TH02735,38,10,37.6,7,4,High,Critical,0.22,Emergency,Veterinary Checkup
+TH02736,44,13,37.6,7,1,High,Healthy,0.47,No Alert,No Change
+TH02737,49,19,37.6,5,1,High,Healthy,0.89,No Alert,No Change
+TH02738,49,17,37.6,8,3,High,Healthy,0.23,No Alert,No Change
+TH02739,30,9,37.9,7,2,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH02740,55,19,37.5,6,4,High,Healthy,0.81,No Alert,No Change
+TH02741,47,14,37.0,2,4,High,Healthy,0.96,No Alert,No Change
+TH02742,58,22,37.2,6,2,High,Healthy,0.99,No Alert,No Change
+TH02743,49,19,36.5,2,4,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH02744,56,18,38.5,1,4,High,Healthy,0.96,No Alert,No Change
+TH02745,49,15,37.9,9,1,High,Healthy,0.23,No Alert,No Change
+TH02746,58,14,37.1,5,4,High,Healthy,0.8,No Alert,No Change
+TH02747,50,14,37.4,4,4,High,Healthy,0.71,No Alert,No Change
+TH02748,44,12,37.2,8,4,High,Healthy,0.4,No Alert,No Change
+TH02749,67,23,38.3,5,2,Low,Healthy,0.61,No Alert,No Change
+TH02750,53,17,36.8,7,3,Medium,Healthy,0.3,No Alert,No Change
+TH02751,50,14,37.6,3,1,High,Healthy,0.9,No Alert,No Change
+TH02752,32,10,37.4,8,3,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH02753,32,12,37.9,8,4,Medium,Critical,0.7,Emergency,Veterinary Checkup
+TH02754,47,17,37.4,3,4,High,Healthy,0.33,No Alert,No Change
+TH02755,46,12,36.6,9,4,Medium,Critical,0.36,Emergency,Veterinary Checkup
+TH02756,38,12,37.4,8,3,High,Critical,0.99,Emergency,Veterinary Checkup
+TH02757,46,13,37.0,1,2,High,Healthy,0.8,No Alert,No Change
+TH02758,60,22,37.5,8,2,High,Healthy,0.97,No Alert,No Change
+TH02759,51,19,38.2,4,1,High,Healthy,0.44,No Alert,No Change
+TH02760,33,9,36.6,6,3,Medium,Critical,0.33,Emergency,Veterinary Checkup
+TH02761,43,13,37.1,9,2,High,Healthy,0.6,No Alert,No Change
+TH02762,36,11,37.2,5,1,High,Critical,0.6,Emergency,Veterinary Checkup
+TH02763,41,9,37.3,7,4,High,Healthy,0.34,No Alert,No Change
+TH02764,40,14,37.9,1,4,High,Healthy,0.79,No Alert,No Change
+TH02765,40,13,37.4,9,1,High,Healthy,0.49,No Alert,No Change
+TH02766,32,13,37.7,6,2,Medium,Critical,0.35,Emergency,Veterinary Checkup
+TH02767,43,12,37.2,4,3,High,Healthy,0.47,No Alert,No Change
+TH02768,39,12,37.6,6,1,High,Critical,0.65,Emergency,Veterinary Checkup
+TH02769,30,8,37.9,5,2,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02770,65,20,37.1,3,1,High,Healthy,0.59,No Alert,No Change
+TH02771,55,16,37.9,7,2,High,Healthy,0.62,No Alert,No Change
+TH02772,41,16,37.5,3,4,High,Healthy,0.31,No Alert,No Change
+TH02773,45,14,38.0,2,1,High,Healthy,0.93,No Alert,No Change
+TH02774,33,11,37.4,4,3,Medium,Critical,0.94,Emergency,Veterinary Checkup
+TH02775,61,20,37.7,7,1,High,Healthy,0.75,No Alert,No Change
+TH02776,63,18,37.5,5,4,High,Healthy,0.21,No Alert,No Change
+TH02777,46,15,37.5,9,4,High,Healthy,0.63,No Alert,No Change
+TH02778,55,20,37.6,7,2,High,Healthy,0.7,No Alert,No Change
+TH02779,46,13,37.8,9,4,High,Healthy,1.0,No Alert,No Change
+TH02780,31,12,36.9,9,2,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH02781,40,12,38.2,2,4,High,Healthy,0.89,No Alert,No Change
+TH02782,46,14,36.6,1,2,Medium,Critical,0.25,Emergency,Veterinary Checkup
+TH02783,40,14,37.2,4,3,High,Healthy,0.96,No Alert,No Change
+TH02784,42,13,37.5,4,2,High,Healthy,0.69,No Alert,No Change
+TH02785,44,15,37.7,2,2,High,Healthy,0.84,No Alert,No Change
+TH02786,44,14,38.3,3,3,High,Healthy,0.53,No Alert,No Change
+TH02787,45,15,36.6,3,2,Medium,Critical,0.46,Emergency,Veterinary Checkup
+TH02788,34,8,37.2,5,2,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH02789,37,9,36.5,1,3,Medium,Critical,0.32,Emergency,Veterinary Checkup
+TH02790,32,12,37.5,9,4,Medium,Critical,0.49,Emergency,Veterinary Checkup
+TH02791,54,20,37.6,8,1,High,Healthy,0.89,No Alert,No Change
+TH02792,30,8,38.3,8,2,Medium,Critical,0.23,Emergency,Veterinary Checkup
+TH02793,56,18,37.6,3,4,High,Healthy,0.32,No Alert,No Change
+TH02794,58,20,38.0,2,1,High,Healthy,0.3,No Alert,No Change
+TH02795,41,15,37.8,1,3,High,Healthy,0.52,No Alert,No Change
+TH02796,30,8,37.3,6,2,Medium,Critical,1.0,Emergency,Veterinary Checkup
+TH02797,41,12,36.8,1,2,Medium,Healthy,0.34,No Alert,No Change
+TH02798,44,14,37.6,5,3,High,Healthy,0.32,No Alert,No Change
+TH02799,34,13,36.8,9,2,Medium,Critical,0.93,Emergency,Veterinary Checkup
+TH02800,39,18,38.1,9,1,High,Critical,0.91,Emergency,Veterinary Checkup
+TH02801,60,20,37.4,4,1,High,Healthy,0.23,No Alert,No Change
+TH02802,51,14,38.1,7,3,High,Healthy,0.8,No Alert,No Change
+TH02803,35,12,37.3,7,2,High,Critical,0.72,Emergency,Veterinary Checkup
+TH02804,30,13,37.6,4,4,Medium,Critical,0.81,Emergency,Veterinary Checkup
+TH02805,41,14,37.6,5,2,High,Healthy,0.6,No Alert,No Change
+TH02806,42,12,37.5,9,3,High,Healthy,0.99,No Alert,No Change
+TH02807,49,18,37.3,7,4,High,Healthy,0.24,No Alert,No Change
+TH02808,39,14,37.7,7,1,High,Critical,0.39,Emergency,Veterinary Checkup
+TH02809,50,15,37.0,7,1,High,Healthy,0.52,No Alert,No Change
+TH02810,64,22,36.9,9,4,Medium,Healthy,0.56,No Alert,No Change
+TH02811,53,20,38.1,5,4,High,Healthy,0.94,No Alert,No Change
+TH02812,44,17,37.9,6,3,High,Healthy,0.65,No Alert,No Change
+TH02813,43,14,37.5,3,2,High,Healthy,0.24,No Alert,No Change
+TH02814,41,13,38.3,1,1,High,Healthy,0.53,No Alert,No Change
+TH02815,56,21,37.4,2,2,High,Healthy,0.53,No Alert,No Change
+TH02816,38,10,38.2,8,1,High,Critical,0.97,Emergency,Veterinary Checkup
+TH02817,45,16,37.6,1,2,High,Healthy,0.68,No Alert,No Change
+TH02818,45,12,37.0,7,1,High,Healthy,0.71,No Alert,No Change
+TH02819,39,15,38.4,5,2,High,Critical,0.77,Emergency,Veterinary Checkup
+TH02820,31,10,38.0,6,3,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH02821,48,19,37.4,8,1,High,Healthy,0.71,No Alert,No Change
+TH02822,44,16,37.9,4,3,High,Healthy,0.39,No Alert,No Change
+TH02823,50,14,37.3,6,1,High,Healthy,0.9,No Alert,No Change
+TH02824,39,16,37.9,3,1,High,Critical,0.79,Emergency,Veterinary Checkup
+TH02825,57,22,36.5,7,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02826,36,14,37.0,2,2,High,Critical,1.0,Emergency,Veterinary Checkup
+TH02827,62,19,38.0,8,1,High,Healthy,0.84,No Alert,No Change
+TH02828,30,9,37.4,7,3,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02829,49,17,37.6,8,2,High,Healthy,0.96,No Alert,No Change
+TH02830,49,15,36.8,2,2,Medium,Healthy,0.32,No Alert,No Change
+TH02831,37,16,38.4,3,1,High,Critical,0.6,Emergency,Veterinary Checkup
+TH02832,49,17,38.1,4,4,High,Healthy,0.66,No Alert,No Change
+TH02833,57,14,37.4,9,2,High,Healthy,0.46,No Alert,No Change
+TH02834,30,11,37.3,5,1,Medium,Critical,0.87,Emergency,Veterinary Checkup
+TH02835,50,16,38.0,6,3,High,Healthy,0.81,No Alert,No Change
+TH02836,30,10,38.5,1,4,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02837,35,11,38.0,4,2,High,Critical,1.0,Emergency,Veterinary Checkup
+TH02838,61,22,38.6,4,4,High,Healthy,0.41,No Alert,No Change
+TH02839,39,15,37.0,8,2,High,Critical,0.79,Emergency,Veterinary Checkup
+TH02840,33,12,37.1,8,4,Medium,Critical,0.64,Emergency,Veterinary Checkup
+TH02841,43,14,36.9,6,4,Medium,Healthy,0.45,No Alert,No Change
+TH02842,65,22,37.7,8,3,High,Healthy,0.33,No Alert,No Change
+TH02843,30,10,37.6,9,4,Medium,Critical,0.92,Emergency,Veterinary Checkup
+TH02844,34,10,37.4,5,3,Medium,Critical,0.68,Emergency,Veterinary Checkup
+TH02845,59,21,37.9,1,1,High,Healthy,0.86,No Alert,No Change
+TH02846,63,22,38.1,1,2,High,Healthy,0.64,No Alert,No Change
+TH02847,43,17,36.7,2,3,Medium,Critical,0.38,Emergency,Veterinary Checkup
+TH02848,32,13,37.2,2,2,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH02849,65,20,37.9,5,3,High,Healthy,0.51,No Alert,No Change
+TH02850,60,22,37.3,7,2,High,Healthy,0.98,No Alert,No Change
+TH02851,51,15,37.1,7,3,High,Healthy,0.2,No Alert,No Change
+TH02852,36,13,38.0,4,2,High,Critical,0.99,Emergency,Veterinary Checkup
+TH02853,44,14,36.9,4,1,Medium,Healthy,0.98,No Alert,No Change
+TH02854,43,12,37.3,3,2,High,Healthy,1.0,No Alert,No Change
+TH02855,48,17,37.7,2,1,High,Healthy,0.58,No Alert,No Change
+TH02856,59,14,37.2,3,1,High,Healthy,0.97,No Alert,No Change
+TH02857,53,14,37.9,8,1,High,Healthy,0.52,No Alert,No Change
+TH02858,34,11,37.2,1,4,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH02859,58,19,38.2,4,2,High,Healthy,0.38,No Alert,No Change
+TH02860,48,15,37.4,7,4,High,Healthy,0.96,No Alert,No Change
+TH02861,51,14,37.8,5,4,High,Healthy,0.21,No Alert,No Change
+TH02862,59,18,37.9,2,2,High,Healthy,0.64,No Alert,No Change
+TH02863,33,12,37.2,1,1,Medium,Critical,0.26,Emergency,Veterinary Checkup
+TH02864,44,16,36.5,6,4,Medium,Critical,0.43,Emergency,Veterinary Checkup
+TH02865,39,13,37.7,5,4,High,Critical,0.27,Emergency,Veterinary Checkup
+TH02866,30,12,37.5,3,3,Medium,Critical,0.89,Emergency,Veterinary Checkup
+TH02867,48,17,37.8,9,2,High,Healthy,0.67,No Alert,No Change
+TH02868,70,22,37.4,3,4,Low,Healthy,0.92,No Alert,No Change
+TH02869,30,9,37.3,2,2,Medium,Critical,0.75,Emergency,Veterinary Checkup
+TH02870,44,12,38.5,5,2,High,Healthy,0.98,No Alert,No Change
+TH02871,51,17,36.8,9,4,Medium,Healthy,0.61,No Alert,No Change
+TH02872,46,18,37.9,8,2,High,Healthy,0.71,No Alert,No Change
+TH02873,43,16,37.2,6,1,High,Healthy,0.66,No Alert,No Change
+TH02874,32,13,37.3,3,4,Medium,Critical,0.59,Emergency,Veterinary Checkup
+TH02875,47,15,37.3,6,4,High,Healthy,0.88,No Alert,No Change
+TH02876,37,15,37.1,5,4,High,Critical,0.72,Emergency,Veterinary Checkup
+TH02877,30,10,37.8,1,3,Medium,Critical,0.84,Emergency,Veterinary Checkup
+TH02878,56,22,38.2,5,3,High,Healthy,0.83,No Alert,No Change
+TH02879,54,18,37.7,7,3,High,Healthy,0.35,No Alert,No Change
+TH02880,45,16,37.6,9,3,High,Healthy,0.72,No Alert,No Change
+TH02881,47,19,37.0,1,4,High,Healthy,0.36,No Alert,No Change
+TH02882,55,18,37.8,3,1,High,Healthy,0.67,No Alert,No Change
+TH02883,47,16,38.6,8,2,High,Healthy,0.74,No Alert,No Change
+TH02884,54,21,37.3,6,2,High,Healthy,1.0,No Alert,No Change
+TH02885,42,14,37.3,5,4,High,Healthy,0.22,No Alert,No Change
+TH02886,58,17,37.2,2,1,High,Healthy,0.27,No Alert,No Change
+TH02887,48,20,37.3,3,2,High,Healthy,0.26,No Alert,No Change
+TH02888,46,14,36.5,2,1,Medium,Critical,0.52,Emergency,Veterinary Checkup
+TH02889,32,11,37.7,1,4,Medium,Critical,0.86,Emergency,Veterinary Checkup
+TH02890,47,18,37.1,7,3,High,Healthy,0.88,No Alert,No Change
+TH02891,36,11,36.7,3,1,Medium,Critical,0.79,Emergency,Veterinary Checkup
+TH02892,38,11,37.9,7,2,High,Critical,0.92,Emergency,Veterinary Checkup
+TH02893,36,13,37.0,7,2,High,Critical,0.46,Emergency,Veterinary Checkup
+TH02894,34,8,37.3,8,2,Medium,Critical,0.27,Emergency,Veterinary Checkup
+TH02895,66,21,38.2,1,3,Low,Healthy,0.25,No Alert,No Change
+TH02896,58,20,36.8,5,1,Medium,Healthy,0.88,No Alert,No Change
+TH02897,64,21,36.7,9,1,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02898,32,8,37.6,7,2,Medium,Critical,0.76,Emergency,Veterinary Checkup
+TH02899,45,18,38.1,1,1,High,Healthy,0.47,No Alert,No Change
+TH02900,32,11,36.7,8,2,Medium,Critical,0.5,Emergency,Veterinary Checkup
+TH02901,38,16,37.7,3,1,High,Critical,0.97,Emergency,Veterinary Checkup
+TH02902,35,11,37.8,4,3,High,Critical,0.25,Emergency,Veterinary Checkup
+TH02903,57,17,36.5,4,3,Medium,Critical,0.82,Emergency,Veterinary Checkup
+TH02904,41,14,37.9,8,4,High,Healthy,0.45,No Alert,No Change
+TH02905,55,18,37.9,1,4,High,Healthy,0.23,No Alert,No Change
+TH02906,51,15,37.3,8,4,High,Healthy,0.79,No Alert,No Change
+TH02907,68,26,38.1,9,1,Low,Healthy,0.46,No Alert,No Change
+TH02908,30,9,38.1,9,3,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02909,57,15,37.6,5,3,High,Healthy,0.77,No Alert,No Change
+TH02910,56,21,37.3,4,3,High,Healthy,0.63,No Alert,No Change
+TH02911,35,11,37.0,4,2,High,Critical,0.82,Emergency,Veterinary Checkup
+TH02912,55,17,37.5,9,1,High,Healthy,0.66,No Alert,No Change
+TH02913,48,12,37.8,8,1,High,Healthy,0.43,No Alert,No Change
+TH02914,42,17,37.3,7,4,High,Healthy,0.79,No Alert,No Change
+TH02915,36,9,36.5,3,2,Medium,Critical,0.67,Emergency,Veterinary Checkup
+TH02916,37,12,38.1,4,2,High,Critical,0.21,Emergency,Veterinary Checkup
+TH02917,65,23,37.6,9,3,High,Healthy,0.92,No Alert,No Change
+TH02918,45,16,37.3,8,4,High,Healthy,0.64,No Alert,No Change
+TH02919,52,17,37.9,1,1,High,Healthy,0.89,No Alert,No Change
+TH02920,37,9,38.3,3,2,High,Critical,0.91,Emergency,Veterinary Checkup
+TH02921,37,11,36.5,2,3,Medium,Critical,0.56,Emergency,Veterinary Checkup
+TH02922,55,19,37.7,2,1,High,Healthy,0.61,No Alert,No Change
+TH02923,31,9,36.8,8,3,Medium,Critical,0.53,Emergency,Veterinary Checkup
+TH02924,40,14,37.7,6,1,High,Healthy,0.56,No Alert,No Change
+TH02925,45,16,37.6,6,3,High,Healthy,0.92,No Alert,No Change
+TH02926,46,17,37.8,4,1,High,Healthy,0.83,No Alert,No Change
+TH02927,43,12,37.3,1,4,High,Healthy,0.3,No Alert,No Change
+TH02928,48,20,36.6,7,1,Medium,Critical,0.69,Emergency,Veterinary Checkup
+TH02929,51,19,37.3,8,1,High,Healthy,1.0,No Alert,No Change
+TH02930,52,17,37.7,2,1,High,Healthy,0.68,No Alert,No Change
+TH02931,35,14,38.0,2,3,High,Critical,0.83,Emergency,Veterinary Checkup
+TH02932,42,19,36.9,1,2,Medium,Healthy,0.82,No Alert,No Change
+TH02933,56,16,38.0,4,1,High,Healthy,0.48,No Alert,No Change
+TH02934,53,17,37.2,6,1,High,Healthy,0.5,No Alert,No Change
+TH02935,31,8,37.7,5,4,Medium,Critical,0.78,Emergency,Veterinary Checkup
+TH02936,48,16,37.2,4,1,High,Healthy,0.6,No Alert,No Change
+TH02937,30,11,37.6,4,4,Medium,Critical,0.66,Emergency,Veterinary Checkup
+TH02938,45,15,37.9,7,1,High,Healthy,0.77,No Alert,No Change
+TH02939,63,20,36.9,7,3,Medium,Healthy,0.82,No Alert,No Change
+TH02940,35,8,37.2,2,2,High,Critical,0.42,Emergency,Veterinary Checkup
+TH02941,36,13,37.6,7,2,High,Critical,0.32,Emergency,Veterinary Checkup
+TH02942,52,20,38.7,2,2,High,Healthy,0.43,No Alert,No Change
+TH02943,30,9,37.1,4,3,Medium,Critical,0.61,Emergency,Veterinary Checkup
+TH02944,38,14,38.5,1,4,High,Critical,0.47,Emergency,Veterinary Checkup
+TH02945,50,14,38.5,5,2,High,Healthy,0.65,No Alert,No Change
+TH02946,38,14,37.5,1,3,High,Critical,0.24,Emergency,Veterinary Checkup
+TH02947,42,13,37.4,4,3,High,Healthy,0.61,No Alert,No Change
+TH02948,52,16,37.2,9,1,High,Healthy,0.49,No Alert,No Change
+TH02949,49,15,37.5,8,4,High,Healthy,0.63,No Alert,No Change
+TH02950,47,15,36.8,6,3,Medium,Healthy,0.54,No Alert,No Change
+TH02951,41,14,37.5,8,4,High,Healthy,0.43,No Alert,No Change
+TH02952,48,13,38.2,5,2,High,Healthy,0.92,No Alert,No Change
+TH02953,43,14,37.2,7,2,High,Healthy,0.35,No Alert,No Change
+TH02954,49,16,37.4,8,2,High,Healthy,0.75,No Alert,No Change
+TH02955,40,11,36.6,7,1,Medium,Critical,0.94,Emergency,Veterinary Checkup
+TH02956,43,18,37.7,4,1,High,Healthy,0.63,No Alert,No Change
+TH02957,35,10,37.6,5,4,High,Critical,0.9,Emergency,Veterinary Checkup
+TH02958,44,13,37.5,6,4,High,Healthy,0.3,No Alert,No Change
+TH02959,36,10,37.4,6,1,High,Critical,0.6,Emergency,Veterinary Checkup
+TH02960,33,15,37.4,9,3,Medium,Critical,0.57,Emergency,Veterinary Checkup
+TH02961,47,17,37.8,2,4,High,Healthy,0.21,No Alert,No Change
+TH02962,47,14,37.5,6,4,High,Healthy,0.55,No Alert,No Change
+TH02963,52,20,37.7,3,2,High,Healthy,0.5,No Alert,No Change
+TH02964,40,14,37.6,2,4,High,Healthy,0.74,No Alert,No Change
+TH02965,49,17,38.1,6,4,High,Healthy,0.95,No Alert,No Change
+TH02966,50,16,37.8,4,3,High,Healthy,0.27,No Alert,No Change
+TH02967,49,15,37.6,5,4,High,Healthy,0.46,No Alert,No Change
+TH02968,36,13,38.3,5,3,High,Critical,0.56,Emergency,Veterinary Checkup
+TH02969,46,14,37.7,3,2,High,Healthy,0.56,No Alert,No Change
+TH02970,48,20,38.2,4,1,High,Healthy,0.82,No Alert,No Change
+TH02971,45,12,37.8,3,2,High,Healthy,0.55,No Alert,No Change
+TH02972,30,13,36.6,7,3,Medium,Critical,0.22,Emergency,Veterinary Checkup
+TH02973,46,15,38.2,1,3,High,Healthy,0.77,No Alert,No Change
+TH02974,67,23,37.6,6,4,Low,Healthy,0.91,No Alert,No Change
+TH02975,41,15,37.5,4,4,High,Healthy,0.61,No Alert,No Change
+TH02976,37,11,37.6,1,1,High,Critical,0.66,Emergency,Veterinary Checkup
+TH02977,48,18,37.3,1,3,High,Healthy,0.33,No Alert,No Change
+TH02978,48,11,37.6,5,3,High,Healthy,0.38,No Alert,No Change
+TH02979,56,17,37.2,5,2,High,Healthy,0.39,No Alert,No Change
+TH02980,32,9,38.1,7,1,Medium,Critical,0.54,Emergency,Veterinary Checkup
+TH02981,52,15,37.4,4,2,High,Healthy,0.94,No Alert,No Change
+TH02982,50,16,37.3,9,4,High,Healthy,0.62,No Alert,No Change
+TH02983,43,15,37.0,4,4,High,Healthy,0.35,No Alert,No Change
+TH02984,48,17,37.6,7,2,High,Healthy,0.41,No Alert,No Change
+TH02985,55,19,37.6,5,4,High,Healthy,0.51,No Alert,No Change
+TH02986,53,16,37.7,5,2,High,Healthy,0.7,No Alert,No Change
+TH02987,33,12,37.0,6,3,Medium,Critical,0.55,Emergency,Veterinary Checkup
+TH02988,53,18,36.7,8,3,Medium,Critical,0.51,Emergency,Veterinary Checkup
+TH02989,44,17,37.8,5,4,High,Healthy,0.65,No Alert,No Change
+TH02990,45,17,38.2,3,1,High,Healthy,0.39,No Alert,No Change
+TH02991,45,15,37.0,6,3,High,Healthy,0.26,No Alert,No Change
+TH02992,43,13,38.3,2,4,High,Healthy,0.22,No Alert,No Change
+TH02993,56,17,37.6,8,1,High,Healthy,0.4,No Alert,No Change
+TH02994,44,14,37.5,8,4,High,Healthy,0.27,No Alert,No Change
+TH02995,33,10,37.3,3,2,Medium,Critical,0.47,Emergency,Veterinary Checkup
+TH02996,41,14,36.8,8,4,Medium,Healthy,0.82,No Alert,No Change
+TH02997,46,17,38.0,9,2,High,Healthy,0.77,No Alert,No Change
+TH02998,57,19,37.1,5,3,High,Healthy,0.69,No Alert,No Change
+TH02999,51,17,37.1,5,3,High,Healthy,0.88,No Alert,No Change
+TH03000,36,12,38.0,6,4,High,Critical,0.43,Emergency,Veterinary Checkup

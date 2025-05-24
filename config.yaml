@@ -1,0 +1,13 @@
+model:
+  health_model_path: "health_model.pkl"
+  readiness_model_path: "readiness_model.pkl"
+  scaler_path: "scaler.pkl"
+
+database:
+  type: "mongodb"
+  uri: "mongodb://localhost:27017"
+  name: "thorocare_db"
+
+deployment:
+  host: "0.0.0.0"
+  port: 8000
